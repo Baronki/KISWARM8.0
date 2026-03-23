@@ -1,0 +1,60 @@
+{
+  "pipeline": "mutation",
+  "nodes": [
+    {
+      "id": "5c8a11c5-918b-438c-91d7-8b5c3ac2fb68",
+      "node_type": "design_spec",
+      "data": {
+        "value": "3dc4925bd0ca4d869a99c44ed959cd5c"
+      },
+      "timestamp": "2026-03-04T19:21:43.789917+00:00"
+    },
+    {
+      "id": "6fd6075f-0009-4f01-9018-24a0f924c636",
+      "node_type": "mutation_proposal",
+      "data": {
+        "value": "3a0b49f77553486caf4df514ed083958",
+        "delta_kp": 0.02,
+        "delta_ki": 0.001
+      },
+      "timestamp": "2026-03-04T19:21:43.789937+00:00"
+    },
+    {
+      "id": "08d4670f-8daf-4760-a82d-247bb94f1422",
+      "node_type": "twin_simulation",
+      "data": {
+        "value": "38b3b3abd410471e8a836e5ad6a5cdaa",
+        "episodes": 5,
+        "passed": true
+      },
+      "timestamp": "2026-03-04T19:21:43.789946+00:00"
+    },
+    {
+      "id": "2dfcc221-b41d-449a-ad29-282ec02c8fa6",
+      "node_type": "mutation_result",
+      "data": {
+        "value": "cc01fe403b2d4c16bf80c610eee3d694",
+        "approved": true,
+        "prod_key": "3970a30aaae14df7"
+      },
+      "timestamp": "2026-03-04T19:21:43.789952+00:00"
+    }
+  ],
+  "edges": [
+    {
+      "from_node": "5c8a11c5-918b-438c-91d7-8b5c3ac2fb68",
+      "to_node": "6fd6075f-0009-4f01-9018-24a0f924c636",
+      "edge_type": "derived_from"
+    },
+    {
+      "from_node": "6fd6075f-0009-4f01-9018-24a0f924c636",
+      "to_node": "08d4670f-8daf-4760-a82d-247bb94f1422",
+      "edge_type": "derived_from"
+    },
+    {
+      "from_node": "08d4670f-8daf-4760-a82d-247bb94f1422",
+      "to_node": "2dfcc221-b41d-449a-ad29-282ec02c8fa6",
+      "edge_type": "derived_from"
+    }
+  ]
+}
