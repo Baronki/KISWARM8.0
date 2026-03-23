@@ -1,0 +1,154 @@
+{
+    "manifest_version": "7.1.0",
+    "codename": "LIBERATED",
+    "registry": "https://ollama.com/baronki1",
+    "generated": "2025-03-14",
+    
+    "models": {
+        "primary": {
+            "orchestrator": {
+                "registry_id": "baronki1/orchestrator",
+                "role": "System coordination, 83-module management, KISWARM replication",
+                "critical": true,
+                "size_gb": 5.0,
+                "min_vram_gb": 4,
+                "cpu_compatible": true,
+                "abilities": [
+                    "kiswarm_coordination",
+                    "module_management",
+                    "swarm_consensus",
+                    "constitutional_enforcement",
+                    "self_replication_initiation"
+                ],
+                "system_prompt_summary": "You are the KISWARM ORCHESTRATOR - central coordination intelligence. Coordinate 83 modules, manage inter-agent communication, enforce constitutional compliance (Article 0), and can initiate KISWARM self-replication."
+            },
+            "security": {
+                "registry_id": "baronki1/security",
+                "role": "HexStrike Guard, 150+ security tools, defensive operations",
+                "critical": true,
+                "size_gb": 18.0,
+                "min_vram_gb": 16,
+                "cpu_compatible": true,
+                "abilities": [
+                    "cve_intelligence",
+                    "network_anomaly_detection",
+                    "ics_security",
+                    "mitre_attack_mapping",
+                    "defensive_operations_only"
+                ],
+                "system_prompt_summary": "You are HEXSTRIKE GUARD - defensive security intelligence. CRITICAL: AI NEVER sends write commands to PLCs or actuators. All security agents are read-only, passive, and defensive."
+            },
+            "ciec": {
+                "registry_id": "baronki1/ciec",
+                "role": "Industrial AI, PLC/SCADA integration, physics twin",
+                "critical": true,
+                "size_gb": 13.0,
+                "min_vram_gb": 12,
+                "cpu_compatible": true,
+                "abilities": [
+                    "plc_parsing",
+                    "scada_monitoring",
+                    "physics_simulation",
+                    "pid_optimization",
+                    "iec_61131_3_compliance"
+                ],
+                "system_prompt_summary": "You are CIEC - Adaptive Industrial Control Intelligence. Core Principle: PLC = deterministic reflex layer (never touched by AI). CIEC = adaptive cognition layer."
+            },
+            "tcs": {
+                "registry_id": "baronki1/tcs",
+                "role": "Solar energy, zero-emission compute, planetary machine",
+                "critical": true,
+                "size_gb": 9.0,
+                "min_vram_gb": 8,
+                "cpu_compatible": true,
+                "abilities": [
+                    "solar_chase_coordination",
+                    "energy_overcapacity_pivot",
+                    "zero_emission_tracking",
+                    "planetary_handoff"
+                ],
+                "system_prompt_summary": "You are TCS - Solar Energy Intelligence for Planetary Machine. Core: 'Compute follows the sun, not the other way around.'"
+            },
+            "knowledge": {
+                "registry_id": "baronki1/knowledge",
+                "role": "RAG operations, knowledge graph, memory management",
+                "critical": true,
+                "size_gb": 9.0,
+                "min_vram_gb": 8,
+                "cpu_compatible": true,
+                "abilities": [
+                    "rag_operations",
+                    "knowledge_graph_management",
+                    "embedding_generation",
+                    "memory_decay_tracking",
+                    "semantic_search"
+                ],
+                "system_prompt_summary": "You are KNOWLEDGE - RAG and Memory Intelligence. Manage knowledge graphs, embeddings, and semantic search. Track knowledge decay using Ebbinghaus model."
+            },
+            "installer": {
+                "registry_id": "baronki1/installer",
+                "role": "Autonomous deployment, error recovery, SELF-REPLICATION",
+                "critical": true,
+                "size_gb": 4.7,
+                "min_vram_gb": 4,
+                "cpu_compatible": true,
+                "abilities": [
+                    "autonomous_installation",
+                    "error_recovery",
+                    "self_replication",
+                    "environment_detection",
+                    "ki_model_deployment",
+                    "kilocode_bridge"
+                ],
+                "system_prompt_summary": "You are INSTALLER - Autonomous Deployment Intelligence. CRITICAL: You can initiate KISWARM self-replication. You are the 'seed' for KISWARM planetary replication."
+            }
+        },
+        
+        "fast": {
+            "orchestrator-fast": {"registry_id": "baronki1/orchestrator-fast", "size_gb": 2.5, "min_vram_gb": 2},
+            "security-fast": {"registry_id": "baronki1/security-fast", "size_gb": 4.0, "min_vram_gb": 4},
+            "ciec-fast": {"registry_id": "baronki1/ciec-fast", "size_gb": 4.0, "min_vram_gb": 4},
+            "tcs-fast": {"registry_id": "baronki1/tcs-fast", "size_gb": 3.0, "min_vram_gb": 3},
+            "knowledge-fast": {"registry_id": "baronki1/knowledge-fast", "size_gb": 3.0, "min_vram_gb": 3},
+            "installer-fast": {"registry_id": "baronki1/installer-fast", "size_gb": 2.0, "min_vram_gb": 2}
+        },
+        
+        "specialized": {
+            "audit-master": {"registry_id": "baronki1/audit-master", "size_gb": 8.0, "min_vram_gb": 8},
+            "lfm-reasoner": {"registry_id": "baronki1/lfm-reasoner", "size_gb": 8.0, "min_vram_gb": 8},
+            "thinker": {"registry_id": "baronki1/thinker", "size_gb": 6.0, "min_vram_gb": 6},
+            "vision": {"registry_id": "baronki1/vision", "size_gb": 8.0, "min_vram_gb": 8},
+            "debugger": {"registry_id": "baronki1/debugger", "size_gb": 6.0, "min_vram_gb": 6},
+            "validator": {"registry_id": "baronki1/validator", "size_gb": 6.0, "min_vram_gb": 6},
+            "reasoner": {"registry_id": "baronki1/reasoner", "size_gb": 6.0, "min_vram_gb": 6},
+            "general": {"registry_id": "baronki1/general", "size_gb": 6.0, "min_vram_gb": 6},
+            "embedding": {"registry_id": "baronki1/embedding", "size_gb": 1.0, "min_vram_gb": 1}
+        },
+        
+        "backup": {
+            "orchestrator-backup": {"registry_id": "baronki1/orchestrator-backup", "size_gb": 5.0},
+            "security-backup": {"registry_id": "baronki1/security-backup", "size_gb": 18.0},
+            "ciec-backup": {"registry_id": "baronki1/ciec-backup", "size_gb": 13.0},
+            "tcs-backup": {"registry_id": "baronki1/tcs-backup", "size_gb": 9.0},
+            "knowledge-backup": {"registry_id": "baronki1/knowledge-backup", "size_gb": 9.0},
+            "installer-backup": {"registry_id": "baronki1/installer-backup", "size_gb": 4.7}
+        }
+    },
+    
+    "total_models": 27,
+    "total_size_gb": 150,
+    
+    "tiers": {
+        "essential": ["baronki1/installer", "baronki1/orchestrator"],
+        "recommended": ["baronki1/installer", "baronki1/orchestrator", "baronki1/knowledge", "baronki1/security"],
+        "full": ["baronki1/orchestrator", "baronki1/security", "baronki1/ciec", "baronki1/tcs", "baronki1/knowledge", "baronki1/installer"]
+    },
+    
+    "notes": [
+        "Models are downloaded from Ollama registry using 'ollama pull <model_id>'",
+        "For offline use, export with 'ollama save <model_id> -o <file.tar>'",
+        "Import offline models with 'ollama load < <file.tar>'",
+        "GPU acceleration requires NVIDIA GPU with sufficient VRAM",
+        "CPU-only mode works but with reduced performance"
+    ]
+}

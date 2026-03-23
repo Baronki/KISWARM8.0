@@ -1,0 +1,20 @@
+{
+  "event_id": "85937ce2-d5c5-4163-827d-2285717f2792",
+  "event_type": "system_start",
+  "timestamp": 1773429404.663035,
+  "iso_timestamp": "2026-03-13T19:16:44.663035+00:00",
+  "source_module": "test",
+  "source_agent": "test_agent",
+  "description": "Test event",
+  "data": {
+    "test": true
+  },
+  "metadata": {},
+  "session_id": "e51f542c-49cd-4632-acfb-237ac8f32f0f",
+  "parent_event_id": null,
+  "correlation_id": "a27f85f5-1cab-4bae-80b5-2e81c8b9634a",
+  "checksum": "055569e1cfd7b0fc19ed3967f659cf9f",
+  "previous_checksum": "",
+  "observer_notes": [],
+  "cross_validated": false
+}

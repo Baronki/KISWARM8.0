@@ -1,0 +1,44 @@
+{
+  "event_id": "59f613ee-515a-496c-bce5-a419a318f6e3",
+  "event_type": "module_init",
+  "timestamp": 1773429476.6280863,
+  "iso_timestamp": "2026-03-13T19:17:56.628086+00:00",
+  "source_module": "m80_post_quantum",
+  "source_agent": "m83",
+  "description": "Module initialization test: passed",
+  "data": {
+    "module_name": "Post-Quantum Ledger",
+    "module_id": "m80_post_quantum",
+    "status": "passed",
+    "init_success": true,
+    "functional_test": false,
+    "error_message": "",
+    "duration_ms": 0.011444091796875,
+    "details": {
+      "exports": [
+        "PostQuantumLedger",
+        "SimulatedPQCrypto",
+        "PQPublicKey",
+        "PQPrivateKey",
+        "PQSignature",
+        "PQEncapsulation",
+        "PQLedgerEntry",
+        "AlgorithmType",
+        "SecurityLevel",
+        "get_pq_ledger",
+        "add_pq_entry",
+        "verify_pq_ledger"
+      ],
+      "has_docstring": true,
+      "docstring_preview": "\nKISWARM v6.4 \u2014 MODULE 80: POST-QUANTUM LEDGER\n==============================================\nQuantu"
+    }
+  },
+  "metadata": {},
+  "session_id": "dfc31db9-536b-492a-8d03-f5947f672abd",
+  "parent_event_id": null,
+  "correlation_id": "e5d43840-4dd1-4088-a2ab-ce367f65aebf",
+  "checksum": "cd2e0466bb93f9a0d9701a33471994a9",
+  "previous_checksum": "c93909c52c37503d8515b02ae08e484e",
+  "observer_notes": [],
+  "cross_validated": true
+}

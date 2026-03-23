@@ -1,0 +1,30 @@
+{
+  "event_id": "d0c00141-c0d7-4455-9292-9f3741be0226",
+  "event_type": "module_init",
+  "timestamp": 1773429476.624312,
+  "iso_timestamp": "2026-03-13T19:17:56.624312+00:00",
+  "source_module": "m73_aegis_training",
+  "source_agent": "m83",
+  "description": "Module initialization test: passed",
+  "data": {
+    "module_name": "AEGIS Training Integration",
+    "module_id": "m73_aegis_training",
+    "status": "passed",
+    "init_success": true,
+    "functional_test": false,
+    "error_message": "",
+    "duration_ms": 0.00476837158203125,
+    "details": {
+      "has_docstring": true,
+      "docstring_preview": "\nKISWARM6.0 AEGIS Training Integration Module (M73)\n================================================"
+    }
+  },
+  "metadata": {},
+  "session_id": "dfc31db9-536b-492a-8d03-f5947f672abd",
+  "parent_event_id": null,
+  "correlation_id": "e5d43840-4dd1-4088-a2ab-ce367f65aebf",
+  "checksum": "dcccbf85259f9ea0b7a912a1e7b8ee5a",
+  "previous_checksum": "fa1ea66332b061a5eac95636d7c0bb02",
+  "observer_notes": [],
+  "cross_validated": true
+}

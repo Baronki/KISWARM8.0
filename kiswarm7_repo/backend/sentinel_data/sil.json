@@ -1,0 +1,49 @@
+{
+  "pipeline": "sil",
+  "nodes": [
+    {
+      "id": "aa79e472-5f6d-4fec-9ac5-bcf80de7d125",
+      "node_type": "sil_assessment",
+      "data": {
+        "value": "2a9977cf9c5a45eca0ae06b4ec2b7c08",
+        "lambda_d": 1e-06,
+        "test_interval_h": 8760,
+        "architecture": "1oo1",
+        "target_sil": 2
+      },
+      "timestamp": "2026-03-04T19:21:43.790237+00:00"
+    },
+    {
+      "id": "fc0a7520-3074-457b-bd9c-056f93e41108",
+      "node_type": "pfd_calculation",
+      "data": {
+        "value": "11be1a9461b34ff789b277d7139f1b74",
+        "lambda_d": 1e-06,
+        "test_interval_h": 8760
+      },
+      "timestamp": "2026-03-04T19:21:43.790246+00:00"
+    },
+    {
+      "id": "2fc9d7df-a092-4407-a37e-21a34afca71f",
+      "node_type": "sil_verdict",
+      "data": {
+        "value": "e6ab79767aff41fcb644527839925975",
+        "sil_achieved": 2,
+        "compliant": true
+      },
+      "timestamp": "2026-03-04T19:21:43.790252+00:00"
+    }
+  ],
+  "edges": [
+    {
+      "from_node": "aa79e472-5f6d-4fec-9ac5-bcf80de7d125",
+      "to_node": "fc0a7520-3074-457b-bd9c-056f93e41108",
+      "edge_type": "derived_from"
+    },
+    {
+      "from_node": "fc0a7520-3074-457b-bd9c-056f93e41108",
+      "to_node": "2fc9d7df-a092-4407-a37e-21a34afca71f",
+      "edge_type": "derived_from"
+    }
+  ]
+}

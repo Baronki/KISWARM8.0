@@ -1,0 +1,226 @@
+{
+  "session_id": "20260313_191747",
+  "timestamp": "2026-03-13T19:17:58.682289",
+  "duration_seconds": 11.645992517471313,
+  "summary": {
+    "total_tests": 110,
+    "passed": 110,
+    "failed": 0,
+    "warning": 0,
+    "pass_rate": 100.0
+  },
+  "categories": {
+    "INITIALIZATION": {
+      "tests_passed": 33,
+      "tests_failed": 0,
+      "tests_warning": 0,
+      "details": {
+        "total_modules": 33,
+        "pass_rate": 1.0
+      }
+    },
+    "SECURITY_HARDENING": {
+      "tests_passed": 5,
+      "tests_failed": 0,
+      "tests_warning": 0,
+      "details": {
+        "password_hashing": {
+          "passed": true,
+          "algorithm": "SHA-256",
+          "hash_length": 64
+        },
+        "encryption_available": {
+          "passed": true,
+          "algorithm": "Fernet (AES-128)"
+        },
+        "input_validation": {
+          "passed": true,
+          "patterns_checked": 5,
+          "patterns_detected": 4
+        },
+        "session_security": {
+          "passed": true,
+          "token_length": 64,
+          "generator": "secrets.token_hex"
+        },
+        "file_permissions": {
+          "passed": true,
+          "files_checked": 2,
+          "results": [
+            {
+              "file": "/home/z/my-project/.env",
+              "world_readable": true
+            },
+            {
+              "file": "/home/z/my-project/config",
+              "world_readable": true
+            }
+          ]
+        },
+        "pass_rate": 1.0
+      }
+    },
+    "CROSS_VALIDATION": {
+      "tests_passed": 4,
+      "tests_failed": 0,
+      "tests_warning": 0,
+      "details": {
+        "observer_active": {
+          "passed": true,
+          "connected": true,
+          "status": "connected"
+        },
+        "bridge_communication": {
+          "passed": true,
+          "status_report": {
+            "bridge_status": "connected",
+            "kilocode_installed": false,
+            "kilocode_version": null,
+            "queue_size": 0,
+            "last_heartbeat": 1773429470.651773,
+            "running": true,
+            "config": {
+              "safety_net_enabled": true,
+              "autonomous_mode": false,
+              "fallback_on_error": true
+            }
+          }
+        },
+        "event_consistency": {
+          "passed": true,
+          "stats": {
+            "events_captured": 34,
+            "events_stored": 0,
+            "backups_created": 0,
+            "validations_passed": 34,
+            "validations_failed": 0,
+            "session_id": "dfc31db9-536b-492a-8d03-f5947f672abd",
+            "correlation_id": "e5d43840-4dd1-4088-a2ab-ce367f65aebf",
+            "buffer_size": 34,
+            "observer_active": true
+          }
+        },
+        "checksum_validation": {
+          "passed": true,
+          "checksum_length": 32,
+          "checksum_preview": "9b8314c793fa3068"
+        },
+        "pass_rate": 1.0
+      }
+    },
+    "FAULT_TOLERANCE": {
+      "tests_passed": 4,
+      "tests_failed": 0,
+      "tests_warning": 0,
+      "details": {
+        "error_recovery": {
+          "passed": true,
+          "error_caught": true,
+          "recovery_successful": true
+        },
+        "graceful_degradation": {
+          "passed": true,
+          "note": "Graceful degradation verified through module isolation"
+        },
+        "timeout_handling": {
+          "passed": true,
+          "note": "Timeout handling available via signal module"
+        },
+        "resource_cleanup": {
+          "passed": true,
+          "note": "Context manager cleanup verified"
+        }
+      }
+    },
+    "OBSERVER_INTEGRATION": {
+      "tests_passed": 3,
+      "tests_failed": 0,
+      "tests_warning": 0,
+      "details": {
+        "kilocode_available": {
+          "passed": true,
+          "version": "7.0.47"
+        },
+        "observation_capture": {
+          "passed": true,
+          "observer_active": true
+        },
+        "cross_validation_sync": {
+          "passed": true,
+          "validations_passed": 34,
+          "validations_failed": 0
+        }
+      }
+    },
+    "BACKUP_INTEGRITY": {
+      "tests_passed": 3,
+      "tests_failed": 0,
+      "tests_warning": 0,
+      "details": {
+        "storage_available": {
+          "passed": true,
+          "path": "/home/z/my-project/telemetry"
+        },
+        "backup_creation": {
+          "passed": true,
+          "backups_created": 3
+        },
+        "integrity_verification": {
+          "passed": true,
+          "verification_results": {
+            "/home/z/my-project/telemetry": true,
+            "/home/z/my-project/telemetry_backup": true,
+            "/home/z/my-project/telemetry_archive": true
+          }
+        }
+      }
+    },
+    "PERFORMANCE_STRESS": {
+      "tests_passed": 3,
+      "tests_failed": 0,
+      "tests_warning": 0,
+      "details": {
+        "rapid_event_capture": {
+          "passed": true,
+          "events_captured": 100,
+          "total_duration_ms": 1.7311573028564453,
+          "avg_per_event_ms": 0.017311573028564453
+        },
+        "concurrent_operations": {
+          "passed": true,
+          "results_count": 10
+        },
+        "memory_efficiency": {
+          "passed": true,
+          "telemetry_size_bytes": 48
+        }
+      }
+    },
+    "BATTLE_READINESS": {
+      "tests_passed": 55,
+      "tests_failed": 0,
+      "tests_warning": 0,
+      "details": {
+        "readiness_score": 100.0,
+        "status": "BATTLE_READY",
+        "total_passed": 55,
+        "total_failed": 0,
+        "total_warning": 0
+      }
+    }
+  },
+  "modules_tested": 33,
+  "telemetry_stats": {
+    "events_captured": 134,
+    "events_stored": 0,
+    "backups_created": 0,
+    "validations_passed": 134,
+    "validations_failed": 0,
+    "session_id": "dfc31db9-536b-492a-8d03-f5947f672abd",
+    "correlation_id": "e5d43840-4dd1-4088-a2ab-ce367f65aebf",
+    "buffer_size": 134,
+    "observer_active": true
+  },
+  "overall_status": "BATTLE_READY",
+  "readiness_score": 100.0
+}

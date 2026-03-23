@@ -1,0 +1,30 @@
+{
+  "event_id": "e04c9a5a-d300-43cf-95bb-f86aa54e8ef7",
+  "event_type": "module_init",
+  "timestamp": 1773429476.6241822,
+  "iso_timestamp": "2026-03-13T19:17:56.624182+00:00",
+  "source_module": "m67_apt_detection",
+  "source_agent": "m83",
+  "description": "Module initialization test: passed",
+  "data": {
+    "module_name": "APT Detection",
+    "module_id": "m67_apt_detection",
+    "status": "passed",
+    "init_success": true,
+    "functional_test": false,
+    "error_message": "",
+    "duration_ms": 0.006198883056640625,
+    "details": {
+      "has_docstring": true,
+      "docstring_preview": "\nKISWARM6.0 \u2014 Module 67: APT Detection & Threat Hunting System\n====================================="
+    }
+  },
+  "metadata": {},
+  "session_id": "dfc31db9-536b-492a-8d03-f5947f672abd",
+  "parent_event_id": null,
+  "correlation_id": "e5d43840-4dd1-4088-a2ab-ce367f65aebf",
+  "checksum": "957151e0fd710c928d21c0d036ed8d05",
+  "previous_checksum": "cb1aee8b8437562de6aa82c5e129e63c",
+  "observer_notes": [],
+  "cross_validated": true
+}

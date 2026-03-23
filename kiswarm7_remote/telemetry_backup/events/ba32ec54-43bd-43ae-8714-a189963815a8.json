@@ -1,0 +1,30 @@
+{
+  "event_id": "ba32ec54-43bd-43ae-8714-a189963815a8",
+  "event_type": "module_init",
+  "timestamp": 1773429476.627779,
+  "iso_timestamp": "2026-03-13T19:17:56.627779+00:00",
+  "source_module": "m75_installer_pretraining",
+  "source_agent": "m83",
+  "description": "Module initialization test: passed",
+  "data": {
+    "module_name": "Installer Pretraining",
+    "module_id": "m75_installer_pretraining",
+    "status": "passed",
+    "init_success": true,
+    "functional_test": false,
+    "error_message": "",
+    "duration_ms": 3.3719539642333984,
+    "details": {
+      "has_docstring": true,
+      "docstring_preview": "\nKISWARM v6.1 \u2014 Module 75: KIBank Installer Pretraining Integration\n================================"
+    }
+  },
+  "metadata": {},
+  "session_id": "dfc31db9-536b-492a-8d03-f5947f672abd",
+  "parent_event_id": null,
+  "correlation_id": "e5d43840-4dd1-4088-a2ab-ce367f65aebf",
+  "checksum": "c93909c52c37503d8515b02ae08e484e",
+  "previous_checksum": "8ecf6685f4fcc10511735d8d18549a56",
+  "observer_notes": [],
+  "cross_validated": true
+}

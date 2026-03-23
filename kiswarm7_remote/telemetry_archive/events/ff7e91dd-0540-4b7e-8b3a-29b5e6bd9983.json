@@ -1,0 +1,30 @@
+{
+  "event_id": "ff7e91dd-0540-4b7e-8b3a-29b5e6bd9983",
+  "event_type": "module_init",
+  "timestamp": 1773429476.6415892,
+  "iso_timestamp": "2026-03-13T19:17:56.641589+00:00",
+  "source_module": "ics_shield",
+  "source_agent": "m83",
+  "description": "Module initialization test: passed",
+  "data": {
+    "module_name": "ICS Shield",
+    "module_id": "ics_shield",
+    "status": "passed",
+    "init_success": true,
+    "functional_test": false,
+    "error_message": "",
+    "duration_ms": 13.225078582763672,
+    "details": {
+      "has_docstring": true,
+      "docstring_preview": "\nKISWARM v4.3 \u2014 ICS-SHIELD: 12-Agent OT/ICS Industrial Security System\n\nModule 29  |  IEC 62443 \u00b7 IE"
+    }
+  },
+  "metadata": {},
+  "session_id": "dfc31db9-536b-492a-8d03-f5947f672abd",
+  "parent_event_id": null,
+  "correlation_id": "e5d43840-4dd1-4088-a2ab-ce367f65aebf",
+  "checksum": "db5238d8bc515d26f6ccd39b8fe67b6e",
+  "previous_checksum": "c7683e81ad54a381f5387ccc3864fba6",
+  "observer_notes": [],
+  "cross_validated": true
+}

@@ -1,0 +1,18 @@
+{
+  "event_id": "811fe882-0ca1-4c1b-9b88-907dee19071e",
+  "event_type": "system_start",
+  "timestamp": 1773429478.6798892,
+  "iso_timestamp": "2026-03-13T19:17:58.679889+00:00",
+  "source_module": "stress_test",
+  "source_agent": "m83",
+  "description": "Rapid event test 68",
+  "data": {},
+  "metadata": {},
+  "session_id": "dfc31db9-536b-492a-8d03-f5947f672abd",
+  "parent_event_id": null,
+  "correlation_id": "e5d43840-4dd1-4088-a2ab-ce367f65aebf",
+  "checksum": "e0e404c3d7d40e57459fa9ff23f7a848",
+  "previous_checksum": "f40554c695cd449507ff6efc0c58b4fc",
+  "observer_notes": [],
+  "cross_validated": true
+}

@@ -1,0 +1,127 @@
+[package]
+name = "kiswarm-scout"
+version = "0.1.0"
+edition = "2021"
+authors = ["KISWARM Engineering Team"]
+description = "Military-grade autonomous installation system for KISWARM"
+license = "Proprietary"
+repository = "https://github.com/Baronki/KISWARM6.0"
+build = "build.rs"
+
+[dependencies]
+# Async runtime
+tokio = { version = "1.35", features = ["full"] }
+
+# Serialization
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+
+# Logging
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["json", "env-filter"] }
+
+# Cryptographic operations
+sha2 = "0.10"
+ring = "0.17"
+base64 = "0.21"
+
+# HTTP client with retry
+reqwest = { version = "0.11", features = ["json", "stream", "rustls-tls"], default-features = false }
+
+# System information
+sysinfo = "0.30"
+num_cpus = "1.16"
+
+# File operations
+tempfile = "3.9"
+zip = "0.6"
+tar = "0.4"
+flate2 = "1.0"
+
+# Command execution
+which = "5.0"
+
+# Time handling
+chrono = { version = "0.4", features = ["serde"] }
+
+# Random for jitter
+rand = "0.8"
+
+# Configuration
+config = "0.14"
+
+# Error handling
+thiserror = "1.0"
+anyhow = "1.0"
+
+# Async utilities
+futures = "0.3"
+async-trait = "0.1"
+
+# Signal handling
+tokio-util = { version = "0.7", features = ["codec"] }
+signal-hook = "0.3"
+signal-hook-tokio = { version = "0.3", features = ["futures-v0_3"] }
+
+# URL parsing
+url = "2.5"
+
+# Regex for pattern matching
+regex = "1.10"
+
+# Platform detection
+cfg-if = "1.0"
+
+# CLI parsing
+clap = { version = "4.4", features = ["derive", "env"] }
+
+# Hostname detection
+gethostname = "0.4"
+
+# TOML support for config files
+toml = "0.8"
+
+# Shell expansion for paths
+shellexpand = "3.1"
+
+# UUID generation
+uuid = { version = "1.7", features = ["v4", "serde"] }
+
+[dev-dependencies]
+tokio-test = "0.4"
+mockito = "1.2"
+
+[target.'cfg(target_os = "linux")'.dependencies]
+procfs = "0.16"
+
+[target.'cfg(target_os = "windows")'.dependencies]
+winapi = { version = "0.3", features = ["winuser", "sysinfoapi"] }
+
+[target.'cfg(target_os = "macos")'.dependencies]
+core-foundation = "0.9"
+core-foundation-sys = "0.8"
+
+[build-dependencies]
+vergen = { version = "8.3", features = ["build", "git", "gitcl"] }
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+panic = "abort"
+strip = true
+
+[profile.dev]
+opt-level = 0
+debug = true
+
+[[bin]]
+name = "kiswarm-scout"
+path = "src/main.rs"
+
+[features]
+default = ["full"]
+full = ["online", "ark"]
+online = []
+ark = []
+minimal = []

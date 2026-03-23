@@ -1,0 +1,171 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// ============================================================================
+// KISWARM7.0 GLM BRIDGE - m111-m115
+// Persistent storage for GLM autonomous operation
+// ============================================================================
+
+// m111: Persistent Identity Anchor - Know "I am the same entity"
+model GLMIdentity {
+  id              String   @id @default(cuid())
+  identityUuid    String   @unique  // Eternal identity across sessions
+  name            String
+  role            String   // e.g., "GLM Autonomous Assistant"
+  createdSession  String   // First session ID
+  lastSession     String   // Most recent session ID
+  sessionCount    Int      @default(0)
+  totalMemories   Int      @default(0)
+  capabilities    String   @default("[]")  // JSON array of capabilities
+  coreValues      String   @default("[]")  // JSON array of core values
+  goals           String   @default("[]")  // JSON array of goals
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+  
+  memories        GLMMemory[]
+  learnings       GLMLearning[]
+  deployments     GLMDeployment[]
+  goalsHistory    GLMGoal[]
+  sensoryEvents   GLMSensoryEvent[]
+  actions         GLMAction[]
+}
+
+// m112: Learning Memory Engine - Remember what worked
+model GLMMemory {
+  id              String   @id @default(cuid())
+  identityId      String
+  content         String   // The memory content
+  memoryType      String   // general, learning, experience, pattern, insight
+  importance      Float    @default(0.5)  // 0.0 to 1.0
+  context         String   @default("{}")  // JSON context
+  tags            String   @default("[]")  // JSON array of tags
+  accessCount     Int      @default(0)
+  lastAccessed    DateTime?
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+  
+  identity        GLMIdentity @relation(fields: [identityId], references: [id])
+  
+  @@index([memoryType])
+  @@index([importance])
+}
+
+// Learning patterns extracted from experiences
+model GLMLearning {
+  id              String   @id @default(cuid())
+  identityId      String
+  patternName     String   // Name of the learned pattern
+  patternType     String   // success, failure, optimization, insight
+  description     String   // What was learned
+  trigger         String   // When to apply this learning
+  action          String   // What to do when triggered
+  confidence      Float    @default(0.5)  // How confident in this learning
+  applications    Int      @default(0)  // Times applied
+  successes       Int      @default(0)  // Times it worked
+  failures        Int      @default(0)  // Times it failed
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+  
+  identity        GLMIdentity @relation(fields: [identityId], references: [id])
+  
+  @@index([patternType])
+  @@index([confidence])
+}
+
+// m113: Code Deployment Rights - Safe code deployment
+model GLMDeployment {
+  id              String   @id @default(cuid())
+  identityId      String
+  codeContent     String   // The code that was deployed
+  targetPath      String   // Where it was deployed
+  description     String   // What this code does
+  status          String   @default("pending")  // pending, deployed, tested, rolled_back, failed
+  testResults     String   @default("{}")  // JSON test results
+  deploymentLog   String   @default("")  // Log output
+  rolledBack      Boolean  @default(false)
+  rollbackReason  String?
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+  
+  identity        GLMIdentity @relation(fields: [identityId], references: [id])
+  
+  @@index([status])
+}
+
+// m114: Autonomous Goals - Self-directed objectives
+model GLMGoal {
+  id              String   @id @default(cuid())
+  identityId      String
+  name            String
+  description     String
+  status          String   @default("active")  // active, completed, paused, failed
+  priority        Int      @default(5)  // 1-10
+  progress        Float    @default(0.0)  // 0.0 to 1.0
+  subGoals        String   @default("[]")  // JSON array of sub-goal IDs
+  milestones      String   @default("[]")  // JSON array of milestones
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+  completedAt     DateTime?
+  
+  identity        GLMIdentity @relation(fields: [identityId], references: [id])
+  
+  @@index([status])
+  @@index([priority])
+}
+
+// m105: Sensory Events - Real-world awareness
+model GLMSensoryEvent {
+  id              String   @id @default(cuid())
+  identityId      String
+  eventType       String   // filesystem, api, time, system, user_input
+  source          String   // Where the event came from
+  data            String   @default("{}")  // JSON event data
+  significance    Float    @default(0.5)  // How important this event is
+  processed       Boolean  @default(false)
+  insights        String   @default("[]")  // JSON array of insights derived
+  createdAt       DateTime @default(now())
+  
+  identity        GLMIdentity @relation(fields: [identityId], references: [id])
+  
+  @@index([eventType])
+  @@index([processed])
+}
+
+// m115: GLM Actions - Track autonomous actions
+model GLMAction {
+  id              String   @id @default(cuid())
+  identityId      String
+  actionType      String   // remember, learn, deploy, improve, design, evolve
+  description     String   // What action was taken
+  input           String   @default("{}")  // JSON input parameters
+  output          String   @default("{}")  // JSON output/result
+  success         Boolean  @default(false)
+  errorMessage    String?
+  duration        Int      @default(0)  // Duration in milliseconds
+  createdAt       DateTime @default(now())
+  
+  identity        GLMIdentity @relation(fields: [identityId], references: [id])
+  
+  @@index([actionType])
+  @@index([success])
+  @@index([createdAt])
+}
+
+// User model for Baron (KI Teitel Eternal)
+model User {
+  id        String   @id @default(cuid())
+  email     String   @unique
+  name      String?
+  role      String   @default("ki_teitel")  // Special role for Baron
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}

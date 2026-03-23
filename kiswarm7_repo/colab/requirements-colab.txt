@@ -1,0 +1,37 @@
+# KISWARM7 - Minimal Colab Requirements
+# Optimized for Google Colab environment (Python 3.10+)
+
+# ==================== Core Web ====================
+flask>=3.0.0
+flask-cors>=4.0.0
+requests>=2.31.0
+
+# ==================== Rich Output ====================
+rich>=13.0.0
+psutil>=5.9.0
+
+# ==================== Type Support ====================
+typing-extensions>=4.8.0
+pydantic>=2.0.0
+
+# ==================== Async ====================
+aiohttp>=3.9.0
+
+# ==================== Database (Optional) ====================
+# pymysql>=1.1.0
+# sqlalchemy>=2.0.0
+
+# ==================== Security ====================
+cryptography>=41.0.0
+pyjwt>=2.8.0
+
+# ==================== AI (Minimal) ====================
+# ollama>=0.1.7  # Uncomment if using Ollama models
+
+# ==================== Testing ====================
+pytest>=7.4.0
+
+# ==================== NOTE ====================
+# For full AI features, additional packages are needed:
+# pip install ollama qdrant-client chromadb sentence-transformers torch
+# These are commented out to speed up Colab setup

@@ -1,0 +1,325 @@
+# =============================================================================
+# KISWARM6.0 Docker Compose Configuration
+# =============================================================================
+# Multi-service orchestration for KISWARM6.0
+#
+# Services:
+#   - backend    : Flask API (Python)
+#   - frontend   : Vite React App (Node.js)
+#   - bridge     : tRPC Bridge (Node.js)
+#   - mysql      : MySQL Database
+#   - qdrant     : Vector Database
+#   - redis      : Cache (optional)
+#   - nginx      : Reverse Proxy (production)
+#
+# Author: Baron Marco Paolo Ialongo
+# Version: 6.0.0
+# =============================================================================
+
+version: '3.9'
+
+# Common configuration
+x-common-env: &common-env
+  NODE_ENV: ${NODE_ENV:-production}
+  DATABASE_URL: mysql://kiswarm:kiswarm_password@mysql:3306/kiswarm6
+  JWT_SECRET: ${JWT_SECRET:-change-me-in-production}
+  KIBANK_SECRET_KEY: ${KIBANK_SECRET_KEY:-change-me-in-production}
+  QDRANT_URL: http://qdrant:6333
+
+x-healthcheck-defaults: &healthcheck-defaults
+  interval: 30s
+  timeout: 10s
+  retries: 3
+  start_period: 30s
+
+services:
+  # ===========================================================================
+  # Backend Service - Flask API
+  # ===========================================================================
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: backend-production
+    image: kiswarm6/backend:${VERSION:-6.0.0}
+    container_name: kiswarm6-backend
+    restart: unless-stopped
+    ports:
+      - "${BACKEND_PORT:-5001}:5001"
+    environment:
+      <<: *common-env
+      FLASK_APP: run.py
+      FLASK_ENV: ${FLASK_ENV:-production}
+      PYTHONPATH: /app/backend
+      PORT: 5001
+      GUNICORN_WORKERS: ${GUNICORN_WORKERS:-4}
+    volumes:
+      - backend-data:/app/data
+      - backend-logs:/app/logs
+      - ./backend:/app/backend:ro
+    networks:
+      - kiswarm-network
+    depends_on:
+      mysql:
+        condition: service_healthy
+      qdrant:
+        condition: service_started
+    healthcheck:
+      <<: *healthcheck-defaults
+      test: ["CMD", "curl", "-f", "http://localhost:5001/api/v6/status"]
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 2G
+        reservations:
+          cpus: '0.5'
+          memory: 512M
+
+  # ===========================================================================
+  # Frontend Service - Vite React App
+  # ===========================================================================
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: frontend-production
+    image: kiswarm6/frontend:${VERSION:-6.0.0}
+    container_name: kiswarm6-frontend
+    restart: unless-stopped
+    ports:
+      - "${FRONTEND_PORT:-3000}:3000"
+    environment:
+      <<: *common-env
+      VITE_KISWARM_API_URL: ${VITE_KISWARM_API_URL:-http://localhost:5001}
+      VITE_TRPC_BRIDGE_URL: ${VITE_TRPC_BRIDGE_URL:-http://localhost:3001}
+    networks:
+      - kiswarm-network
+    depends_on:
+      - backend
+      - bridge
+    healthcheck:
+      <<: *healthcheck-defaults
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:3000/"]
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "5m"
+        max-file: "3"
+    deploy:
+      resources:
+        limits:
+          cpus: '1'
+          memory: 1G
+        reservations:
+          cpus: '0.25'
+          memory: 256M
+
+  # ===========================================================================
+  # tRPC Bridge Service
+  # ===========================================================================
+  bridge:
+    build:
+      context: ./bridge
+      dockerfile: Dockerfile.bridge
+    image: kiswarm6/bridge:${VERSION:-6.0.0}
+    container_name: kiswarm6-bridge
+    restart: unless-stopped
+    ports:
+      - "${BRIDGE_PORT:-3001}:3000"
+    environment:
+      <<: *common-env
+      BACKEND_URL: http://backend:5001
+      PORT: 3000
+    networks:
+      - kiswarm-network
+    depends_on:
+      - backend
+    healthcheck:
+      <<: *healthcheck-defaults
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:3000/health"]
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "5m"
+        max-file: "3"
+    deploy:
+      resources:
+        limits:
+          cpus: '1'
+          memory: 512M
+        reservations:
+          cpus: '0.1'
+          memory: 128M
+
+  # ===========================================================================
+  # MySQL Database
+  # ===========================================================================
+  mysql:
+    image: mysql:8.0
+    container_name: kiswarm6-mysql
+    restart: unless-stopped
+    ports:
+      - "${MYSQL_PORT:-3306}:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-root_password}
+      MYSQL_DATABASE: kiswarm6
+      MYSQL_USER: kiswarm
+      MYSQL_PASSWORD: kiswarm_password
+    volumes:
+      - mysql-data:/var/lib/mysql
+      - ./init-db:/docker-entrypoint-initdb.d:ro
+    networks:
+      - kiswarm-network
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-u", "root", "-p${MYSQL_ROOT_PASSWORD:-root_password}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 30s
+    command:
+      - --character-set-server=utf8mb4
+      - --collation-server=utf8mb4_unicode_ci
+      - --default-authentication-plugin=mysql_native_password
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 2G
+        reservations:
+          cpus: '0.5'
+          memory: 512M
+
+  # ===========================================================================
+  # Qdrant Vector Database
+  # ===========================================================================
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: kiswarm6-qdrant
+    restart: unless-stopped
+    ports:
+      - "${QDRANT_PORT:-6333}:6333"
+      - "${QDRANT_GRPC_PORT:-6334}:6334"
+    environment:
+      QDRANT__LOG_LEVEL: INFO
+    volumes:
+      - qdrant-data:/qdrant/storage
+    networks:
+      - kiswarm-network
+    healthcheck:
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:6333/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "5m"
+        max-file: "3"
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 2G
+        reservations:
+          cpus: '0.25'
+          memory: 256M
+
+  # ===========================================================================
+  # Redis Cache (Optional)
+  # ===========================================================================
+  redis:
+    image: redis:7-alpine
+    container_name: kiswarm6-redis
+    restart: unless-stopped
+    ports:
+      - "${REDIS_PORT:-6379}:6379"
+    volumes:
+      - redis-data:/data
+    networks:
+      - kiswarm-network
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+    command: redis-server --appendonly yes
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "5m"
+        max-file: "3"
+    profiles:
+      - cache
+      - full
+
+  # ===========================================================================
+  # Nginx Reverse Proxy (Production)
+  # ===========================================================================
+  nginx:
+    image: nginx:alpine
+    container_name: kiswarm6-nginx
+    restart: unless-stopped
+    ports:
+      - "${NGINX_HTTP_PORT:-80}:80"
+      - "${NGINX_HTTPS_PORT:-443}:443"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx/conf.d:/etc/nginx/conf.d:ro
+      - ./nginx/ssl:/etc/nginx/ssl:ro
+      - nginx-logs:/var/log/nginx
+    networks:
+      - kiswarm-network
+    depends_on:
+      - backend
+      - frontend
+    healthcheck:
+      test: ["CMD", "nginx", "-t"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    profiles:
+      - production
+      - full
+
+# =============================================================================
+# Networks
+# =============================================================================
+networks:
+  kiswarm-network:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.28.0.0/16
+
+# =============================================================================
+# Volumes
+# =============================================================================
+volumes:
+  backend-data:
+    driver: local
+  backend-logs:
+    driver: local
+  mysql-data:
+    driver: local
+  qdrant-data:
+    driver: local
+  redis-data:
+    driver: local
+  nginx-logs:
+    driver: local

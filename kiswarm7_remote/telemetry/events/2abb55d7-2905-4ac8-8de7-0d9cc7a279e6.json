@@ -1,0 +1,30 @@
+{
+  "event_id": "2abb55d7-2905-4ac8-8de7-0d9cc7a279e6",
+  "event_type": "module_init",
+  "timestamp": 1773429476.6683567,
+  "iso_timestamp": "2026-03-13T19:17:56.668357+00:00",
+  "source_module": "mutation_governance",
+  "source_agent": "m83",
+  "description": "Module initialization test: passed",
+  "data": {
+    "module_name": "Mutation Governance",
+    "module_id": "mutation_governance",
+    "status": "passed",
+    "init_success": true,
+    "functional_test": false,
+    "error_message": "",
+    "duration_ms": 3.3605098724365234,
+    "details": {
+      "has_docstring": true,
+      "docstring_preview": "\nKISWARM v4.1 \u2014 Module 23: Mutation Governance Pipeline\n============================================"
+    }
+  },
+  "metadata": {},
+  "session_id": "dfc31db9-536b-492a-8d03-f5947f672abd",
+  "parent_event_id": null,
+  "correlation_id": "e5d43840-4dd1-4088-a2ab-ce367f65aebf",
+  "checksum": "f13c843ea9accad4d474ebc6812a593a",
+  "previous_checksum": "261710935516c304cc61348a97048c94",
+  "observer_notes": [],
+  "cross_validated": true
+}

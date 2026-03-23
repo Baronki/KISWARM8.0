@@ -1,0 +1,21 @@
+{
+  "event_id": "5588cd70-5f79-441d-8dcc-81b4559ac5ad",
+  "event_type": "system_start",
+  "timestamp": 1773429476.6234498,
+  "iso_timestamp": "2026-03-13T19:17:56.623450+00:00",
+  "source_module": "crossover_test",
+  "source_agent": "m83",
+  "description": "Military-grade crossover hardening test initialized",
+  "data": {
+    "session_id": "20260313_191747",
+    "modules_count": 33
+  },
+  "metadata": {},
+  "session_id": "dfc31db9-536b-492a-8d03-f5947f672abd",
+  "parent_event_id": null,
+  "correlation_id": "e5d43840-4dd1-4088-a2ab-ce367f65aebf",
+  "checksum": "a95d587423ef3dd4bc3580fa632b523f",
+  "previous_checksum": "",
+  "observer_notes": [],
+  "cross_validated": true
+}

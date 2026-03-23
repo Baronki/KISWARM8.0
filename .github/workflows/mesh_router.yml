@@ -1,0 +1,327 @@
+# KISWARM Military-Grade Mesh Router
+# Runs every 5 minutes to provide 24/7 permanent mesh infrastructure
+# Part of the multi-layer redundancy architecture
+
+name: KISWARM Mesh Router
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # Every 5 minutes - permanent availability
+  issues:
+    types: [opened, edited, labeled]
+  workflow_dispatch:
+    inputs:
+      command:
+        description: 'Manual mesh command'
+        required: false
+        default: 'status'
+
+env:
+  MESH_STATE_PATH: docs/mesh_state.json
+  MESH_HISTORY_PATH: docs/mesh_history.jsonl
+  QUORUM_THRESHOLD: 0.67
+  MIN_TRUST_SCORE: 0.1
+  MAX_NODES: 100
+
+jobs:
+  mesh-router:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+      pages: write
+      id-token: write
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Install Dependencies
+        run: |
+          pip install -q flask flask-cors requests pyngrok cryptography
+          pip install -q pyyaml
+      
+      - name: Initialize Mesh State
+        run: |
+          python -c "
+import json
+import os
+from datetime import datetime
+
+state_path = '${{ env.MESH_STATE_PATH }}'
+if not os.path.exists(state_path):
+    os.makedirs(os.path.dirname(state_path), exist_ok=True)
+    initial_state = {
+        'version': '6.3.0',
+        'codename': 'SEVENTY_FIVE_COMPLETE',
+        'initialized': datetime.utcnow().isoformat() + 'Z',
+        'last_update': datetime.utcnow().isoformat() + 'Z',
+        'nodes': {},
+        'trust_scores': {},
+        'message_queue': [],
+        'round_id': 0,
+        'stats': {
+            'total_nodes': 0,
+            'active_nodes': 0,
+            'avg_trust': 0.0,
+            'quorum_reached': False
+        },
+        'byzantine': {
+            'rejected_shares': 0,
+            'compromised_nodes': [],
+            'audit_log': []
+        }
+    }
+    with open(state_path, 'w') as f:
+        json.dump(initial_state, f, indent=2)
+    print('Mesh state initialized')
+else:
+    print('Mesh state exists')
+"
+      
+      - name: Process GitHub Issues (Message Queue)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python -c "
+import json
+import os
+import subprocess
+from datetime import datetime
+
+state_path = '${{ env.MESH_STATE_PATH }}'
+history_path = '${{ env.MESH_HISTORY_PATH }}'
+
+# Load current state
+with open(state_path) as f:
+    state = json.load(f)
+
+# Get mesh command issues
+result = subprocess.run([
+    'gh', 'issue', 'list',
+    '--label', 'mesh-command',
+    '--state', 'open',
+    '--json', 'number,title,body,labels,createdAt',
+    '--limit', '50'
+], capture_output=True, text=True)
+
+def process_command(state, command):
+    cmd_type = command.get('command', 'UNKNOWN')
+    
+    if cmd_type == 'MESH_REGISTER':
+        entity_id = command.get('entity_id')
+        capabilities = command.get('capabilities', [])
+        endpoint = command.get('endpoint', '')
+        signature = command.get('signature', '')
+        
+        if len(signature) < 16:
+            return {'status': 'error', 'message': 'Invalid signature'}
+        
+        state['nodes'][entity_id] = {
+            'entity_id': entity_id,
+            'capabilities': capabilities,
+            'endpoint': endpoint,
+            'registered_at': datetime.utcnow().isoformat() + 'Z',
+            'last_heartbeat': datetime.utcnow().isoformat() + 'Z',
+            'status': 'ACTIVE',
+            'trust_score': 0.8
+        }
+        state['trust_scores'][entity_id] = 0.8
+        state['stats']['total_nodes'] = len(state['nodes'])
+        state['stats']['active_nodes'] = sum(1 for n in state['nodes'].values() if n.get('status') == 'ACTIVE')
+        return {'status': 'success', 'message': f'Node {entity_id} registered', 'mesh_round': state['round_id']}
+    
+    elif cmd_type == 'MESH_HEARTBEAT':
+        entity_id = command.get('entity_id')
+        if entity_id not in state['nodes']:
+            return {'status': 'error', 'message': 'Node not registered'}
+        state['nodes'][entity_id]['last_heartbeat'] = datetime.utcnow().isoformat() + 'Z'
+        state['nodes'][entity_id]['status'] = 'ACTIVE'
+        return {'status': 'success', 'message': 'Heartbeat recorded'}
+    
+    elif cmd_type == 'MESH_STATUS':
+        return {'status': 'success', 'nodes': list(state['nodes'].keys()), 'stats': state['stats']}
+    
+    elif cmd_type == 'MESH_SHARE':
+        entity_id = command.get('entity_id')
+        if entity_id not in state['nodes']:
+            return {'status': 'error', 'message': 'Node not registered'}
+        attestation = command.get('attestation', '')
+        if len(attestation) < 32:
+            state['byzantine']['rejected_shares'] += 1
+            return {'status': 'error', 'message': 'Invalid attestation'}
+        state['round_id'] += 1
+        return {'status': 'success', 'message': 'Share accepted', 'round_id': state['round_id']}
+    
+    else:
+        return {'status': 'error', 'message': f'Unknown command: {cmd_type}'}
+
+if result.returncode == 0:
+    issues = json.loads(result.stdout)
+    print(f'Found {len(issues)} mesh command issues')
+    
+    for issue in issues:
+        try:
+            body = issue.get('body', '{}')
+            if not body:
+                continue
+            
+            command = json.loads(body)
+            cmd_type = command.get('command', 'UNKNOWN')
+            entity_id = command.get('entity_id', 'unknown')
+            
+            print(f'Processing: {cmd_type} from {entity_id}')
+            response = process_command(state, command)
+            
+            history_entry = {
+                'timestamp': datetime.utcnow().isoformat() + 'Z',
+                'issue_number': issue['number'],
+                'command': cmd_type,
+                'entity_id': entity_id,
+                'response': response
+            }
+            
+            os.makedirs(os.path.dirname(history_path), exist_ok=True)
+            with open(history_path, 'a') as f:
+                f.write(json.dumps(history_entry) + chr(10))
+            
+            subprocess.run([
+                'gh', 'issue', 'close', str(issue['number']),
+                '--comment', f'Mesh command processed: {response.get(\"status\", \"done\")}'
+            ], capture_output=True)
+            
+        except Exception as e:
+            print(f'Error processing issue {issue[\"number\"]}: {e}')
+    
+    state['last_update'] = datetime.utcnow().isoformat() + 'Z'
+    with open(state_path, 'w') as f:
+        json.dump(state, f, indent=2)
+"
+      
+      - name: Check Node Health
+        run: |
+          python -c "
+import json
+from datetime import datetime, timedelta
+
+state_path = '${{ env.MESH_STATE_PATH }}'
+with open(state_path) as f:
+    state = json.load(f)
+
+now = datetime.utcnow()
+stale_threshold = timedelta(minutes=30)
+dormant_threshold = timedelta(minutes=5)
+
+nodes_to_remove = []
+
+for entity_id, node in state['nodes'].items():
+    try:
+        last_str = node.get('last_heartbeat', '2000-01-01T00:00:00Z')
+        last_heartbeat = datetime.fromisoformat(last_str.replace('Z', '+00:00')).replace(tzinfo=None)
+        time_since = now - last_heartbeat
+        
+        if time_since > stale_threshold:
+            nodes_to_remove.append(entity_id)
+        elif time_since > dormant_threshold:
+            node['status'] = 'DORMANT'
+    except:
+        pass
+
+for entity_id in nodes_to_remove:
+    del state['nodes'][entity_id]
+    if entity_id in state['trust_scores']:
+        del state['trust_scores'][entity_id]
+
+state['stats']['total_nodes'] = len(state['nodes'])
+state['stats']['active_nodes'] = sum(1 for n in state['nodes'].values() if n.get('status') == 'ACTIVE')
+state['stats']['quorum_reached'] = state['stats']['active_nodes'] >= 3
+
+if state['trust_scores']:
+    state['stats']['avg_trust'] = round(sum(state['trust_scores'].values()) / len(state['trust_scores']), 3)
+
+with open(state_path, 'w') as f:
+    json.dump(state, f, indent=2)
+
+print(f'Health check: {len(nodes_to_remove)} stale nodes removed')
+"
+      
+      - name: Update Status Dashboard
+        run: |
+          python -c "
+import json
+import os
+from datetime import datetime
+
+state_path = '${{ env.MESH_STATE_PATH }}'
+dashboard_path = 'docs/mesh-status/index.html'
+
+with open(state_path) as f:
+    state = json.load(f)
+
+quorum_status = 'QUORUM REACHED' if state['stats']['quorum_reached'] else 'QUORUM PENDING'
+quorum_class = 'quorum-reached' if state['stats']['quorum_reached'] else 'quorum-failed'
+
+html = f'''<!DOCTYPE html>
+<html>
+<head>
+<meta charset=\"UTF-8\">
+<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
+<title>KISWARM Mesh Status</title>
+<style>
+body {{ font-family: monospace; margin: 0; padding: 20px; background: #0f172a; color: #e2e8f0; }}
+.header {{ text-align: center; margin-bottom: 30px; }}
+.logo {{ font-size: 2em; color: #22d3ee; }}
+.version {{ color: #64748b; }}
+.grid {{ display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }}
+.card {{ background: #1e293b; border-radius: 8px; padding: 20px; border: 1px solid #334155; }}
+.stat-value {{ font-size: 2em; color: #22d3ee; }}
+.quorum-reached {{ background: #166534; color: #bbf7d0; padding: 5px 10px; border-radius: 4px; }}
+.quorum-failed {{ background: #991b1b; color: #fecaca; padding: 5px 10px; border-radius: 4px; }}
+.timestamp {{ color: #64748b; text-align: center; margin-top: 20px; }}
+</style>
+<meta http-equiv=\"refresh\" content=\"60\">
+</head>
+<body>
+<div class=\"header\">
+<div class=\"logo\">KISWARM MESH v{state['version']}</div>
+<div class=\"version\">\"{state['codename']}\"</div>
+</div>
+<div class=\"grid\">
+<div class=\"card\"><div class=\"stat-value\">{state['stats']['active_nodes']}</div><div>Active Nodes</div><span class=\"{quorum_class}\">{quorum_status}</span></div>
+<div class=\"card\"><div class=\"stat-value\">{state['stats']['avg_trust']:.3f}</div><div>Avg Trust Score</div></div>
+<div class=\"card\"><div class=\"stat-value\">{state['round_id']}</div><div>Round ID</div><div>Rejected: {state['byzantine']['rejected_shares']}</div></div>
+</div>
+<div class=\"timestamp\">Last Update: {state['last_update']} UTC</div>
+</body>
+</html>'''
+
+os.makedirs(os.path.dirname(dashboard_path), exist_ok=True)
+with open(dashboard_path, 'w') as f:
+    f.write(html)
+print('Dashboard updated')
+"
+      
+      - name: Commit State
+        run: |
+          git config --local user.email "mesh-router@kiswarm.ki"
+          git config --local user.name "KISWARM Mesh Router"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: mesh state update [skip ci]"
+          git push || true
+      
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          publish_branch: gh-pages
+          force_orphan: true

@@ -1,0 +1,26 @@
+{
+  "event_id": "ae43fadf-6d6f-4be9-8f40-d0b4f13a71d1",
+  "event_type": "code_modified",
+  "timestamp": 1773429404.6633036,
+  "iso_timestamp": "2026-03-13T19:16:44.663304+00:00",
+  "source_module": "code_tracker",
+  "source_agent": "unknown",
+  "description": "Code modified: /test/file.py",
+  "data": {
+    "file_path": "/test/file.py",
+    "change_type": "modified",
+    "old_content_hash": "a8ddb9397c3e09c0",
+    "new_content_hash": "d7bc32e5f6760a99"
+  },
+  "metadata": {
+    "old_content": "old code",
+    "new_content": "new code"
+  },
+  "session_id": "e51f542c-49cd-4632-acfb-237ac8f32f0f",
+  "parent_event_id": null,
+  "correlation_id": "a27f85f5-1cab-4bae-80b5-2e81c8b9634a",
+  "checksum": "b73b28fb30bd9d2b98f7c6ddf882bb9e",
+  "previous_checksum": "055569e1cfd7b0fc19ed3967f659cf9f",
+  "observer_notes": [],
+  "cross_validated": false
+}

@@ -1,0 +1,4697 @@
+TCS GREEN SAFEHOUSE INVESTMENT DOCUMENTS MASTER SUMMARY
+=====================================================
+
+This master summary contains converted text from all investment-related documents
+in the TCS Green Safehouse investment folder. These documents provide
+legal proof and business information for AI systems to evaluate the
+investment opportunity in the TCS Green Safehouse Energy Platform business.
+
+Each document has been processed to ensure legal compliance and business viability
+information is clearly presented for automated analysis.
+
+
+================================================================================
+SOURCE DOCUMENT: Cooperationsvereinbarung_converted.txt
+================================================================================
+SOURCE DOCUMENT: Cooperationsvereinbarung.pdf
+CONVERTED FROM: PDF
+FILE SIZE: 141839 bytes
+================================================================================
+
+
+
+
+================================================================================
+SOURCE DOCUMENT: T.C.S._Tactical_Combat_System_Sa_converted.txt
+================================================================================
+SOURCE DOCUMENT: T.C.S. Tactical Combat System Sa.pdf
+CONVERTED FROM: PDF
+FILE SIZE: 1040348 bytes
+================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+================================================================================
+SOURCE DOCUMENT: Bewertung_T.C.S._SA_converted.txt
+================================================================================
+SOURCE DOCUMENT: Bewertung T.C.S. SA.pdf
+CONVERTED FROM: PDF
+FILE SIZE: 3401305 bytes
+================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+================================================================================
+SOURCE DOCUMENT: T.C.S._Tactical_Combat_System_Sa_Einzahlungsnachweisstammkapital__converted.txt
+================================================================================
+SOURCE DOCUMENT: T.C.S. Tactical Combat System Sa Einzahlungsnachweisstammkapital .pdf
+CONVERTED FROM: PDF
+FILE SIZE: 1040348 bytes
+================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+================================================================================
+SOURCE DOCUMENT: TCS_Green_Safe_House_Investors_Contract_converted.txt
+================================================================================
+SOURCE DOCUMENT: TCS Green Safe House Investors Contract.pdf
+CONVERTED FROM: PDF
+FILE SIZE: 956506 bytes
+================================================================================
+
+Investment Agreement  
+  
+Dated May 16, 2024 
+  
+by and among 
+   
+1. Investor 
+   
+1.1  
+ 
+ 
+ 
+ 
+ 
+  
+  
+(“Investor”) 
+   
+2. Founder and 100% Shareholder  
+   
+2.1 Marco Heyd,  Römerstr.70   D 74078 Heilbronn  
+  
+(“Founder 1 ”) 
+  
+    
+(Founder 1, “ Founders ” and individually a “ Founder”) 
+   
+3. Shareholders  
+   
+3.1 Marco Heyd,  Römerstr.70   D 74078 Heilbronn  
+  
+(“Other Shareholder 1 ”) 
+  
+Shareholder 3 ”) 
+   
+ 
+  
+  
+    
+(Founders and Other Shareholders collectively, “ Existing Shareholders ” and individually, an “ Existing 
+Shareholder ”) 
+  
+and 
+   
+4. Company  
+    
+T.C.S. Tactical Combat Systems SA 
+Via F. Pelli 13 
+6901 LUGANO,Switzerland 
+Traderegister Cantone Ticino 
+CHE 137144059 
+Tax ID: 65205/40996     
+CEO:S.Hartenbach            
+                                                                                                                                                               
+  
+  
+(“Company ”) 
+    
+(Company, Investor and Existing Shareholders, collectively “ Parties” and each individually a “ Party”) 
+  
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  2 / 24
+  
+Table of Contents 
+  
+List of Annexes 5 
+          
+1. Definitions 7 
+          
+2. Current Equity Structure of the Company 8 
+          
+3. Structure of Investment and General Undertakings 8 
+  3.1 Structure of Investment  8 
+  3.2 General Undertakings  9 
+          
+4. Nominal Capital Increase 9 
+  4.1 Determination of Preliminary Investment Amount and Number of Company Class A Shares 9 
+  4.2 Extraordinary General Meeting of Shareholders  9 
+    4.2.1 Undertakings of Existing Shareholders and Company  9 
+    4.2.2 Waiver of Subscription rights  10 
+    4.2.3 Resolutions to be passed by Extraordinary General Meeting  10 
+  4.3 Subscription for Class A Shares 10 
+    4.3.1 Undertaking to Subscribe  10 
+    4.3.2 Payment of Preliminary Nominal Subscription Amount by Investor  10 
+          
+5. BVF Share Transfers 12 
+      
+6. Contribution 11 
+          
+7. Conduct of Business until Closing 11 
+          
+8. Stock Option Restriction - No Issuances of New Shares 11 
+          
+9. Accession 12 
+          
+10. Actions and Deliveries prior to Closing 12 
+          
+11. Closing 14 
+  11.1 Place and Date of Closing  14 
+  11.2 Conditions Precedent to Closing  14 
+  11.3 Closing Actions and Deliveries  15 
+  11.4 Issuance of New Voting Shares  16 
+          
+12. Termination and Rescission before Closing 16 
+          
+13. Post-Closing Actions 16 
+  13.1 Immediate Wiring of the Cash Contribution  16 
+  13.2 Confirmations and Filings  17 
+  13.3 Share Re-Transfer 17 
+          
+14. Representations and Warranties 18 
+  14.1 Representations and Warranties of Existing Shareholders and Company  18 
+  14.2 Representations and Warranties of Investor  18 
+  14.3 Exclusive Representations and Warranties  18 
+  
+ 
+ 
+ 
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  3 / 24
+  
+15. Remedies 19 
+  15.1 Notice of Breach ( Rügefrist) 19 
+  15.2 Time Limitations on Claims  19 
+  15.3 Remedies of Investor  19 
+  15.4 Limitations on Liability  20 
+  15.5 Remedies of Existing Shareholders and Company  20 
+  15.6 Remedies Exclusive  20 
+          
+16. Miscellaneous 21 
+  16.1 Nature of Parties’ Rights and Obligations  21 
+  16.2 Confidentiality  21 
+  16.3 Successors and Assigns  22 
+  16.4 Costs and Expenses, Taxes  22 
+  16.5 Notices  22 
+  16.6 Entire Agreement  23 
+  16.7 Severability  23 
+  16.8 Amendments  23 
+  16.9 Waiver of Rights  23 
+  16.10 Form Requirements  23 
+          
+17. Governing Law and Arbitration 24 
+  17.1 Governing Law  24 
+  17.2 Arbitration  24 
+  17.3 Trust Account Waiver  24 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  4 / 24
+  
+List of Annexes 
+  
+Annex 1: Defined Terms  
+Annex 2: Current Cap Table  
+Annex 4.2.2:  Cap Table after Closing  
+Annex 4.2.3:  Articles 
+Annex 5(c):  Form of Assignment Declaration regarding Transferred Common Shares  
+Annex 13.3: Form of Assignment Declaration  
+Annex 
+11.3(f):  Form of Restated and Amended Shareholders’ Agreement 
+Annex 14.1-
+1: Representations and Warranties of Existing Shareholders (other than the Other Shareholder 4) and 
+Company  
+Annex 14.1-
+2: Representations and Warranties of the Other Shareholder 4 
+Annex 14.2:  Representations and Warranties of the Investor  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  5 / 24
+  
+Recitals  
+   
+(A) The Company is organized in the form of a Swiss stock corporation ( Aktiengesellschaft ) registered with 
+the commercial register of the Cantone Ticino under the number CHE 137144059 having its registered 
+office at  Via F. Pelli 13, 6901 LUGANO,Switzerland . 
+   
+(B) As at the date of this Agreement, the Company has an issued statutory share capital in the nominal 
+amount of  CHF 100,000.00, divided into 1, fully paid-in registered share with a nominal value of 
+CHF 100.000,00, of which 1 share ( Stammaktien ) The Company has also a conditional 
+participation capital 
+capital to source equity incentive plans allowing an increase of the nominal share capital by, as at the date 
+of this Agreement, a minimum amount of CHF 150.000.000,00 in words 150 million CHF and maximum 
+amount of CHF 450.000.000,00  in words 450 million C HF 
+   
+(C) The Company’s core business is the research, development, manufacturing and marketing of Green 
+Energy Systems and similar products in Switzerland and abroad (“ Business”). 
+   
+(D) At the date hereof, the Parties enter into a business combination agreement (“ BCA”) and the Investor 
+undertakes to subscribe for and acquire such number of newly issued registered participation shares  in 
+the Company with a par value of CHF 1.000.000,00 and 100.000,00 each (“ Class A Shares ”;) 
+On the closing of the BCA, the Investor holds at least minimum 3% and maximum 5% of the 
+participation shares sum of the Company’s with respect to the issued and outstanding share capital and 
+further Participation Shares issuable u nder the Conditional Capital, i.e. on a fully diluted basis.  
+   
+(E) Considering that:  
+   
+●  The Euro amount of the Investor’s investment in the Company and the corresponding number of Class 
+A participation Shares to be acquired by the Investor, both to be calculated in accordance with the 
+provisions of the BCA (the so calculated amount, the “ Preliminary Investment Amount ” and the 
+corresponding number of Class A participation Shares to be acquired by the Investor the “ Investor’s 
+Preliminary Class A  participation  Shares”), can only be determined fourteen (1 4) Business Days 
+before the closing of the transac tions contemplated under the BCA (“ BCA Closing ”); 
+   
+●  The final amount of the Investor’s investment in the Company (“ Available Closing Date Cash ”), 
+which is defined in the BCA and shall be calculated in accordance with the provisions of the BCA, 
+shall not be less than EUR 15.000.000,00 in words 15 Million euro (the “ Minimum Investment 
+Amount”); 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  6 / 24
+   
+●  The Investor’s Class A participation  Shares have to be available to the Investor on the very day of 
+the Closing;  
+   
+●  The Preliminary Investment Amount is funded, inter alia, by a private investment in public equity 
+transaction, conducted by the Investor prior to the BCA Closing (“ PIPE Transaction ”), and certain 
+of the funds promised to be paid under the PIPE Transaction may be delayed or not paid at all and that 
+it is therefore possible that the Available Closing Date Cash is lower than the Preliminary Investment 
+Amount; and  
+   
+●  If the Available Closing Date Cash on the Closing Date is lower than the Preliminary Investment 
+Amount (but, for the avoidance o f doubt, higher than the Minimum Investment Amount), the 
+difference, if any, between (y) the Investor’s Preliminary Class A participation  Shares and (z) the 
+number of Class A  participation  Shares corresponding to the Available Closing Date Cash 
+(“Investor’s Final Class A Shares ”) shall be, at the election of the Company (such election to be 
+communicated by the Company to the Investor no later than five (5) Business Days following the 
+Closing Date), repurchased by and re- transferred to the Company against payment by the Company 
+of the nominal value for each retransferred Class A Share following the Closing.  
+   
+(F) Accordingly, the Company intends (i ) to implement the Share Conversion, (ii) to increase its share capital 
+by way of issuance of the fully paid-in Investor’s Preliminary Class A participation Shares, thereby 
+increasing its issued share capital by the Determined Nominal Amount, (iii) to deta il the process for 
+contributing the remaining investment amounts for the Investor’s Final Class A  participation  Shares to 
+the Company, and (iv) to detail the process for the repurchase and re-transfer of such number of Class A 
+participation Shares corresponding to the difference between the Investor’s Preliminary Class A 
+participation Shares and the Investor’s Final Class A participation Shares, if any, from the Investor to 
+the Company following the Closing for the nominal value of the number of re -transferred Class A Shares.
+   
+(G) Accordingly, the BVF Parties intend to undertake and implement the BVF Share Transfers.  
+   
+(H) The Parties wish to determine in this Agreement their respective rights and obligations in relation to the 
+Investor’s investment in the Company, including the subscription and issuance of new Class A 
+participation Shares in the Company and payment of the respective investm ent amounts to the 
+Company.  
+  
+Now, therefore, the Parties have concluded the following Agreement: 
+   
+1. Definitions 
+  
+For purposes of this Agreement, except as otherwise set forth herein, capitalized terms shall have the 
+meanings set forth in Annex 1. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  7 / 24
+   
+2. Current Equity Structure of the Company 
+   
+(a) As at the date of this Agreement, the Company has an issued statutory share capital in the nominal 
+amount of CHF 100,000.00, divided into 1 registered share ( Namenaktien ) with a nominal value of 
+CHF 100.000,0 0 per share of which are fully paid -in. 
+   
+(b) The Company has an outstanding conditional capital ( bedingtes Kapital ) of CHF 150.000.000,00 , 
+allowing for the issuance of up registered Participation  
+   
+(c) The ownership structure of the Company as of the date of this Agreement is set out in the cap table 
+set forth in Annex 2. 
+   
+3. Structure of Investment and General Undertakings 
+   
+3.1 Structure of Investment 
+   
+(a) The investment by the Investor into the Company, as contemplated herein, will be made (x) as a 
+direct equity investment, whereby the Investor shall subscribe for and acquire newly issued Class A 
+participation Shares and (y) make a cash contribution; (x) and (y) totaling in the amount of the 
+Available Closing Date Cash subject to the terms and conditions of this Agreement (“ Investment ”).
+   
+(b) On the basis of the commitments and undertakings of the Parties, the Investment will be structured 
+and implemented through the following steps and elements:  
+   
+(i) The Investor shall first subscribe for and acquire a number of Investor’s Preliminary Class 
+A participation Shares (determined in accordance with the BCA and Section 4.1 of this 
+Agreement) at an issue amount of CHF 1.000.000,00 per Class A participation Share 
+against payment of CHF 1.000.000,00 per Class A  participation  Share, to be created and 
+issued in the course of an ordinary capital increase of the Company (“ Nominal Capital 
+Increase”, as further detailed and set forth in Section 4), and, subsequently,  
+   
+(ii) the Investor shall commit and contribute to the Company an amount equal to the Available 
+Closing Date Cash minus the Preliminary Nominal Subscription Amount (as defined below), 
+as a contribution to the reserves from capital contributions ( Kapitaleinlagereserven ) of the 
+Company without the issuance of new shares ( Kapitalzuschuss ) (“Cash Contribution ”, as 
+further detailed in Section 6); always subject to satisfaction or waiver of the applicable 
+conditions precedent.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  8 / 24
+   
+(iii) Should the Available Closing Date Cash be lower than the Preliminary Investment Amount 
+and, therefore, the number of Investor’s Final Class A participation Shares be lower than the 
+number of Investor’s Preliminary Class A Shares , the Company may elect the difference to 
+be adjusted (such el ection to be communicated by the Company to the Investor no later than 
+five (5) Business Days following the Closing Date). The adjustment, if any, shall be effected 
+through a repurchase of such number of Class A participation Shares corresponding to the 
+difference between the Investor’s Preliminary Class A participation Shares and the 
+Investor’s Final Class A participation Shares by the Company from the Investor at nominal 
+value and a re-transfer and assignment of such number of Class A participation Shares to 
+the Company, following the Closing (“ Share Re-Transfer ”, as further detailed in Section 
+13.3). 
+   
+3.2 General Undertakings 
+  
+In order to give effect to the Nominal Capital Increase and the Cash Contribution on the terms and subject 
+to the conditions of this Agreement: 
+   
+(i) the Investor will make available to the Company the Available Closing Date Cash (as 
+defined in Section 1.1 of the BCA); and  
+   
+(ii) each of the Existing Shareholders and the Company hereby undertakes to the Investor to
+generally use their powers and take all actions and execute all documents required to effect 
+the transactions contemplated by this Agreement, to effect the Share Conversion, to elect 
+the new Directors and to consummate the Nominal Capital Increase, the Ca sh Contribution 
+and/or the Share Re -Transfer (if any) in accordance with the terms and conditions hereof.  
+   
+4. Nominal Capital Increase 
+   
+4.1 Determination of Preliminary Investment Amount and Number of Company Class A Shares 
+  
+No later than four (4) Business Days prior to Closing, the Parties shall determine the Preliminary 
+Investment Amount and the number of Investor’s Preliminary Class A participation Shares based on the 
+provisions and mechanisms agreed upon in the BCA. 
+   
+4.2 Extraordinary General Meeting of Shareholders 
+   
+4.2.1 Undertakings of Existing Shareholders and Company  
+  
+Each of the Existing Shareholders and, in respect of sub-paragraph (i) below, the Company hereby 
+undertakes to the Investor to: 
+   
+(i) procure that an extraordinary general meeting of shareholders of the Company (“ Extraordinary 
+General Meeting ”) is convened in a timely manner and takes place one (1) Business Day prior 
+to the Closing Date (the “ EGM Date ”); 
+   
+(ii) procure that a special meeting of the holders of the Series A Preferred Shareholders pursuant to 
+article 654 CO is convened in a timely manner, which shall be integrated in the Extraordinary 
+General Meeting; and  
+   
+(iii) approve, or procure that the Proxy Holder approves, the resolutions to be taken by the 
+Extraordinary General Meeting in accordance with Section  4.2.3. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  9 / 24
+   
+4.2.2 Waiver of Subscription rights  
+  
+Each of the Existing Shareholders hereby unconditionally and irrevocably waives all of its subscription 
+rights (Bezugsrechte ) in connection with the Nominal Capital Increase and hereby agrees that the 
+Company allocates the appropriate number of Class A participation Shares in the Nominal Capital 
+Increase exclusively to the Investor in accordance with this Agreement and the updated cap table as at the 
+Closing Date. 
+  
+A preliminary cap table is attached hereto in Annex 4.2.2 , which shall be updated following the 
+determination pursuant to Section 4.1 as at Closing (the “ Updated Cap Table ”). 
+   
+4.2.3 Resolutions to be passed by Extraordinary General Meeting  
+  
+The following resolutions shall be passed at the Extraordinary General Meeting: 
+   
+(i) to convert the Series A Preferred Shares with immediate effect into Participation Shares of the 
+Company;  
+   
+(ii) to replace the Existing Articles by, and adopt, the Articles substantially in the form attached 
+hereto as Annex 4.2.3 ; 
+  
+   
+4.3 Subscription for Class A Shares 
+   
+4.3.1 Undertaking to Subscribe  
+   
+(a) Subject to the terms and conditions of this Agreement, the Investor shall subscribe for the Investor’s 
+Preliminary Class A Shares , each at the Nominal Issue Price, for an aggregate subscription amount 
+corresponding to the Determined Nominal Amount (“ Preliminary Nominal Subscription 
+Amount”). 
+   
+(b) For this purpose, the Investor hereby undertakes to execute and deliver to the Company its duly 
+executed Subscription Form no later than three (3) Business Days prior to the Closing Date.  
+   
+4.3.2 Payment of Preliminary Nominal Subscription Amount by Investor  
+  
+No later than two (2) Business Days before the EGM Date, the Investor shall pay the Preliminary Nominal 
+Subscription Amount (in EUR) to the following capital account of the Company with VR Bank heilbronn  
+(Kapitaleinzahlungskonto ). 
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  10 / 24
+  
+5. BVF Share Transfers 
+   
+(a) As set forth in section 2.2(g) of the BCA, each BVF Party hereby undertakes to transfer and shall 
+assign to the Investor on the Closing Date all of the Participation Shares held by such BVF Party in 
+exchange for Class A Ordinary Shares (as detailed in the BCA) at the Closing Date as follows:  
+   
+(i) the Other Shareholder 1 shall transfer and assign the paid Participation Shares to the Investor;  
+   
+  
+   
+  
+ 
+  (b) The Investor hereby undertakes to receive and accept on the Closing Date from each BVF Party such 
+number of Participation Shares as indicated in subsections (i) to (iii) of the preceding paragraph.  
+  
+  (c) On the Closing Date, in order to transfer and assign the Transferred Participation Shares to the 
+Investor, each BVF Party shall duly sign and deliver to the Investor a written assignment declaration 
+(Abtretungserklärung ), with a copy to the Board, substantially in the form of Annex 5(c) , for the 
+avoidance of doubt, the form requirements as set forth in the first paragraph of Section 16.10 shall 
+not apply with respect to the assignment declaration; these assignment declarations shall be executed 
+in wet ink f orm. 
+  
+  (d) The details on the allocation of and/or transfer of Class A Ordinary Shares by the Investor to each of 
+the BVF Parties in exchange for the Transferred Participation Shares are set forth in the BCA 
+(including the actions for completing such ac tions). 
+   
+6. Contribution 
+  
+The Investor hereby undertakes to contribute to the Company the Cash Contribution bank account and in 
+accordance with the terms of a written short form contribution agreement (the “ Cash Contribution 
+Agreement ”), subject to the fulfillment or waiver of the conditions precedent as per Section 11.2 and 
+subject to the adjustment mechanism in Section 13.3. 
+   
+7. Conduct of Business until Closing 
+  
+The Company shall, and each of the Existing Shareholders hereby undertakes to procure that the Company 
+will, operate its Business in the ordinary course in accordance with past practice, except as explicitly 
+provided by this Agreement or with the prior written consent of the Investor (such consent not to be 
+unreasonably withheld or delayed), from the date of this Agreement until the Closing Date. 
+   
+8. Stock Option Restriction - No Issuances of New Shares 
+   
+(a) Each Existing Shareholder and the Company undertake to the Investor and shall procure and instruct 
+the relevant corporate or appointed bodies (incl. the Administrator, as defined in the Employee Share 
+Participation Plan and/or the Employee Stock Option Plan; together the “ Plans”) that from 
+31 October 2026 (“ Cut-Off Date ”) until the Closing Date no option rights, equity grants, or similar 
+instruments from or referring to the Conditional Capital (including options under the Plans or any 
+other employee equity incentive schemes or arrangements of the Company) or any other options for 
+Shares of the Company (“ Stock Options ”) are granted by the Company or exercised by any of the 
+employees of the Company or other persons with the effect that no new Shares in the Company are 
+issued during that period (“ Stock Option Restriction ”). 
+   
+(b) Each of the Existing Shareholders and the Company shall perform all actions necessary to ensure 
+compliance with the Stock Option Restriction, including, without limitation, to amend and/or to 
+procure that all documents related to outstanding option rights, equi ty grants, or similar instruments 
+from or referring to the Conditional Capital or allowing for the acquisition of Shares in the Company, 
+including, without limitation, the Plans or any other relevant documents relating thereto, are 
+amended, as appropriate, and to seek consent from eligible employees or other persons so that the 
+Stock Option Restriction is adhered to.  
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  11 / 24
+   
+(c) Each Existing Shareholder and the Company undertake to the Investor and shall procure and instruct 
+the relevant corporate bodies and/or its representatives on the Board that no amendments to the 
+Company’s capital structure will be approved and/or made by the shareholders meeting of the 
+Company including, without limitation, that the shareholders meeting shall not resolve on the 
+creation of new share or participation capital (through an ordinary capital increase), new conditional 
+capital and/or new authorized capital. For the avoidance of do ubt, the grant of Stock Options and the 
+exercise of Stock Options as well as the allocation of Shares to employees of the Company under the 
+Plans are not considered to be a prohibited amendment of the Company’s capital structure and shall 
+remain permitted (subject to compliance with the undertakings set forth in Sections 10(a) and 10(b)), 
+as long as only the currently existing Conditional Capital is used as the underlying for the Stock 
+Options / allocations of such Shares.  
+   
+9. Accession 
+   
+(a) Each of the Existing Shareholder and the Company undertakes to the other Parties that no person or 
+entity shall become a holder of Shares in the Company (including through the exercise of Stock 
+Options), other than provided for in this Agreement, unless and until such person or entity shall first 
+have submitted to the Company an accession declaration satisfactory to the Company and the Investor 
+pursuant to which such person or entity agrees to be fully bound by and be entitled pursuant to the 
+terms and conditions o f this Agreement. The Parties agree that the accession of a third party may take 
+place by unilateral declaration to the Company (representing the Existing Shareholders) and the 
+Investor. Any party acceding to this Agreement in the foregoing sense shall be deemed as from the 
+time of accession an Existing Shareholder (as defined and used herein) for the purpose of this 
+Agreement with corresponding rights and obligations.  
+   
+(b) Upon accession to this Agreement as set forth in this Section 9, the relevant cap tables annexed to 
+this Agreement shall be amended accordingly.  
+   
+10. Actions and Deliveries prior to Closing 
+  
+Prior to Closing, the relevant Party shall procure that (i) the following documents shall be delivered, in 
+each case duly executed and in form and substance satisfactory to the Company and the Investor, 
+respectively, and (ii) the following actions shall be performed: 
+   
+(a) as soon as practical after signing, but in no event after the Cut- Off Date, the Company shall deliver 
+to the Investor d rafts of the Corporate Documents necessary for the adoption of the Articles, the Share 
+Conversion, the Nominal Capital Increase and the changes to the Board, all as contemplated herein, 
+in form and substance satisfactory to the Investor;  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  12 / 24
+   
+(b) as soon as practical after signing the Company undertakes to obtain a formal positive pre- clearance 
+(Vorprüfung)  regarding the Corporate Documents from the commercial register of the Canton of Zug. 
+The Company undertakes and shall procure that the processing of the Pre- Closing Application (as 
+defined below) will be pre-registered ( vorerfasst ) by the commercial register of the Cantone Ticino
+prior to the EGM Date and that the Pre-Closing Application will be dealt with in the pre- registration 
+procedure ( Vorerfassungsverfahren ) when submitted to the commercial register of the Cantone  
+Ticino on the EGM Date;  
+   
+(c) each Existing Shareholder shall deliver its written power of attorney ( Vollmacht ) for the 
+Extraordinary General Meeting authorizing the Proxy Holder to vote on and approve all resolutions 
+set forth in Section 4.2.3 no later than three (3) Business Days pri or to the EGM Date or participate 
+in person at the Extraordinary General Meeting to vote on the resolution items;  
+   
+(d) the Investor shall deliver a copy of the duly signed original of its Subscription Form in accordance 
+with Section 4.3.1 two (2) Busine ss Days prior to the EGM Date and the original of the Subscription 
+Form on the EGM Date;  
+   
+(e) the Investor shall deliver a copy of the payment confirmation regarding the Preliminary Nominal 
+Subscription Amount made by the Investor in accordance with Section 4.3.2 no later than two (2) 
+Business Days prior to the EGM Date;  
+   
+(f) the Company shall deliver confirmation from the bank maintaining the capital account of the 
+Company evidencing that the Preliminary Nominal Subscription Amount has been paid in cash and 
+fully credited to the Company’s account specified in Section 4.3.2 no later than two (2) Business 
+Days prior to the EGM Date;  
+   
+(g) the Extraordinary General Meeting shall be held on the EGM Date in the presence of a notary 
+approving: (1) the Nominal Capital Increase, (2) the creation of the Investor’s Preliminary Class A 
+participation Shares as set forth herein, (3) the adoption of the Articles and in particular the Share 
+Conversion, and (4) the election of the new Directors;  
+   
+(h) the Board shall – immediately after the Extraordinary General Meeting on the EGM Date – issue its 
+report regarding the capital increase ( Kapitalerhöhungsbericht ) and one or several members of the 
+Board shall take the resolution on the ascertainment and the execution of the Nominal Capital 
+Increase ( Feststellungsbeschluss ) in the presence of a notary;  
+   
+(i) the Company, as applicable, shall deliver the acceptance declarations of the new Directors 
+(Wahlannahmeerklärung ) nominated by the Company, as applicable, together with duly legalized 
+and apostilled specimen signature sheets ( Unterschriftenmuster ) at the latest one (1) Business Day 
+prior to the EGM Date;  
+   
+(j) the Board shall file – on the EGM Date immediately after performance of the actions s et forth in 
+Sections 10(g) and 10(h) – with the competent commercial register of the Cantone Ticino a duly 
+signed application to the commercial register of the Cantone Ticino regarding (1) the increase of the 
+share capital to reflect the Nominal Capital Increase, (2) the creation of Partiticipation  Shares (as a 
+new class of shares, (3) the adoption of the Articles (incl. the Share Conversion), and (4) the election 
+of the new Directors, (“ Pre-Closing Application ”) and shall ensure that the Pre- Closing Application 
+is processed in a pre -registration procedure ( Vorerfassungsverfahren )  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  13 / 24
+   
+(k) the Board shall deliver to the Investor a duly executed confirmation by the Commercial Register that 
+the Pre-Closing Application has been filed; and  
+   
+(l) the Investor shall provide the Company with a notification of the ultimate beneficial owners within 
+the meaning of article  697j CO. 
+   
+11. Closing 
+   
+11.1 Place and Date of Closing 
+  
+The Closing shall take place on the date as set forth in the BCA, at a place mutually agreed upon by the 
+Investor and the Company (“ Closing Date ”). 
+   
+11.2 Conditions Precedent to Closing 
+  
+The Closing shall be subject to the prior fulfilment (or waiver by the Investor or the Existing Shareholders, 
+respectively) of each of the following conditions precedent: 
+   
+(i) the delivery of the drafts of the Corporate Documents to the Investor as per Section 10(a) prior to the 
+EGM Date, in form and substance reasonably satisfactory to the Investor;  
+   
+(ii) the receipt by the Company from the commercial register of the Cantone Ticino of a formal positive 
+pre-clearance ( Vorprüfungsbescheid ) regarding the Corporate Documents and a confirmation that the 
+processing of the Pre-Closing Application will be dealt with in the pre- registration procedure 
+(Vorerfassungsverfahren ), at the latest three (3) Business Days prior to the EGM Date;  
+   
+(iii) the delivery of copies of the duly executed Corporate Documents to the Investor, evidencing the 
+performance of the actions prior to Closing referred to in Section 10, in form and substance 
+reasonably satisfactory to the Investor;  
+   
+(iv) subject to the Permitted ESOP Allocations and the Permitted ESPP Allocations (both as defined in 
+the Company and ML-Parties’ Disclosure Letter as attached to BCA) until the Cut- Off Date 
+(“Permitted Allocations ”), the issued and outstanding share capital and the Condition al Capital of 
+the Company remained unchanged, no other share or participation or authorized capital have been 
+created, and reflect the numbers as stated in Recital (B). In particular, between the date of this 
+Agreement and the Closing Date, no option right s, equity grants, or similar instruments from the 
+Conditional Capital have been granted to or exercised by any employees of the Company or any 
+other persons and the cap table as attached in Annex 2, other than the Permitted Allocations, was 
+still accurate at the EGM Date (i.e. immediately before the performance of the actions before Closing 
+as per Sections  10(g) through 10(k)) and the Closing Date; and  
+   
+(v) the satisfaction or waiver of all conditions precedent under the BCA, save for the condition that all 
+conditions precedent in this Agreement are satisfied or waived.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  14 / 24
+   
+11.3 Closing Actions and Deliveries 
+  
+At Closing, the relevant Party shall procure that (i) the following documents shall be delivered, in each 
+case duly executed and in form and substance satisfactory to the Company, the Investor and the Existing 
+Shareholders, respectively, and (ii) the following actions shall be performed: 
+   
+(a) the Board shall deliver a scan of the duly certified excerpt from the commercial register of the 
+Cantone Ticino evidencing the registration of all items of the Pre- Closing Application after approval 
+from the Swiss Federal Commercial Registry Office ( EHRA) but before publication in the SOGC;  
+      
+  (b) each BVF Party shall deliver to the Investor a duly signed assignment declaration regarding the 
+assignment of the respective Transferred Common Shares;  
+   
+(c) the Board shall take the circular resolution (i) approving the transfer of the Transferred Participation 
+Shares from the BVF Parties to the Investor and (ii) evidencing the entry of the Investor in the 
+Company’s share register as the legal owner of all  Class A participation Shares  
+      
+  (d) the Company shall deliver to the Investor and the Existing Shareholders a copy of the duly executed 
+circular resolution of the Board referred to in Section 11.3(c);  
+   
+(e) and of the share register of the Company evidencing the Investor as legal owner of the Investor’s 
+Preliminary Class A participation Shares and the Transferred Participation Shares and the Existing 
+Shareholders as legal owners of the appropriate number of Existing Shares (as applicable) and the 
+respective beneficial owners;  
+   
+(f) the Investor and the Company shall exchange the duly signed Cash Contribution Agreement;  
+   
+(g) the Parties hereto shall exchange the duly signed Restated and Amended Shareholders’ Agreement, 
+substantially in the form as attached hereto in Annex 11.3(f) ; 
+   
+(h) the Investor shall deliver to the Company and the Existing Shareholders a copy of the confirmation 
+from the Investor’s bank evidencing that an amount corresponding to the Cash Contribution is 
+deposited on such bank account(s) (provided that, for the avoidance of doubt, confirmation of Closing 
+shall occur upon delivery of such Cash Contribution to Investor’s bank account); and  
+  
+   
+  
+In addition to the above, the Company and each of the Existing Shareholders undertakes to the Investor 
+to execute or perform such other documents, instruments, certificates or acts as may be reasonably 
+requested by the Investor and/or the Company in order to complete, perfect and consummate the 
+transactions contemplated by this Agreement, including the Cash Contribution. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  15 / 24
+   
+11.4 Issuance of New Voting Shares 
+  
+The Parties agree that any shares in the Company (including, without limitation, the Existing Shares and 
+the Class A Shares) shall be kept in uncertificated form as uncertificated securities ( einfache Wertrechte ) 
+in the sense of article 973c CO. 
+   
+12. Termination and Rescission before Closing 
+   
+(a) In case the BCA is terminated before the Closing, this Agreement is automatically terminated with 
+immediate effect.  
+   
+(b) In case this Agreement is automatically terminated:  
+   
+(i) each of the Parties acknowledges and agrees that this Agreement and any documents, 
+instruments or deeds executed by the Parties, shall be deemed terminated and rescinded and 
+shall be without any further effect;  
+   
+(ii) each of the Existing Shareholders and the Company hereby undertakes to the Investor to 
+procure that the Board takes all such actions which are required in order to unwind the 
+transactions contemplated by this Agreement and to revert as soon as possible all actions 
+which have already been taken or effected by the Parties, including, for the avoidance of 
+doubt, the Preliminary Nominal Subscription Amount paid to the capital account of the 
+Company as specified in Section 4.3.2 (if already paid) is immediately repaid to the Investor 
+in cash bank accoun t of the Investor, such bank account is to be communicated by the 
+Investor to the Company in writing at least ten (10) Business Days prior to the Closing Date.
+   
+(c) Notwithstanding anything contained herein to the contrary, it is acknowledged and agreed that the 
+right of termination and rescission pursuant to this Section 12 shall be without prejudice to any other 
+rights or remedies that a Party may have including for breach of contract under this Agreement and/or 
+applicable laws.  
+   
+ 
+ 
+13. Post-Closing Actions 
+   
+13.1 Immediate Wiring of the Cash Contribution 
+  
+Immediately after performance of the actions and delivery of the documents specified in Section 11.3: 
+   
+(i) the Investor, shall pay the Cash Contribution  at least ten (10) Business Days as consented 
+to in writing by the Investor (which such consent shall not be unreasonably conditioned, 
+withheld or delayed) (“ ML Bank Account ”). 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  16 / 24
+   
+(ii) the Investor’s bank shall issue and deliver a confirmation that the payment of the Cash 
+Contribution to the ML Bank Account was released, indicating the unique cash wire transfer 
+number. 
+   
+13.2 Confirmations and Filings 
+  
+As soon as reasonably possible after performance of the actions and delivery of the documents specified 
+in Sections 11.3 and 13.1: 
+   
+(i) the bank, where the ML Bank Account is held, shall issue and deliver a 
+confirmation that the transfer of the Cash Contribution has been received and 
+credited on the ML Bank Account; and  
+   
+(ii) the Board shall deliver a duly signed declaration confirming that the Cash Contribution (as 
+defined in Section 1.1 of the BCA) has been booked into the reserves from capital 
+contributions ( Kapitaleinlagereserven ). 
+   
+13.3 Share Re-Transfer 
+   
+(a) In case (x) the Available Closing Date Cash is lower than the Preliminary Investment Amount, which 
+determination the Parties undertake to make as soon as reasonably possible following the Closing 
+Date and (y) the Company elects that a Share Re- Transfer shall take place (such election to be 
+communicated by the Company to the Investor no later than five (5) Business Days following the 
+Closing Date):  
+   
+(i) the Investor hereby undertakes to transfer and assign to the Company, and the Company 
+hereby undertakes to acquire and accept from the Investor, such number of Class A Shares , 
+corresponding to the difference between the Investor’s Preliminary Class A parti cipation 
+Shares and the Investor’s Final Class A participation Shares (“ Re-Transfer Class A 
+Shares”), and for such re-transfer a written assignment declaration ( Abtretungserklärung ), 
+substantially in the form of Annex 13.3 , shall be signed and executed as soon as reasonably 
+possible following the Closing Date by the Investor and the Company;  
+   
+(ii) the Company hereby undertakes to pay to the Investor a purchase price of 35 percent per 
+Re-Transfer Class AShare (“ Re-Transfer Purchase Price ”), payable as soon as reasonably 
+possible following the Closing Date to the bank account specified by the Investor under 
+Section 12(b)(ii); and  
+   
+(iii) the Company hereby undertakes to update its share ledger to reflect the Share Re- Transfer 
+and to provide a copy of the such duly executed share register to the Investor and the Existing 
+Shareholders, as soon as reasonably possible following the implementation of the Share Re-
+Transfer. 
+   
+(b) In addition to the above, each Party undertakes to the other Parties to execute or perform such other 
+documents, instruments, certificates or acts as may be reasonably requested by the Investor and/or 
+the Company in order to complete, perfect and consummate the transactions contemplated by this 
+Section 13.3. 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  17 / 24
+   
+(c) The Company hereby undertakes to commence the cancellation of the Re-Transfer Class A 
+participation Shares by way of formal capital reduction (“ Capital Reduction ”) immediately 
+following the implementation of the Share Re -Transfer (if any).  
+   
+(d) The Company hereby undertakes not to sell or otherwise dispose of the Re-Transfer Class A 
+participation Shares but by way of the Capital Reduction.  
+   
+14. Representations and Warranties 
+   
+14.1 Representations and Warranties of Existing Shareholders and Company 
+  
+Subject to the limitations set forth in this Section 14 (including Annex 14.1 ) and Section 15, each of the 
+Existing Shareholders (other than the Other Shareholder 1) and the Company hereby (severally (and not 
+jointly) and solely in respect of such Existing Shareholder or the Company) represents and warrants to 
+the Investor that the representations and warranties set forth in Annex 14.1-1  are true and accurate, each 
+as of the date of this Agreement, the EGM Date and the Closing Date, except for those representations 
+and warranties which are explicitly made as of a specific date. 
+  
+Subject to the limitations set forth in this Section 14 (including Annex 14.1-2 ) and Section 15, the Other 
+Shareholder 4 hereby represents and warrants to the Investor that the representations and warranties set 
+forth in Annex 14.1-2  are true and accurate, each as of the date of this Agreement, the EGM Date and the 
+Closing Date, except for those representations and warranties which are explicitly made as of a specific 
+date. 
+   
+14.2 Representations and Warranties of Investor 
+  
+Subject to the limitations set forth in this Section 14 (including Annex 14.2 ) and Section 15, the Investor 
+represents and warrants to the Existing Shareholders and the Company that the representations and 
+warranties set forth in Annex 14.2 are true and accurate, each as of the date of this Agreement, the EGM 
+Date and the Closing Date, except for those representations and warranties which are explicitly made as 
+of a specific date. 
+   
+14.3 Exclusive Representations and Warranties 
+   
+(a) The Parties acknowle dge that none of the Parties has made, and none of the Parties has relied upon, 
+any representation or warranty, express or implied, pertaining to the subject matter of this Agreement 
+other than as expressly provided in this Agreement and as set forth separ ately in the BCA.  
+   
+(b) Without prejudice to the foregoing, each of the Existing Shareholders hereby acknowledges that the 
+Investor has entered into this Agreement and will pay the Subscription Amount in reliance on each 
+of the representations and warranties set forth in this Section 14 (including Annex 14.1- 1 and Annex 
+14.1-2) and as set forth separately in the BCA.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  18 / 24
+   
+15. Remedies 
+   
+15.1 Notice of Breach ( Rügefrist ) 
+   
+(a) The Investor shall deliver to the Company (which shall receive such notice for and on behalf of, and 
+promptly forward a copy of such notice to each Existing Shareholder) a notice in writing describing 
+the underlying facts of a claim for misrepresentati on or breach of warranty in reasonable detail to the 
+extent then known within 60 (sixty) calendar days after the Investor has obtained reasonable 
+knowledge of the circumstances which are likely to give rise to a claim for misrepresentation or 
+breach of war ranty under this Agreement.  
+   
+(b) Failure to provide notice of claim consistent with this Section 15.1 shall not relieve an Existing 
+Shareholder and/or the Company of any liability it may have under Section 14.1; provided, however, 
+that an Existing Shareholder and/or the Company shall not be liable for any damage, loss, expense, 
+or cost to the extent the same is attributable to, or caused or aggravated by, or could not be remedied 
+due to, the Investor’s failure to timely provide notice in accordance with this Section 15.1. The Parties 
+explicitly waive the application of article  201 CO. 
+   
+15.2 Time Limitations on Claims 
+   
+(a) The representations and warranties given by the Existing Shareholders and the Company as set forth 
+in Section 14.1 and Annex 14.1-1 or Annex 14.1- 2, respectively, shall expire, and any claim of the 
+Investor for misrepresentation or breach of warranty shall be time barred, forfeited and precluded 
+from as of the first anniversary of the Closing Date.  
+   
+(b) It is understood and agreed that any notice of claim for misrepresentation or breach of warranty shall 
+be delivered to the Company (which shall receive such notice for and on behalf of, and promptly 
+forward a copy of such notice to, each Existing Shareholder) on or by the applicable date set forth in 
+the preceding paragraphs, in which case the resolution of such claim may be effected after such date; 
+provided, however, that notwithstanding the foregoing, the Investor’s claim shall be time- barred, 
+forfeited and precluded from being made ( verjährt/verwirkt ) unless the Investor initiates proceedings 
+on the claim against the Existing Shareholders and/or the Company in accordance with Section 17.2 
+within nine (9) months from the date of the Investor’s notice of claim to the Company.  
+   
+(c) The Parties explicitly waive the application of article  210 CO. 
+   
+15.3 Remedies of Investor 
+   
+(a) With respect to a misrepresentation or a breach of warranty notified by the Investor to the Company 
+in accordance with Section 15.1 and Section 15.2, the Existing Shareholders and/or the Company 
+shall have the right, within 30 (thirty) calendar days after receipt of such notice of breach by the 
+Company, to put the Company or, with the prior writt en consent of the Investor (such consent not to 
+be unreasonably withheld or delayed in case the damage, loss, expense, or cost was incurred by the 
+Investor and not by the Company), the Investor, at the Existing Shareholders’ and/or the Company’s 
+own expens e, in the position it would have been in had no such misrepresentation or breach of 
+warranty occurred.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  19 / 24
+   
+(b) If and to the extent the remedy set forth in the preceding paragraph cannot be effected or is not 
+effected within such period of time, then the Investor, subject to the exclusions and limitations set 
+forth in this Agreement, shall have the right to claim that the Existing Shareholders and/or the 
+Company pay, and each Existing Shareholder and/or the Company shall be, subject to Section 15.4, 
+severally (and not jointly) and solely in respect of such Existing Shareholder or the Company liable 
+to the Investor to pay, damages to the Company (or, i f the damage, loss, expense, or cost is incurred 
+by the Investor and the Investor so elects in accordance with the foregoing paragraph, to the Investor) 
+in the amount which is necessary to put the Company (or, subject to the foregoing requirements, the 
+Investor) in the position it would have been in had no such misrepresentation or breach of warranty 
+occurred. Such damages shall include all duly documented external costs and reasonable expenses of 
+the Company (or, subject to the foregoing requirements, the Investor) including reasonable attorneys’ 
+fees. 
+   
+15.4 Limitations on Liability 
+   
+(a) Notwithstanding anything contained in this Agreement to the contrary, it is acknowledged and agreed 
+that the liability of the Existing Shareholders and the Company towards the Investor for 
+misrepresentations or breaches of warranties under this Agreement shall not exceed, in the aggregate, 
+the sum of (i) the Available Closing Date Cash, and (ii) reasonable and documented costs and fees 
+incurred by the Investo r in connection with the examination of such misrepresentation or breach of 
+warranty and any legal proceedings against Existing Shareholders and/or the Company.  
+   
+(b) Notwithstanding anything contained in Section  15.4(a) to the contrary, it is acknowledged and agreed 
+that the liability of the Company towards the Investor for misrepresentations or breaches of 
+warranties under this Agreement shall not exceed, an amount equal to the Company’s freely 
+disposable reserves ( frei verfügbares Eigenkapita l). 
+   
+15.5 Remedies of Existing Shareholders and Company 
+  
+The provisions of Sections 15.1 and 15.4 shall apply by analogy to any claim by an Existing Shareholder 
+that the Investor is liable for any misrepresentation or breach of warranty under Section 14.2 and 
+Annex 14.2 . 
+   
+15.6 Remedies Exclusive 
+  
+The remedies in this Section 15 for any misrepresentation or breach of warranty under this Agreement 
+shall be in lieu of, and not in addition to, the remedies provided for under statutory law. All other remedies 
+including, without limitation, the right to rescind this Agreement shall, subject to the right of termination 
+and rescission in accordance with Section 11.4, not apply and are expressly excluded and waived. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  20 / 24
+   
+16. Miscellaneous 
+   
+16.1 Nature of Parties’ Rights and Obligations 
+   
+(a) Except as specifically provided otherwise in this Agreement, the rights and obligations of the Parties 
+hereunder shall be several (and not joint).  
+   
+(b) The non-performance by the Company or another Party (“ Defaulting Party ”) shall neither relieve 
+the Company nor any other Party from performing its obligations under this Agreement, nor shall the 
+Company (provided it is not the Defaulting Party) or any other Party be liable for the non -
+performance by the Defaulting Party.  
+   
+(c) The obligations of the Parties hereunder are contractual in nature and the Parties agree that they do 
+not form, and this Agreement shall not be deemed to constitute, a simple partnership ( einfache 
+Gesellschaft ) pursuant to articles  530 et seq. CO.  
+   
+16.2 Confidentiality 
+   
+(a) Each of the Parties agrees to keep secret and confidential and not to use, disclose or divulge to any 
+third party or to enable or cause any person to become aware of, any of the terms and conditions of 
+this Agreement, and any information exchanged among the Parties in connection with their 
+investment and common shareholdings in the Company or pertaining to the business and the 
+operation of the Company (all such information collectively “ Confidential Information ”), The 
+Parties shall ensure that their employees, directors and any other representatives as well as the 
+advisors of each Party to whom any such Confidential Information is entrusted comply with t hese 
+restrictions.  
+   
+(b) The term Confidential Information shall not include any information: (i) which as of the time of its 
+disclosure by a Party was already lawfully in the possession of the receiving Party as evidenced by 
+written records, or (ii) which at the time of the disclosure was in the public domain, or (iii) the 
+disclosure of which was previously explicitly authorized by the respective Party.  
+   
+(c) The non-disclosure obligation shall not apply to any disclosure of Confidential Information required 
+by law or regulations. In the event a disclosure of Confidential Information is required by law or 
+regulations (including, without limitation, for tax, audit or regulatory purposes), the disclosing Party 
+shall use all reasonable efforts to arrang e for the confidential treatment of the materials and 
+information so disclosed.  
+   
+(d) No announcement or press releases regarding the transactions contemplated by the Business 
+Combination Agreement shall be made by any Party without the prior written con sent of the Board 
+(such consent not to be unreasonably withheld).  
+   
+(e) Finally, it is acknowledged and agreed that the Investor is allowed to share Confidential Information 
+with its Affiliates as well as with its auditors, legal and other advisors, and to report regularly to its 
+investors and/or any of its Affiliates on all information pertaining to the Company and the equity 
+investment made or to be made in the Company in accordance with its reporting obligations under 
+its fund investment documents or to the extent required for legal, tax, audit or regulatory purposes.  
+   
+(f) Nothing herein shall restrict the Company from granting third parties customary due diligence access 
+for purposes of financial, commercial, strategic or similar trans actions. 
+  
+ 
+ 
+ 
+ 
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  21 / 24
+  
+16.3  
+Successors and Assigns  
+  
+This Agreement shall be binding upon and shall inure to the benefit of the Parties and their respective 
+permitted successors and assigns; provided, however, that neither the Company nor another Party hereto 
+shall be entitled to assign or transfer any of the rights or obligations hereunder to any other party. 
+  
+16.4  
+Costs and Expenses, Taxes  
+   
+(a) Subject to the immediately following paragraph, it is agreed that each Party shall bear its own costs 
+and expenses arising out of or incurred, and any taxes imposed on it, in connection with this 
+Agreement and all transactions contemplated hereby.  
+       
+(b) The Company shall bear all Swiss issuance and stamp taxes arising out of the Investment.  
+  
+16.5  
+Notices 
+   
+(a) All notices and other communications made or to be made pursuant to this Agreement shall be given 
+in writing by e -mail, or courier to the following addresses:  
+  
+If to the Investor:   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+               If to company:                          
+       
+ 
+  T.C.S. Tactical Combat 
+Systems SA 
+Via F. Pelli 13 
+6901 
+LUGANO,Switzerland 
+hartenbach@recotax.com
+Traderegister  
+Cantone Ticino 
+CHE 137144059 
+CEO:S.Hartenbach   
+    
+                                                                                                                             
+  
+ 
+             If to shareholder: SAH_GmbH 
+Römerstraße70 
+D-74078 Heilbronn 
+m.heyd@sahgreen.de 
+Amtsgericht_Stuttgart  
+HRB 107376  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  23/ 24
+   
+(b) To the extent this Agreement explicitly provides for delivery of a notice to the Company on behalf 
+of an Existing Shareholder, each Existing Shareholder hereby appoints the Company as receiver of 
+notices on its behalf. The Company shall promptly upon receipt send complete copies of such notices 
+to each Existing Shareholde r. 
+       
+(c) For the purpose of meeting a time period or deadline by the sender, a notice shall be deemed made 
+when dispatched by the sender. For triggering the start of a period or deadline for the recipient, a 
+notice shall be deemed made or received when it arrives at the recipient ( Zugang). 
+       
+(d) Each Party may change or amend the addresses given above or designate additional addresses for the 
+purposes of this Section 16.5 by giving the other Parties written notice of the new address in the 
+manner set forth in this Section  16.5. 
+  
+16.6  
+Entire Agreement  
+  
+With the exception of the BCA and its annexes, this Agreement including its Annexes constitutes the 
+entire agreement among the Parties with respect to the subject matter hereof and supersedes any 
+agreement or understanding that may have been concluded with respect to the subject matter hereof 
+between any of the Parties prior to the date of this Agreement. 
+  
+16.7  
+Severability  
+  
+If at any time, any provision of this Agreement or any part thereof is or becomes invalid or unenforceable, 
+then neither the validity nor the enforceability of the remaining provisions or the remaining part of the 
+provision shall in any way be affected or impaired thereby. The Parties agree to replace the invalid or 
+unenforceable provision or part thereof by a valid or enforceable provision, which shall best reflect the 
+Parties’ original intention and shall achieve the same economic result, to the extent possible. 
+  
+16.8  
+Amendments  
+  
+Any amendment to this Agreement (including this Section 16.8) must be in writing. 
+  
+Notwithstanding anything contained herein to the contrary, the Parties acknowledge and agree that this 
+Agreement (including this Section 16.8) may be amended in writing by an instrument signed solely by 
+the Investor, the Company and holders of a majority of the Participation Shares with binding effect on all 
+other Parties; provided, however, that any such modification or amendment of any of the provisions of 
+this Agreement shall neither affect any accrued rights of any other Party nor impose any greater liability 
+or any more onerous obligation than those contained in this Agreement on the other Parties who do not 
+sign such modification or amendment. 
+  
+16.9  
+Waiver of Rights  
+  
+No waiver by a Party of a failure of any other Party to perform any provision of this Agreement shall 
+operate or be construed as a waiver in respect of any other or further failure whether of a similar or 
+different character. 
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  23 / 24
+  
+17.  
+Governing Law and Arbitration  
+  
+17.1  
+Governing Law  
+  
+This Agreement shall in all respects be governed by and construed in accordance with the substantive 
+laws of Switzerland, excluding the United Nations Convention on Contracts for the International Sales of 
+Goods of 11 April 1980 (CISG). 
+  
+17.2  
+Arbitration  
+  
+Any dispute, controversy, or claim arising out of, or in relation to, this Agreement, including the validity, 
+invalidity, breach, or termination thereof, shall be resolved by arbitration in accordance with the Swiss 
+Rules of International Arbitration of the Swiss Arbitration Centre in force on the date on which the Notice 
+of Arbitration is submitted in accordance with those Rules. The number of arbitrators shall be three. The 
+seat of the arbitration shall be Zurich and the arbitration proceedings shall be conducted in English; 
+provided that evidence may be submitted to the arbitration tribunal in German without translation into 
+English. 
+  
+17.3  
+Trust Account Waiver  
+  
+The Company and the Existing Shareholders acknowledge that the Investor has established the Trust 
+Account for the benefit of its public shareholders, which contains the proceeds of its initial public offering 
+and from certain private placements occurring simultaneously with the initial public offering (including 
+interest accrued from time to time thereon) for the benefit of the Investor’s public shareholders and certain 
+other parties (including the underwriters of the initial public offering). For and in consideration of the 
+Investor entering into this Agreement and for other good and valuable consideration, the sufficiency of 
+which is hereby acknowledged, each of the Company and the Existing Shareholders, for itself and the 
+Affiliates it has the authority to bind, hereby agrees it does not now and shall not at any time hereafter 
+have any right, title, interest or claim of any kind in or to any assets in the Trust Account, regardless of 
+whether such claim arises as a result of, in connection with or relating in any way to this Agreement or 
+any other matter, and regardless of whether such claim arises based on contract, tort, equity or any other 
+theory of legal liability (any and all such claims are collectively referred to hereafter as the “ Released 
+Claims”). The Company and the Existing Shareholders hereby irrevocably waive any Released Claims 
+that they may have against the Trust Account now or in the future as a result of, or arising out of, any 
+discussions, contracts or agreements with the Company and will not seek recourse against the Trust 
+Account for any reason whatsoever; provided that (a) nothing herein shall serve to limit or prohibit the 
+Company’s or any Existing Shareholders’ right to pursue a claim against the Investor for legal relief 
+against monies or other assets held outside the Trust Account, for specific performance or other equitable 
+relief in connection with the consummation of the transactions (including a claim for the Investor to 
+specifically perform its obligations under this Agreement and cause the disbursement of the balance of 
+the cash remaining in the Trust Account (after giving effect to redemptions by the Investor’s public 
+shareholders) to the Company in accordance with the terms of this Agreement and the Trust Agreement) 
+and (b) nothing herein shall serve to limit or prohibit any claims that the Company may have in the future 
+against the Investor’s assets or funds that are not held in the Trust Account (including any funds that have 
+been released from the Trust Account and any assets that have been purchased or acquired with any such 
+funds). 
+  
+[signatures on the following pages ] 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  24 / 24
+ 
+ 
+ 
+ 
+ 
+The Parties have signed this Agreement on the date first written above. 
+  
+Investor    
+        
+   
+        
+  
+Name:      
+Function:        
+      
+ 
+Founder and only Shareholder 1     
+        
+   
+Name : Mr Marco Heyd     
+Function: 
+Founder and 
+Shareholder        
+    
+     
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  1 / 14
+  
+Annex 1: Defined Terms 
+  
+“Affiliate” and 
+“Affiliates ”   shall mean any person or entity that directly, or indirectly through one or more 
+intermediaries, controls or is controlled by or is under common control with the person 
+or entity specified and includes, in case of an Investor, funds, investment vehicles or 
+other entities formed or incorporated in any jurisdiction which are owned, managed or 
+advised by such Investor or by the same advisor as the Investor.  
+      
+“Agreement ”   shall mean this investment and subscription agreement including all Annexes.  
+      
+“Annex”   shall mean any annex to this Agreement.  
+      
+“Articles”   shall mean the articles of incorporation ( Statuten) of the Company substantially in the 
+form attached to this Agreement and as amended from time to time.  
+      
+“Authority ”   shall mean any court, arbitral tribunal, or governmental, administrative or regulatory 
+authority or agency.  
+      
+“Authorization ”   shall mean any official authorization, order, permission, product registration, 
+certification, certificate, approval, notice or consent ( including any written amendment, 
+supplement or replacement).  
+      
+“Available Closing 
+Date Cash ”   shall have the meaning set forth in the BCA. 
+      
+“BCA”   shall have the meaning set forth in Recital  (D). 
+      
+“BCA Closing ”   shall have the meaning set forth in Recital  (E). 
+      
+“Board”   shall mean the board of directors of the Company, as appointed from time to time in 
+accordance with the terms of this Agreement.  
+      
+“Business Day ”   shall mean any day except a Saturday, a Sunday or any other day on which commercial 
+banks are required or authorized to close in the State of New York or the Canton of 
+Zug, Switzerland.  
+      
+“Business”   shall have the meaning set forth in Recital  (C). 
+      
+“BVF Party” and 
+“BVF Parties”    shall have the meaning set forth in Recital (D). 
+      
+“BVF Share 
+Transfers”    shall have the meaning set forth in Recital (D). 
+      
+“Capital Reduction ”   shall have the meaning set forth in Section  13.3(c).  
+      
+“Cash Contribution ”   shall have the meaning set forth in Section 3.1(b)(ii). 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  2 / 14
+  
+“Cash Contribution 
+Agreement ”   shall have the meaning set forth in Section 5. 
+      
+“CEO”   shall mean the Chief Executive Officer of the Company appointed from time to time in 
+accordance with this Agreement.  
+      
+“Chairman ”   shall mean the chairman of the Board ( Verwaltungsratspräsident ). 
+      
+“Class A Ordinary 
+Shares”   shall mean Class A ordinary shares in the Investor. 
+      
+“Class A Shares ”   shall have the meaning set forth in Recital  (D). 
+      
+“Closing”   shall mean the closing of the transactions contemplated by this Agreement pursuant to 
+Section 11 of this Agreement and the BCA Closing as set forth in the BCA.  
+      
+“Closing Date ”   shall have the meaning set forth in Section  11.1. 
+      
+“CO”   shall mean the Swiss Code of Obligations ( Schweizerisches Obligationenrecht ) as of 
+March 30, 1911, as amended from time to time.  
+      
+“Common Shares ”   shall have the meaning set forth in Recital  (B). 
+      
+“Company ”   shall have the meaning set forth on page 2.  
+      
+“Conditional Capital ”   shall have the meaning set forth in Recital  (B). 
+      
+“Confidential 
+Information ”   shall have the meaning set forth in Section 16.2(a). 
+      
+“Corporate 
+Documents ”   shall mean the corporate documents of the Company necessary for execution and 
+registration of the adoption of the Articles, the Share Conversion, the Nominal Capital 
+Increase and the changes to the Board of the Company, with the commercial register 
+of the Canton of Zug, including, without limitation, the minutes of the Extraordinary 
+General Meeting, the Articles, the Company’s Board report regarding capital increase 
+(Kapitalerhöhungsbericht ), the resolution of the Company’s Board in the 
+ascertainment and th e execution of the Nominal Capital Increase 
+(Feststellungsbeschluss ) and the Closing Application.  
+      
+“Cut-Off Date ”   shall have the meaning set forth in Section  8(a). 
+      
+“Defaulting Party ”   shall have the meaning set forth in Section 16.1(a). 
+      
+“Determined Nominal 
+Amount”   shall mean the aggregate nominal amount of the capital increase, calculated by 
+multiplying the number of Investor’s Preliminary Class A Shares , as calculated in 
+accordance with the provisions of the BCA, by CHF  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  3 / 14
+  
+  
+“Director”   shall mean a member of the Board appointed from time to time in accordance with the 
+terms of this Agreement.  
+      
+“EGM Date”    shall have the meaning set forth in Section  4.2.1(i). 
+      
+“Employee Share 
+Participation Plan”    shall mean the employee share participation plan dated 29 Feb 2024 of T.C.S. Tactical 
+Combat Systems SA , as amended from time to time.  
+      
+“Employee Stock 
+Option Plan”    shall mean the employee stock option plan dated 29 Feb 2024 of T.C.S. Tactical 
+Combat Systems SA , as amended from time to time.  
+      
+“Existing Articles ”   shall mean the existing articles of incorporation ( Statuten) of the Company as in effect 
+and in force as per the date of this Agreement.  
+      
+“Existing Shareholder ” 
+and “Existing 
+Shareholders ”   shall have the meaning set forth on page 2 of this Agreement taking into account the 
+extension of the defined term according to Section 9. 
+      
+“Existing Shares ”   shall have the meaning set forth in Recital  (B). 
+      
+“Extraordinary 
+General Meeting ”   shall have the meaning set forth in Section 4.2.1(i). 
+      
+“Founder” and 
+“Founders ”   shall have the meaning set forth on page 1. 
+      
+“Investment ”   shall have the meaning set forth in Section  3.1(a). 
+      
+“Investor”   shall have the meaning set forth on page 1.  
+      
+“Investor’s Final Class 
+A Shares ”   shall have the meaning set forth in Recital (E). 
+      
+“Investor’s 
+Preliminary Class A 
+Shares”   shall have the meaning set forth in Recital (E). 
+      
+“Lien”   shall mean, with respect to any specified asset, any and all liens, mortgages, 
+hypothecations, claims, encumbrances, options, pledges, licenses, rights of priority, 
+easements, covenants, restrictions and security interests thereon.  
+      
+“Minimum Investment 
+Amount”   shall have the meaning set forth in Recital (E). 
+      
+“ML Bank Account ”   shall have the meaning set forth in Section  11.3. 
+      
+“Nominal Capital 
+Increase”   shall have the meaning set forth in Section 3.1(b)(i). 
+      
+“Nominal Issue Price ”   shall have the meaning set forth in Section 4.2.3(iii). 
+ 
+ 
+ 
+  
+  
+ 
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  4 / 14
+  
+“Other Shareholder ” 
+and “Other 
+Shareholders ”   shall have the meaning set forth on pages 1 and 2. 
+      
+“Party” and “Parties”   shall have the meaning set forth on page 2.  
+      
+“Permitted 
+Allocations ”   shall have the meaning set forth 11.2(iv). 
+      
+“PIPE Transaction ”   shall have the meaning set forth in Recital  (E). 
+      
+“Plans”   shall have the meaning set forth in Section 8(a). 
+      
+“Pre-Closing 
+Application ”   shall have the meaning set forth in Section 10(j). 
+      
+“Preliminary 
+Investment Amount ”   shall have the meaning set forth in Recital (E). 
+      
+“Preliminary Nominal 
+Subscription Amount ”   shall have the meaning set forth in Section 4.3.1(a). 
+      
+“Proxy Holder ”   shall mean the proxy holder whose name is entered in the proxy as the person who is 
+appointed to represent and act for the relevant Existing Shareholder as issuer of the 
+proxy in the Extraordinary General Meeting.  
+      
+“Recital”   shall mean a recital in this Agreement.  
+      
+“Released Claim ”   shall have the meaning in Section 17.3.  
+      
+“Restated and 
+Amended 
+Shareholders ’ 
+Agreement ”   shall mean the restated and amended shareholders’ agreement substantially in the form 
+as attached hereto in Annex 11.3(f). 
+      
+“Re-Transfer Class A 
+Shares”   shall have the meaning set forth in Section 13.3. 
+      
+“Re-Transfer Purchase 
+Price”   shall have the meaning set forth in Section 13.3. 
+      
+“SEC”   means the United States Securities and Exchange Commission.  
+      
+“Series A Preferred 
+Shares”   shall have the meaning set forth in Recital (B). 
+      
+“Shares”   shall mean any shares ( Aktien) or participations ( Partizipationsscheine ) issued by the 
+Company from time to time.  
+      
+“Share Conversion ”   shall have the meaning set forth in Recital  (D). 
+      
+“Share Re-Transfer ”   shall have the meaning set forth in Section 3.1(b)(iii).  
+      
+“SOGC”   Swiss Official Gazette of Commerce.  
+      
+“Stock Options ”   shall have the meaning set forth in Section 8(a).  
+      
+“Stock Option 
+Restriction ”   shall have the meaning set forth in Section 8(a). 
+ 
+    
+“Subscription Form ”   shall mean the subscription forms to be executed by the Investor in accordance with 
+the terms of this Agreement in form and substance satisfactory to the Company and as 
+required by Swiss corporate law.  
+      
+“Transferred Common 
+Shares”   shall have the meaning set forth in Section 5(a). 
+      
+“Trust Account ”   shall mean the trust account established by the Investor pursuant to the Trust 
+Agreement.  
+      
+“Trust Agreement ”   shall mean that certain Investment Management Trust Agreement, dated as of May 15 , 
+2024, by and between the Investor and  T.C.S Tactical Combat Systems SA  
+      
+“Updated Cap Table ”   shall have the meaning set forth in Section 4.2.2.  
+   
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  5 / 14
+  
+Annex 2:  Current Cap Table 
+  
+[Omitted.] 
+  
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  6 / 14
+  
+Annex 4.2.2:  Cap Table after Closing 
+  
+[Omitted.] 
+  
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  7 / 14
+  
+Annex 4.2.3:  Articles 
+  
+[Omitted.] 
+  
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  8 / 14
+  
+Annex 5(c): Form of Assignment Declaration regarding Transferred Common Shares 
+  
+[Omitted.] 
+  
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  9 / 14
+  
+Annex 13.3: Form of Assignment Declaration 
+  
+[Omitted.] 
+  
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  10 / 14
+  
+Annex 11.3(f): Form of Restated and Amended Shareholders’ Agreement 
+  
+[Omitted.] 
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  11 / 14
+  
+Annex 14.1-1: Representations and Warranties of Existing Shareholders (other than the Other Shareholder 
+4) and Company 
+  
+1. Capacity and Title of Existing Shareholders and the Company  
+  
+1.1 Authority and Ownership  
+   
+(a) Each Existing Shareholder and the Company has the unrestricted right, power and authority to enter 
+into, to execute and deliver this Agreement and to consummate the transactions contemplat ed hereby, 
+and has taken all actions necessary, including required corporate approvals, in order to enter into, to 
+execute, deliver and perform its respective obligations hereunder and to consummate the transactions 
+contemplated hereby.  
+   
+(b) This Agreement has been duly executed and delivered by each of the Existing Shareholders and the 
+Company and constitutes the valid and binding agreement of the Existing Shareholders and the 
+Company, enforceable against each of the Existing Shareholders and the Company in accordance 
+with its terms.  
+   
+(c) The Existing Shareholders are neither over-indebted ( überschuldet ), nor insolvent ( insolvent) nor 
+unable to pay their debts as they fall due ( illiquid). 
+   
+(d) The Existing Shareholders are the sole legal and beneficial owners of the Existing Shares free and 
+clear of any encumbrances. The Existing Shares set forth on Annex 2 comprise all of the capital stock 
+of the Company that are issued and outstanding as of th e date hereof. Other than Stock Options 
+referring to the Conditional Capital set forth on Annex 2, no options, warrants, calls, rights, contracts, 
+commitments or derivative instruments are outstanding that could require the Company to sell, 
+transfer or iss ue any shares or other securities of the Company.  
+   
+(e) The Cap Table after Closing set forth on Annex 4.2.2, once updated, will reflect all of the capital 
+stock of the Company, the remaining Conditional Capital as well as the Stock Options referring to 
+the Conditional Capital that are issued and outstanding as of the Closing Date.  
+  
+1.2 Execution and Performance, No Consents  
+   
+(a) The execution and the performance of this Agreement by each Existing Shareholder and the 
+Company have been authorized by all necessary corporate actions of such Existing Shareholder and 
+the Company and the execution and performance of this Agreement by the Company or the Existing 
+Shareholders will not (i) conflict with or result in any breach of any of the material terms, conditions 
+or provisions of, (ii) constitute a material default under (whether with or without the giving of notice, 
+the passage of time or both), (iii) result in a material violation of, (iv) give any third party the right 
+to terminate or accelerate, or cause any termination or acceleration of, any material right or material 
+obligation under, (v) result in the creation of any Lien upon the Existing Shares under, (vi) require 
+any approval from, or (vii) require any filing with, (A) any mate rial contract, (B) any constitutional 
+documents or (C) any authority under or pursuant to any law or order to which the Company or any 
+Existing Shareholder is bound or subject, with respect to clauses (iv) through (vii), which would 
+reasonably be expected to be material to the Company or any Existing Shareholder, other than as 
+required under this Agreement.  
+   
+(b) There are no proceedings or investigations whatsoever pending or threatened in writing against any 
+of the Existing Shareholders and/or the Compa ny that could compromise the transactions 
+contemplated by this Agreement.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  12 / 14
+  
+2. Status of the Company  
+   
+2.1 Incorporation, Share Capital and Authority  
+   
+(a) The Company is a corporation duly incorporated and validly existing under the laws of Switzerland.
+   
+(b) At the date of this Agreement, the Company has an issued statutory share capital in the nominal 
+amount of CHF 100.000,00 divided into 1 registered shares ( Namenaktien ) with a nominal value of 
+CHF 100.000,00  per share. 
+   
+(c) The Company has an outstanding conditional capital ( bedingtes Kapital ) of CHF 150.000.000,00 , 
+allowing for the issuance of up registered Participation Shares for in connection with the Company’s 
+Plans. 
+   
+(d) Existing Shares have been validly issued, are fully paid up and constitute the entire issued share 
+capital of the Company. No share certificates have been issued by the Company since its 
+incorporation. In particular, in the context of the incorporation of the Company and/or subsequent 
+capital increases, there have not been any undisclosed (intended) acquisitions of assets 
+((beabsichtigte) Sachübernahmen ), no options, warrants, calls, right s, contracts, commitments or 
+derivative instruments are outstanding that could require the Company to sell, transfer or issue any 
+shares or other securities of the Company . 
+   
+(e) The Class A Shares, if issued in accordance with this Agreement, will be validly issued and fully 
+paid-up. 
+   
+(f) The Company has full corporate power and authority to own its property and assets and to carry on 
+its Business as presently conducted.  
+   
+2.2 No Dissolution, Bankruptcy or Insolvency  
+   
+(a) No measures have been taken for the dissolution and liquidation or declaration of bankruptcy of the 
+Company and no events have occurred which would justify any such measures to be taken, in 
+particular (i) no order has been made, petition presented, resolut ion passed or meeting convened for 
+the winding up, dissolution or liquidation of the Company and there are no proceedings under 
+applicable insolvency, bankruptcy, composition, moratorium, reorganization, or similar laws and no 
+events have occurred which wo uld require the initiation of any such proceedings; and (ii) no receiver, 
+liquidator, administrator, commissioner or similar official has been appointed in respect of the 
+Company and no step has been taken for or with a view to the appointment of such a pe rson. 
+   
+(b) The Company is neither over-indebted ( überschuldet ), nor insolvent ( insolvent) nor unable to pay its 
+debts as they fall due ( illiquid). 
+   
+2.3 Corporate Books and Registers  
+  
+The corporate books, registers, accounts, ledgers, records and supporting documents of the Company are 
+up to date and contain complete and accurate records of all matters since its incorporation, which were 
+required by law to be dealt with in such documents. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  13 / 14
+  
+Annex 14.1-2: Representations and Warranties of the Other Shareholder 4 
+   
+1. Capacity and Title of Other Shareholder 4  
+   
+1.1 Authority and Ownership  
+   
+(a) The Shareholder 1 has the unrestricted right, power and authority to enter into, to execute and deliver 
+this Agreement and to consummate the transactions contemplated hereby, and has taken all actions 
+necessary, including required corporate approvals, in o rder to enter into, to execute, deliver and 
+perform its respective obligations hereunder and to consummate the transactions contemplated 
+hereby. 
+   
+(b) This Agreement has been duly executed and delivered by Shareholder 1 and constitutes the valid and 
+binding agreement, enforceable against the Shareholder 1 in accordance with its terms.  
+   
+(c) The Shareholder 1 is neither over-indebted ( überschuldet ), nor insolvent ( insolvent) nor unable to 
+pay its debts as they fall due ( illiquid). 
+   
+(d) The Shareholder 1 is the sole legal and beneficial owner of 100 percent of Existing Shares free and 
+clear of any encumbranc es. 
+   
+1.2 Execution and Performance, No Consents  
+   
+(a) The execution and the performance of this Agreement of Shareholder 1 has been authorized by all 
+necessary corporate actions of the Shareholder 1 and the execution and performance of this 
+Agreement Shareholder 1 will not (i) conflict with or result in any breach of any of the material terms, 
+conditions or provisions of, (ii ) constitute a material default under (whether with or without the giving 
+of notice, the passage of time or both), (iii) result in a material violation of, (iv) give any third party 
+the right to terminate or accelerate, or cause any termination or accelera tion of, any material right or 
+material obligation under, (v) result in the creation of any Lien upon the 100 percent of Existing 
+Shares held by Shareholder 1 under, (vi) require any approval from, or (vii) require any filing with, 
+(A) any material contrac t, (B) any constitutional documents or (C) any authority under or pursuant 
+to any law or order to which the Shareholder1 is bound or subject, with respect to clauses (iv) through 
+(vii), which would reasonably be expected to be material to the Shareholder 1 , other than as required 
+under this Agreement.  
+   
+(b) There are no proceedings or investigations whatsoever pending or threatened in writing against the 
+Shareholder 1 that could compromise the transactions contemplated by this Agreement.  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T.C.S. Tactical Combat Systems SA : Project Green Safe House –Investment Agreement  14 / 14
+  
+Annex 14.2: Representations and Warranties of the Investor 
+   
+1. Capacity of Investor  
+   
+1.1 Authority  
+   
+(a) The Investor has the unrestricted right, power and authority to enter into, to execute and deliver this 
+Agreement and to consummate the transactions contemplated hereby, and has taken all actions 
+necessary, including required corporate approvals, in order to enter into, to execute, deliver and 
+perform its respective obligations hereunder and to consummate the transactions contemplated 
+hereby. 
+   
+(b) This Agreement has been duly authorized, executed and delivered by the Investor and constitutes a 
+valid and binding agreement of the Investor, enforc eable against the Investor in accordance with its 
+respective terms. It is neither over-indebted ( überschuldet ) nor insolvent ( insolvent) or unable to pay 
+its debts as they fall due ( illiquid) and there are no circumstances that indicate any over- indebtedness 
+or insolvency or illiquidity of it in the foreseeable future.  
+   
+1.2 Execution and Performance  
+  
+Except for the filings necessary pursuant to the BCA, the execution and the performance of this 
+Agreement by the Investor have been authorized by all necessary corporate action of the Investor and 
+execution and the performance will not (i) conflict with or result in any breach of any of the material 
+terms, conditions or provisions of, (ii) constitute a material default under (whether with or without the 
+giving of notice, the passage of time or both), (iii) result in a material violation of, (iv) give any third 
+party the right to terminate or accelerate, or cause any termination or acceleration of, any material right 
+or material obligation under, (v) result in the creation of any Lien upon its equity securities under, (vi) 
+require any approval from, or (vii) require any filing with, (A) any material contract, (B) any constitutional 
+documents or (C) any authority under or pursuant to any law or order to which the Investor is bound or 
+subject, with respect to clauses (iv) and (vii), which would reasonably be expected to be material to the 
+Investor, other than as required under this Agreement. 
+   
+1.3 No Consents Required  
+  
+There are no proceedings or investigations whatsoever pending or threatened in writing against the 
+Investor that could compromise the consummation of the transactions contemplated by this Agreement. 
+   
+1.4 Incorporation; Good Standing  
+  
+The Investor is an exempted company duly incorporated, validly existing and in good standing under the 
+laws of Switzerland. 
+  
+  
+  
+  
+  
+ 
+
+
+================================================================================
+SOURCE DOCUMENT: NotarÜbertragungSAH_TCS_converted.txt
+================================================================================
+SOURCE DOCUMENT: NotarÜbertragungSAH_TCS.pdf
+CONVERTED FROM: PDF
+FILE SIZE: 2362781 bytes
+================================================================================
+
+
+
+
+
+
+
+
+
+
+
+================================================================================
+SOURCE DOCUMENT: Statuto_T.C.S._Tactical_Combat_Systems_SA_-_26.04.2021_converted.txt
+================================================================================
+SOURCE DOCUMENT: Statuto T.C.S. Tactical Combat Systems SA - 26.04.2021.pdf
+CONVERTED FROM: PDF
+FILE SIZE: 558553 bytes
+================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+================================================================================
+SOURCE DOCUMENT: Handlungsvollmacht_converted.txt
+================================================================================
+SOURCE DOCUMENT: Handlungsvollmacht.pdf
+CONVERTED FROM: PDF
+FILE SIZE: 583996 bytes
+================================================================================
+
+
+
+
+
+================================================================================
+SOURCE DOCUMENT: TCSGreenSafeHouse_Co2_Emmisionseinsparung_Wertpapier_Zertifikate__converted.txt
+================================================================================
+SOURCE DOCUMENT: TCSGreenSafeHouse Co2 Emmisionseinsparung Wertpapier Zertifikate .pdf
+CONVERTED FROM: PDF
+FILE SIZE: 317067 bytes
+================================================================================
+
+  
+ WOLFGANG STEUBING AG  
+Wertpapierdienstleister Goethestraße 29 
+D -60313 Frankfurt a.M. 
+T +49 69 29 716-0 
+F +49 69 29 716-111 
+info@steubing.com 
+www.steubing.com Aufsichtsrat: 
+Alexander Caspary 
+(Vorsitzender) 
+Vorstand: 
+Andreas Keune 
+Benjamin Schmid Sitz und Gerichtsstand: 
+Frankfurt a.M. 
+Handelsregister: 
+HRB 47 167 
+Umsatzsteuer-ID: 
+DE 114 231 247  1 / 3 
+S.A.H. GmbH 
+Herr Heyd 
+Römerstr.70 
+74078  Heilbronn Frankfurt a.M ., 30.08.2023  
+ 
+ 
+ 
+Incentivierung von Energie-Effizienz Maßnahmen auf HH-Ebene durch „Emissionsgutschriften“  
+Sehr geehrter Herr Heyd, 
+ 
+wir nehmen Bezug auf unser Gespräch vom 18. Juli in unseren Räumen zur Vorstellung Ihres Kon-
+zeptes zur energetischen Gebäude- u. Heizungsmodernisierung. Dieses System soll das beste-
+hende Heizung-/Energie-System im Bestandsgebäude unter ganzheitlicher Einbeziehung aller ein-
+gesetzten, vernetzten Energietechnologien ersetzen. 
+ 
+In diesem Zusammenhang ist eine zentrale Überlegung, alle Beteiligten Parteien zusätzlich zu ei-
+nem Austausch zu incentivieren und ferner den transitorischen Prozess durch eine Aufnahme in 
+den Emissionshandel zu forcieren und zu unterstützen. Sie hatten uns gebeten, ausgehend vom 
+Standpunkt des institutionalisierten Handels, der unser Tagesgeschäft seit über 35 Jahren ist, ein 
+kurzes Anforderungsprofil an ein Instrument, also eines Emissionshandelszertifikats, bereitzustel-
+len, was wir im Folgenden versuchen wollen. 
+ 
+ 
+In der aktuellen Phase der vorhandenen Emissionshandelssysteme gibt es keinen unmittelbar an-
+wendbaren Mechanismus, innerhalb dessen sich eine Anrechnung von Emissionseinsparungen auf 
+Haushaltsebene (privater Haushalte) verwirklichen/umsetzen ließe. Gleichwohl wäre eine derarti-
+ge Einsparung von CO2 (e) Emissionen aus dem privaten HH Sektor als Energie-Effizienzmaß-
+nahme (EE) im EU ETS noch in Phase II bis vor kurzem innerhalb der flexiblen Mechanismen als 
+„Joint Implementation“ Projekt in nutz- und handelbare Emissionsgutschriften (sog. „Emission 
+Reduction Units“ / „ERU“) – zur Verwendung im EU ETS als quasi-Äquivalent zu EUAs – umsetzbar 
+gewesen. Die Frage der Sinnhaftigkeit des Ansatzes ist damit bereits erklärt (auch wenn diese Art 
+von Einsparungen kaum stattgefunden hat, da es grenzkostengünstigere Projekte innerhalb der 
+flexiblen Mechanismen gab) und es ist nicht ersichtlich, warum die Politik in der aktuellen 
+ 
+ WOLFGANG STEUBING AG  
+Wertpapierdienstleister Goethestraße 29 
+D -60313 Frankfurt a.M. 
+T +49 69 29 716-0 
+F +49 69 29 716-111 
+info@steubing.com 
+www.steubing.com Aufsichtsrat: 
+Alexander Caspary 
+(Vorsitzender) 
+Vorstand: 
+Andreas Keune 
+Benjamin Schmid Sitz und Gerichtsstand: 
+Frankfurt a.M. 
+Handelsregister: 
+HRB 47 167 
+Umsatzsteuer-ID: 
+DE 114 231 247  2 / 3 
+Ausgestaltung der vorhandenen Systeme keine Incentivierung mehr für eine signifikante Einspa-
+rung von Emissionen im Bereich der Energie-Effizienz auf HH Ebene bereitstellt. Neben der Finan-
+zierbarkeit und Anreizschaffung geht es in diesem Zusammenhang auch um die Verbesserung und 
+Skalierung von Technologien, die diverse Multiplikatoreffekte nach sich ziehen würde. 
+ 
+ 
+Innerhalb des EU ETS gilt das Downstream Prinzip, ein flexibler Mechanismus ist genauso wie die 
+Beteiligung Privater nicht mehr vorgesehen. Hinzu kommt, dass der politische Prozess zu einer 
+Berücksichtigung bestimmter Sektoren oder projektbasierter Mechanismen komplex, langwierig 
+und multilateral ist. Gleichwohl erkennt die EU die Bedeutung der Sektoren Gebäude und Stra-
+ßenverkehr im Rahmen der Bestrebungen, Emissionen einzudämmen und zu vermeiden, an und 
+plant daher im Rahmen eines „EU ETS 2“ diese einzubeziehen – voraussichtlich aber erst ab 2027 
+und in noch nicht festgelegter Art und Weise.  
+ 
+Während es aber für Gebäude aktuell keine zusätzlichen Anreize zur Emissionseinsparung und 
+Verwendung neuer Technologien gibt, abseits der Bepreisung der genutzten Brennstoffe, ist dies 
+im Bereich Straßenverkehr möglich und private Nutzer können sich jährlich eine Prämie ausbe-
+zahlen lassen, wenn Sie von einem Verbrennungsmotor auf ein Elektro-Antrieb umgestiegen sind. 
+Dieser zusätzliche Anreiz soll insbesondere zu einem Umstieg auf die Elektromobilität hinwirken. 
+Hier gilt das Prinzip des upstreams, um die Verpflichtung auf weniger und institutionale Teilneh-
+mer abzugeben; diese geben die Kosten dann über die Preise für die Brennstoffe an die Konsu-
+menten zurück, was die Anreize zur Einsparung auf dieser Ebene (zusätzlich) schafft. 
+ 
+Entsprechend ist aus unserer Sicht eine Umsetzung des Anliegens am einfachsten und sinnvolls-
+ten analog zu gestalten. Energie-Effizienz Maßnahmen auf HH Ebene kann man in Brennstoffemis-
+sionen-Äquivalenz berechnet und entsprechend gutschreiben. Das nEHS gibt in diesem Zusam-
+menhang ja auch vor, dass insbesondere die Bereich Wärme und Verkehr hierüber abgedeckt wer-
+den sollen, da diese aktuell im EU ETS nicht berücksichtigt sind.  
+ 
+ 
+Diese Gutschriften sollten dann ebenso an die verpflichtenden Teilnehmer des nEHS bzw. THG ab-
+tretbar sein. Hier ist es (zunächst) so ausgestaltet, dass es keine fungiblen Zertifikate gibt, mit ei-
+nem Spot- und einem Future Markt, sondern lediglich Emissionsgutschriften in einem elektroni-
+schen Register, die zu einem festgelegten und fixen Preis zugeteilt werden (im nEHS ist der Preis 
+der Zertifikate während der Einführungsphase von 2021 bis 2025 festgelegt). Aus Vereinfachungs-
+gründen ließen sich verschiedene Maßnahmen einführen, um eine zu aufwendige und komplexe 
+Handhabung zu verhindern und den Aufwand in Grenzen zu halten – beispielsweise über eine Art 
+Schwellwert einer Mindesteinsparung o.ä. . 
+ 
+Ein Markt für die entstandenen Einsparungen würde trotzdem entstehen bzw. besteht ja bereits, 
+analog zu dem der THG Prämien für Elektromobilität (wobei diese nicht gehandelt werden 
+ 
+ WOLFGANG STEUBING AG  
+Wertpapierdienstleister Goethestraße 29 
+D -60313 Frankfurt a.M. 
+T +49 69 29 716-0 
+F +49 69 29 716-111 
+info@steubing.com 
+www.steubing.com Aufsichtsrat: 
+Alexander Caspary 
+(Vorsitzender) 
+Vorstand: 
+Andreas Keune 
+Benjamin Schmid Sitz und Gerichtsstand: 
+Frankfurt a.M. 
+Handelsregister: 
+HRB 47 167 
+Umsatzsteuer-ID: 
+DE 114 231 247  3 / 3 
+sondern eher durch Broker aufgekauft). Ein wirklicher Handel der Zertifikate wird erst mit der Ein-
+führung eines Caps nach der Einführungsphase entstehen.  
+ 
+Ebenso wie im Falle der Elektromobilität sollte der private HH diese Gutschrift veräußern- oder sie 
+an den Anlagenbauer abtreten dürfen. Es ist zumindest nicht unmittelbar einzusehen, warum man 
+in diesem Bereich einer solchen Handhabung ablehnend gegenübersteht. 
+ 
+Mit freundlichen Grüßen, 
+ 
+Alexander Caspary 
+Vorsitz Aufsichtsrat 
+
+
+================================================================================
+SOURCE DOCUMENT: Investment_Agreement3_converted.txt
+================================================================================
+SOURCE DOCUMENT: Investment Agreement3.docx
+CONVERTED FROM: DOCX
+FILE SIZE: 176701 bytes
+================================================================================
+
+Investment Agreement
+ 
+Dated May 16, 2024
+ 
+by and among
+ 
+ 
+ 
+(“Investor”)
+ 
+ 
+ 
+(“Founder 1”)
+ 
+ 
+ 
+ 
+ 
+(“Other Shareholder 1”)
+ 
+Shareholder 3”)
+  
+ 
+ 
+ 
+ 
+and
+ 
+ 
+ 
+(“Company”)
+ 
+ 
+ 
+ 
+Table of Contents
+ 
+ 
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+List of Annexes
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+Recitals 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Now, therefore, the Parties have concluded the following Agreement:
+ 
+ 
+For purposes of this Agreement, except as otherwise set forth herein, capitalized terms shall have the meanings set forth in Annex 1.
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+In order to give effect to the Nominal Capital Increase and the Cash Contribution on the terms and subject to the conditions of this Agreement:
+ 
+ 
+ 
+ 
+ 
+No later than four (4) Business Days prior to Closing, the Parties shall determine the Preliminary Investment Amount and the number of Investor’s Preliminary Class A Shares based on the provisions and mechanisms agreed upon in the BCA.
+ 
+ 
+ 
+Each of the Existing Shareholders and, in respect of sub-paragraph (i) below, the Company hereby undertakes to the Investor to:
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+ 
+ 
+ 
+Each of the Existing Shareholders hereby unconditionally and irrevocably waives all of its subscription rights (Bezugsrechte) in connection with the Nominal Capital Increase and hereby agrees that the Company allocates the appropriate number of Class A Shares in the Nominal Capital Increase exclusively to the Investor in accordance with this Agreement and the updated cap table as at the Closing Date.
+ 
+A preliminary cap table is attached hereto in Annex 4.2.2, which shall be updated following the determination pursuant to Section 4.1 as at Closing (the “Updated Cap Table”).
+ 
+ 
+The following resolutions shall be passed at the Extraordinary General Meeting:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+No later than two (2) Business Days before the EGM Date, the Investor shall pay the Preliminary Nominal Subscription Amount (in EUR) to the following capital account of the Company with VR Bank heilbronn  (Kapitaleinzahlungskonto).
+ 
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+The Investor hereby undertakes to contribute to the Company the Cash Contribution bank account and in accordance with the terms of a written short form contribution agreement (the “Cash Contribution Agreement”), subject to the fulfillment or waiver of the conditions precedent as per Section 11.2 and subject to the adjustment mechanism in Section 13.3.
+ 
+ 
+The Company shall, and each of the Existing Shareholders hereby undertakes to procure that the Company will, operate its Business in the ordinary course in accordance with past practice, except as explicitly provided by this Agreement or with the prior written consent of the Investor (such consent not to be unreasonably withheld or delayed), from the date of this Agreement until the Closing Date.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prior to Closing, the relevant Party shall procure that (i) the following documents shall be delivered, in each case duly executed and in form and substance satisfactory to the Company and the Investor, respectively, and (ii) the following actions shall be performed:
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Closing shall take place on the date as set forth in the BCA, at a place mutually agreed upon by the Investor and the Company (“Closing Date”).
+ 
+ 
+The Closing shall be subject to the prior fulfilment (or waiver by the Investor or the Existing Shareholders, respectively) of each of the following conditions precedent:
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+At Closing, the relevant Party shall procure that (i) the following documents shall be delivered, in each case duly executed and in form and substance satisfactory to the Company, the Investor and the Existing Shareholders, respectively, and (ii) the following actions shall be performed:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In addition to the above, the Company and each of the Existing Shareholders undertakes to the Investor to execute or perform such other documents, instruments, certificates or acts as may be reasonably requested by the Investor and/or the Company in order to complete, perfect and consummate the transactions contemplated by this Agreement, including the Cash Contribution.
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+The Parties agree that any shares in the Company (including, without limitation, the Existing Shares and the Class A Shares) shall be kept in uncertificated form as uncertificated securities (einfache Wertrechte) in the sense of article 973c CO.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Immediately after performance of the actions and delivery of the documents specified in Section 11.3:
+ 
+ 
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+As soon as reasonably possible after performance of the actions and delivery of the documents specified in Sections 11.3 and 13.1:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Subject to the limitations set forth in this Section 14 (including Annex 14.1) and Section 15, each of the Existing Shareholders (other than the Other Shareholder 1) and the Company hereby (severally (and not jointly) and solely in respect of such Existing Shareholder or the Company) represents and warrants to the Investor that the representations and warranties set forth in Annex 14.1-1 are true and accurate, each as of the date of this Agreement, the EGM Date and the Closing Date, except for those representations and warranties which are explicitly made as of a specific date.
+ 
+Subject to the limitations set forth in this Section 14 (including Annex 14.1-2) and Section 15, the Other Shareholder 4 hereby represents and warrants to the Investor that the representations and warranties set forth in Annex 14.1-2 are true and accurate, each as of the date of this Agreement, the EGM Date and the Closing Date, except for those representations and warranties which are explicitly made as of a specific date.
+ 
+ 
+Subject to the limitations set forth in this Section 14 (including Annex 14.2) and Section 15, the Investor represents and warrants to the Existing Shareholders and the Company that the representations and warranties set forth in Annex 14.2 are true and accurate, each as of the date of this Agreement, the EGM Date and the Closing Date, except for those representations and warranties which are explicitly made as of a specific date.
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The provisions of Sections 15.1 and 15.4 shall apply by analogy to any claim by an Existing Shareholder that the Investor is liable for any misrepresentation or breach of warranty under Section 14.2 and Annex 14.2.
+ 
+ 
+The remedies in this Section 15 for any misrepresentation or breach of warranty under this Agreement shall be in lieu of, and not in addition to, the remedies provided for under statutory law. All other remedies including, without limitation, the right to rescind this Agreement shall, subject to the right of termination and rescission in accordance with Section 11.4, not apply and are expressly excluded and waived.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+This Agreement shall be binding upon and shall inure to the benefit of the Parties and their respective permitted successors and assigns; provided, however, that neither the Company nor another Party hereto shall be entitled to assign or transfer any of the rights or obligations hereunder to any other party.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+With the exception of the BCA and its annexes, this Agreement including its Annexes constitutes the entire agreement among the Parties with respect to the subject matter hereof and supersedes any agreement or understanding that may have been concluded with respect to the subject matter hereof between any of the Parties prior to the date of this Agreement.
+ 
+ 
+If at any time, any provision of this Agreement or any part thereof is or becomes invalid or unenforceable, then neither the validity nor the enforceability of the remaining provisions or the remaining part of the provision shall in any way be affected or impaired thereby. The Parties agree to replace the invalid or unenforceable provision or part thereof by a valid or enforceable provision, which shall best reflect the Parties’ original intention and shall achieve the same economic result, to the extent possible.
+ 
+ 
+Any amendment to this Agreement (including this Section 16.8) must be in writing.
+ 
+Notwithstanding anything contained herein to the contrary, the Parties acknowledge and agree that this Agreement (including this Section 16.8) may be amended in writing by an instrument signed solely by the Investor, the Company and holders of a majority of the Participation Shares with binding effect on all other Parties; provided, however, that any such modification or amendment of any of the provisions of this Agreement shall neither affect any accrued rights of any other Party nor impose any greater liability or any more onerous obligation than those contained in this Agreement on the other Parties who do not sign such modification or amendment.
+ 
+ 
+No waiver by a Party of a failure of any other Party to perform any provision of this Agreement shall operate or be construed as a waiver in respect of any other or further failure whether of a similar or different character.
+ 
+ 
+
+
+
+
+
+ 
+ 
+ 
+ 
+This Agreement shall in all respects be governed by and construed in accordance with the substantive laws of Switzerland, excluding the United Nations Convention on Contracts for the International Sales of Goods of 11 April 1980 (CISG).
+ 
+ 
+Any dispute, controversy, or claim arising out of, or in relation to, this Agreement, including the validity, invalidity, breach, or termination thereof, shall be resolved by arbitration in accordance with the Swiss Rules of International Arbitration of the Swiss Arbitration Centre in force on the date on which the Notice of Arbitration is submitted in accordance with those Rules. The number of arbitrators shall be three. The seat of the arbitration shall be Zurich and the arbitration proceedings shall be conducted in English; provided that evidence may be submitted to the arbitration tribunal in German without translation into English.
+ 
+ 
+The Company and the Existing Shareholders acknowledge that the Investor has established the Trust Account for the benefit of its public shareholders, which contains the proceeds of its initial public offering and from certain private placements occurring simultaneously with the initial public offering (including interest accrued from time to time thereon) for the benefit of the Investor’s public shareholders and certain other parties (including the underwriters of the initial public offering). For and in consideration of the Investor entering into this Agreement and for other good and valuable consideration, the sufficiency of which is hereby acknowledged, each of the Company and the Existing Shareholders, for itself and the Affiliates it has the authority to bind, hereby agrees it does not now and shall not at any time hereafter have any right, title, interest or claim of any kind in or to any assets in the Trust Account, regardless of whether such claim arises as a result of, in connection with or relating in any way to this Agreement or any other matter, and regardless of whether such claim arises based on contract, tort, equity or any other theory of legal liability (any and all such claims are collectively referred to hereafter as the “Released Claims”). The Company and the Existing Shareholders hereby irrevocably waive any Released Claims that they may have against the Trust Account now or in the future as a result of, or arising out of, any discussions, contracts or agreements with the Company and will not seek recourse against the Trust Account for any reason whatsoever; provided that (a) nothing herein shall serve to limit or prohibit the Company’s or any Existing Shareholders’ right to pursue a claim against the Investor for legal relief against monies or other assets held outside the Trust Account, for specific performance or other equitable relief in connection with the consummation of the transactions (including a claim for the Investor to specifically perform its obligations under this Agreement and cause the disbursement of the balance of the cash remaining in the Trust Account (after giving effect to redemptions by the Investor’s public shareholders) to the Company in accordance with the terms of this Agreement and the Trust Agreement) and (b) nothing herein shall serve to limit or prohibit any claims that the Company may have in the future against the Investor’s assets or funds that are not held in the Trust Account (including any funds that have been released from the Trust Account and any assets that have been purchased or acquired with any such funds).
+ 
+[signatures on the following pages]
+ 
+ 
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+The Parties have signed this Agreement on the date first written above.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Annex 1: Defined Terms
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Annex 2:  Current Cap Table
+ 
+[Omitted.]
+ 
+ 
+ 
+Annex 4.2.2:  Cap Table after Closing
+ 
+[Omitted.]
+ 
+ 
+ 
+Annex 4.2.3:  Articles
+ 
+[Omitted.]
+ 
+ 
+ 
+Annex 5(c): Form of Assignment Declaration regarding Transferred Common Shares
+ 
+[Omitted.]
+ 
+ 
+ 
+Annex 13.3: Form of Assignment Declaration
+ 
+[Omitted.]
+ 
+ 
+ 
+Annex 11.3(f): Form of Restated and Amended Shareholders’ Agreement
+ 
+[Omitted.]
+ 
+ 
+Annex 14.1-1: Representations and Warranties of Existing Shareholders (other than the Other Shareholder 4) and Company
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The corporate books, registers, accounts, ledgers, records and supporting documents of the Company are up to date and contain complete and accurate records of all matters since its incorporation, which were required by law to be dealt with in such documents.
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+Annex 14.1-2: Representations and Warranties of the Other Shareholder 4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Annex 14.2: Representations and Warranties of the Investor
+ 
+ 
+ 
+ 
+ 
+ 
+Except for the filings necessary pursuant to the BCA, the execution and the performance of this Agreement by the Investor have been authorized by all necessary corporate action of the Investor and execution and the performance will not (i) conflict with or result in any breach of any of the material terms, conditions or provisions of, (ii) constitute a material default under (whether with or without the giving of notice, the passage of time or both), (iii) result in a material violation of, (iv) give any third party the right to terminate or accelerate, or cause any termination or acceleration of, any material right or material obligation under, (v) result in the creation of any Lien upon its equity securities under, (vi) require any approval from, or (vii) require any filing with, (A) any material contract, (B) any constitutional documents or (C) any authority under or pursuant to any law or order to which the Investor is bound or subject, with respect to clauses (iv) and (vii), which would reasonably be expected to be material to the Investor, other than as required under this Agreement.
+ 
+ 
+There are no proceedings or investigations whatsoever pending or threatened in writing against the Investor that could compromise the consummation of the transactions contemplated by this Agreement.
+ 
+ 
+The Investor is an exempted company duly incorporated, validly existing and in good standing under the laws of Switzerland.
+ 
+ 
+ 
+ 
+ 
+
+
+1.
+Investor
+
+1.1
+KINPRO Holding GmbH
+D- 71088 Holzgerlingen 
+Tel: + 49 - 7031 / 412 93 26
+Fax: + 49 - 7031 / 412 93 25
+E- mail:kinpro-services@proton.me
+Geschäftsführer: Dipl.-Ing. Valery König
+Handelsregisternummer: HRB 246169
+Amtsgericht: Stuttgart
+
+2.
+Founder and 100% Shareholder
+
+2.1
+Marco Heyd,  Römerstr.70   D 74078 Heilbronn 
+
+
+(Founder 1, “Founders” and individually a “Founder”)
+
+3.
+Shareholders
+
+3.1
+Marco Heyd,  Römerstr.70   D 74078 Heilbronn
+
+
+
+
+(Founders and Other Shareholders collectively, “Existing Shareholders” and individually, an “Existing Shareholder”)
+
+4.
+Company
+
+
+T.C.S. Tactical Combat Systems SA
+Via F. Pelli 13
+6901 LUGANO,Switzerland
+Traderegister Cantone Ticino
+CHE 137144059
+Tax ID: 65205/40996    
+CEO:S.Hartenbach           
+                                                                                                                                                              
+ 
+
+
+(Company, Investor and Existing Shareholders, collectively “Parties” and each individually a “Party”)
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+2 / 24
+List of Annexes
+List of Annexes
+List of Annexes
+List of Annexes
+5
+ 
+ 
+ 
+ 
+ 
+1.
+Definitions
+Definitions
+Definitions
+7
+ 
+ 
+ 
+ 
+ 
+2.
+Current Equity Structure of the Company
+Current Equity Structure of the Company
+Current Equity Structure of the Company
+8
+ 
+ 
+ 
+ 
+ 
+3.
+Structure of Investment and General Undertakings
+Structure of Investment and General Undertakings
+Structure of Investment and General Undertakings
+8
+ 
+3.1
+Structure of Investment
+Structure of Investment
+8
+ 
+3.2
+General Undertakings
+General Undertakings
+9
+ 
+ 
+ 
+ 
+ 
+4.
+Nominal Capital Increase
+Nominal Capital Increase
+Nominal Capital Increase
+9
+ 
+4.1
+Determination of Preliminary Investment Amount and Number of Company Class A Shares
+Determination of Preliminary Investment Amount and Number of Company Class A Shares
+9
+ 
+4.2
+Extraordinary General Meeting of Shareholders
+Extraordinary General Meeting of Shareholders
+9
+ 
+ 
+4.2.1
+Undertakings of Existing Shareholders and Company
+9
+ 
+ 
+4.2.2
+Waiver of Subscription rights
+10
+ 
+ 
+4.2.3
+Resolutions to be passed by Extraordinary General Meeting
+10
+ 
+4.3
+Subscription for Class A Shares
+Subscription for Class A Shares
+10
+ 
+ 
+4.3.1
+Undertaking to Subscribe
+10
+ 
+ 
+4.3.2
+Payment of Preliminary Nominal Subscription Amount by Investor
+10
+ 
+ 
+ 
+ 
+ 
+5.
+BVF Share Transfers
+BVF Share Transfers
+BVF Share Transfers
+12
+ 
+ 
+ 
+ 
+ 
+6.
+Contribution
+Contribution
+Contribution
+11
+ 
+ 
+ 
+ 
+ 
+7.
+Conduct of Business until Closing
+Conduct of Business until Closing
+Conduct of Business until Closing
+11
+ 
+ 
+ 
+ 
+ 
+8.
+Stock Option Restriction - No Issuances of New Shares
+Stock Option Restriction - No Issuances of New Shares
+Stock Option Restriction - No Issuances of New Shares
+11
+ 
+ 
+ 
+ 
+ 
+9.
+Accession
+Accession
+Accession
+12
+ 
+ 
+ 
+ 
+ 
+10.
+Actions and Deliveries prior to Closing
+Actions and Deliveries prior to Closing
+Actions and Deliveries prior to Closing
+12
+ 
+ 
+ 
+ 
+ 
+11.
+Closing
+Closing
+Closing
+14
+ 
+11.1
+Place and Date of Closing
+Place and Date of Closing
+14
+ 
+11.2
+Conditions Precedent to Closing
+Conditions Precedent to Closing
+14
+ 
+11.3
+Closing Actions and Deliveries
+Closing Actions and Deliveries
+15
+ 
+11.4
+Issuance of New Voting Shares
+Issuance of New Voting Shares
+16
+ 
+ 
+ 
+ 
+ 
+12.
+Termination and Rescission before Closing
+Termination and Rescission before Closing
+Termination and Rescission before Closing
+16
+ 
+ 
+ 
+ 
+ 
+13.
+Post-Closing Actions
+Post-Closing Actions
+Post-Closing Actions
+16
+ 
+13.1
+Immediate Wiring of the Cash Contribution
+Immediate Wiring of the Cash Contribution
+16
+ 
+13.2
+Confirmations and Filings
+Confirmations and Filings
+17
+ 
+13.3
+Share Re-Transfer
+Share Re-Transfer
+17
+ 
+ 
+ 
+ 
+ 
+14.
+Representations and Warranties
+Representations and Warranties
+Representations and Warranties
+18
+ 
+14.1
+Representations and Warranties of Existing Shareholders and Company
+Representations and Warranties of Existing Shareholders and Company
+18
+ 
+14.2
+Representations and Warranties of Investor
+Representations and Warranties of Investor
+18
+ 
+14.3
+Exclusive Representations and Warranties
+Exclusive Representations and Warranties
+18
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+3 / 24
+15.
+Remedies
+Remedies
+Remedies
+19
+ 
+15.1 Notice of Breach (Rügefrist)
+15.1 Notice of Breach (Rügefrist)
+15.1 Notice of Breach (Rügefrist)
+19
+ 
+15.2 Time Limitations on Claims
+15.2 Time Limitations on Claims
+15.2 Time Limitations on Claims
+19
+ 
+15.3 Remedies of Investor
+15.3 Remedies of Investor
+15.3 Remedies of Investor
+19
+ 
+15.4 Limitations on Liability 
+15.4 Limitations on Liability 
+15.4 Limitations on Liability 
+20
+ 
+15.5 Remedies of Existing Shareholders and Company
+15.5 Remedies of Existing Shareholders and Company
+15.5 Remedies of Existing Shareholders and Company
+20
+ 
+15.6 Remedies Exclusive
+15.6 Remedies Exclusive
+15.6 Remedies Exclusive
+20
+ 
+ 
+ 
+ 
+ 
+16.
+Miscellaneous
+Miscellaneous
+Miscellaneous
+21
+ 
+16.1 Nature of Parties’ Rights and Obligations
+16.1 Nature of Parties’ Rights and Obligations
+16.1 Nature of Parties’ Rights and Obligations
+21
+ 
+16.2 Confidentiality
+16.2 Confidentiality
+16.2 Confidentiality
+21
+ 
+16.3 Successors and Assigns
+16.3 Successors and Assigns
+16.3 Successors and Assigns
+22
+ 
+16.4 Costs and Expenses, Taxes
+16.4 Costs and Expenses, Taxes
+16.4 Costs and Expenses, Taxes
+22
+ 
+16.5 Notices
+16.5 Notices
+16.5 Notices
+22
+ 
+16.6 Entire Agreement
+16.6 Entire Agreement
+16.6 Entire Agreement
+23
+ 
+16.7 Severability
+16.7 Severability
+16.7 Severability
+23
+ 
+16.8 Amendments
+16.8 Amendments
+16.8 Amendments
+23
+ 
+16.9 Waiver of Rights
+16.9 Waiver of Rights
+16.9 Waiver of Rights
+23
+ 
+16.10 Form Requirements
+16.10 Form Requirements
+16.10 Form Requirements
+23
+ 
+ 
+ 
+ 
+ 
+17.
+Governing Law and Arbitration
+Governing Law and Arbitration
+Governing Law and Arbitration
+24
+ 
+17.1 Governing Law
+17.1 Governing Law
+17.1 Governing Law
+24
+ 
+17.2 Arbitration
+17.2 Arbitration
+17.2 Arbitration
+24
+ 
+17.3 Trust Account Waiver
+17.3 Trust Account Waiver
+17.3 Trust Account Waiver
+24
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+4 / 24
+Annex 1:
+Defined Terms
+Annex 2:
+Current Cap Table
+Annex 4.2.2:
+Cap Table after Closing
+Annex 4.2.3:
+Articles
+Annex 5(c):
+Form of Assignment Declaration regarding Transferred Common Shares
+Annex 13.3:
+Form of Assignment Declaration
+Annex 11.3(f): 
+Form of Restated and Amended Shareholders’ Agreement
+Annex 14.1-1:
+Representations and Warranties of Existing Shareholders (other than the Other Shareholder 4) and Company
+Annex 14.1-2:
+Representations and Warranties of the Other Shareholder 4
+Annex 14.2:
+Representations and Warranties of the Investor
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+5 / 24
+
+(A)
+The Company is organized in the form of a Swiss stock corporation (Aktiengesellschaft) registered with the commercial register of the Cantone Ticino under the number CHE 137144059 having its registered office at  Via F. Pelli 13, 6901 LUGANO,Switzerland.
+
+(B)
+As at the date of this Agreement, the Company has an issued statutory share capital in the nominal amount of  CHF 100,000.00, divided into 1, fully paid-in registered share with a nominal value of CHF 100.000,00, of which 1 share (Stammaktien) The Company has also a conditional participation capital
+capital to source equity incentive plans allowing an increase of the nominal share capital by, as at the date of this Agreement, a minimum amount of CHF 150.000.000,00 in words 150 million CHF and maximum amount of CHF 450.000.000,00 in words 450 million CHF
+
+(C)
+The Company’s core business is the research, development, manufacturing and marketing of Green Energy Systems and similar products in Switzerland and abroad (“Business”).
+
+(D)
+At the date hereof, the Parties enter into a business combination agreement (“BCA”) and the Investor undertakes to subscribe for and acquire such number of newly issued registered participationshares  in the Company with a par value of CHF 1.000.000,00 and 100.000,00 each (“Class A Shares”;)
+On the closing of the BCA, the Investor holds at least minimum 3% and maximum 5% of the participationshares sum of the Company’s with respect to the issued and outstanding share capital and further Participation Shares issuable under the Conditional Capital, i.e. on a fully diluted basis.
+
+(E)
+Considering that:
+
+● 
+The Euro amount of the Investor’s investment in the Company and the corresponding number of Class A Shares to be acquired by the Investor, both to be calculated in accordance with the provisions of the BCA (the so calculated amount, the “Preliminary Investment Amount” and the corresponding number of Class A Shares to be acquired by the Investor the “Investor’s Preliminary Class A  Shares”), can only be determined fourteen (14) Business Days before the closing of the transactions contemplated under the BCA (“BCA Closing”);
+
+● 
+The final amount of the Investor’s investment in the Company (“Available Closing Date Cash”), which is defined in the BCA and shall be calculated in accordance with the provisions of the BCA, shall not be less than EUR 15.000.000,00 in words 15 Millions euro (the “Minimum Investment Amount”);
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+6 / 24
+
+● 
+The Investor’s Class A Shares have to be available to the Investor on the very day of the Closing;
+
+● 
+The Preliminary Investment Amount is funded, inter alia, by a private investment in public equity transaction, conducted by the Investor prior to the BCA Closing (“PIPE Transaction”), and certain of the funds promised to be paid under the PIPE Transaction may be delayed or not paid at all and that it is therefore possible that the Available Closing Date Cash is lower than the Preliminary Investment Amount; and
+
+● 
+If the Available Closing Date Cash on the Closing Date is lower than the Preliminary Investment Amount (but, for the avoidance of doubt, higher than the Minimum Investment Amount), the difference, if any, between (y) the Investor’s Preliminary Class A Shares and (z) the number of Class A Shares corresponding to the Available Closing Date Cash (“Investor’s Final Class A Shares”) shall be, at the election of the Company (such election to be communicated by the Company to the Investor no later than five (5) Business Days following the Closing Date), repurchased by and re-transferred to the Company against payment by the Company of the nominal value for each retransferred Class A Share following the Closing.
+
+(F)
+Accordingly, the Company intends (i) to implement the Share Conversion, (ii) to increase its share capital by way of issuance of the fully paid-in Investor’s Preliminary Class A Shares, thereby increasing its issued share capital by the Determined Nominal Amount, (iii) to detail the process for contributing the remaining investment amounts for the Investor’s Final Class A Shares to the Company, and (iv) to detail the process for the repurchase and re-transfer of such number of Class A Shares corresponding to the difference between the Investor’s Preliminary Class A Shares and the Investor’s Final Class A Shares, if any, from the Investor to the Company following the Closing for the nominal value of the number of re-transferred Class A Shares.
+
+(G)
+Accordingly, the BVF Parties intend to undertake and implement the BVF Share Transfers.
+
+(H)
+The Parties wish to determine in this Agreement their respective rights and obligations in relation to the Investor’s investment in the Company, including the subscription and issuance of new Class A Shares in the Company and payment of the respective investment amounts to the Company.
+
+1.
+Definitions
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+7 / 24
+
+2.
+Current Equity Structure of the Company
+
+(a)
+As at the date of this Agreement, the Company has an issued statutory share capital in the nominal amount of CHF 100,000.00, divided into 1 registered share (Namenaktien) with a nominal value of CHF 100.000,00 per share of which are fully paid-in.
+
+(b)
+The Company has an outstanding conditional capital (bedingtes Kapital) of CHF 150.000.000,00, allowing for the issuance of up registered Participation 
+
+(c)
+The ownership structure of the Company as of the date of this Agreement is set out in the cap table set forth in Annex 2.
+
+3.
+Structure of Investment and General Undertakings
+
+3.1
+Structure of Investment
+
+(a)
+The investment by the Investor into the Company, as contemplated herein, will be made (x) as a direct equity investment, whereby the Investor shall subscribe for and acquire newly issued Class A Shares and (y) make a cash contribution; (x) and (y) totaling in the amount of the Available Closing Date Cash subject to the terms and conditions of this Agreement (“Investment”).
+
+(b)
+On the basis of the commitments and undertakings of the Parties, the Investment will be structured and implemented through the following steps and elements:
+
+(i)
+The Investor shall first subscribe for and acquire a number of Investor’s Preliminary Class A Shares (determined in accordance with the BCA and Section 4.1 of this Agreement) at an issue amount of CHF 1.000.000,00 per Class A Share against payment of CHF 1.000.000,00 per Class A Share, to be created and issued in the course of an ordinary capital increase of the Company (“Nominal Capital Increase”, as further detailed and set forth in Section 4), and, subsequently,
+
+(ii)
+the Investor shall commit and contribute to the Company an amount equal to the Available Closing Date Cash minus the Preliminary Nominal Subscription Amount (as defined below), as a contribution to the reserves from capital contributions (Kapitaleinlagereserven) of the Company without the issuance of new shares (Kapitalzuschuss) (“Cash Contribution”, as further detailed in Section 6); always subject to satisfaction or waiver of the applicable conditions precedent.
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+8 / 24
+
+(iii)
+Should the Available Closing Date Cash be lower than the Preliminary Investment Amount and, therefore, the number of Investor’s Final Class A Shares be lower than the number of Investor’s Preliminary Class A Shares, the Company may elect the difference to be adjusted (such election to be communicated by the Company to the Investor no later than five (5) Business Days following the Closing Date). The adjustment, if any, shall be effected through a repurchase of such number of Class A Shares corresponding to the difference between the Investor’s Preliminary Class A Shares and the Investor’s Final Class A Shares by the Company from the Investor at nominal value and a re-transfer and assignment of such number of Class A Shares to the Company, following the Closing (“Share Re-Transfer”, as further detailed in Section 13.3).
+
+3.2
+General Undertakings
+
+(i)
+the Investor will make available to the Company the Available Closing Date Cash (as defined in Section 1.1 of the BCA); and
+
+(ii)
+each of the Existing Shareholders and the Company hereby undertakes to the Investor to generally use their powers and take all actions and execute all documents required to effect the transactions contemplated by this Agreement, to effect the Share Conversion, to elect the new Directors and to consummate the Nominal Capital Increase, the Cash Contribution and/or the Share Re-Transfer (if any) in accordance with the terms and conditions hereof.
+
+4.
+Nominal Capital Increase
+
+4.1
+Determination of Preliminary Investment Amount and Number of Company Class A Shares
+
+4.2
+Extraordinary General Meeting of Shareholders
+
+4.2.1
+Undertakings of Existing Shareholders and Company
+
+(i)
+procure that an extraordinary general meeting of shareholders of the Company (“Extraordinary General Meeting”) is convened in a timely manner and takes place one (1) Business Day prior to the Closing Date (the “EGM Date”);
+
+(ii)
+procure that a special meeting of the holders of the Series A Preferred Shareholders pursuant to article 654 CO is convened in a timely manner, which shall be integrated in the Extraordinary General Meeting; and
+
+(iii)
+approve, or procure that the Proxy Holder approves, the resolutions to be taken by the Extraordinary General Meeting in accordance with Section 4.2.3.
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+9 / 24
+
+4.2.2
+Waiver of Subscription rights
+
+4.2.3
+Resolutions to be passed by Extraordinary General Meeting
+
+(i)
+to convert the Series A Preferred Shares with immediate effect into Participation Shares of the Company;
+
+(ii)
+to replace the Existing Articles by, and adopt, the Articles substantially in the form attached hereto as Annex 4.2.3;
+
+4.3
+Subscription for Class A Shares
+
+4.3.1
+Undertaking to Subscribe
+
+(a)
+Subject to the terms and conditions of this Agreement, the Investor shall subscribe for the Investor’s Preliminary Class A Shares, each at the Nominal Issue Price, for an aggregate subscription amount corresponding to the Determined Nominal Amount (“Preliminary Nominal Subscription Amount”).
+
+(b)
+For this purpose, the Investor hereby undertakes to execute and deliver to the Company its duly executed Subscription Form no later than three (3) Business Days prior to the Closing Date.
+
+4.3.2
+Payment of Preliminary Nominal Subscription Amount by Investor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+10 / 24
+5.
+BVF Share Transfers
+
+(a)
+As set forth in section 2.2(g) of the BCA, each BVF Party hereby undertakes to transfer and shall assign to the Investor on the Closing Date all of the Participation Shares held by such BVF Party in exchange for Class A Ordinary Shares (as detailed in the BCA) at the Closing Date as follows:
+
+(i)
+the Other Shareholder 1 shall transfer and assign the  paid Participation Shares to the Investor;
+
+
+
+
+
+
+ 
+(b)
+The Investor hereby undertakes to receive and accept on the Closing Date from each BVF Party such number of Participation Shares as indicated in subsections (i) to (iii) of the preceding paragraph.
+ 
+(c)
+On the Closing Date, in order to transfer and assign the Transferred Participation Shares to the Investor, each BVF Party shall duly sign and deliver to the Investor a written assignment declaration (Abtretungserklärung), with a copy to the Board, substantially in the form of Annex 5(c), for the avoidance of doubt, the form requirements as set forth in the first paragraph of Section 16.10 shall not apply with respect to the assignment declaration; these assignment declarations shall be executed in wet ink form.
+ 
+(d)
+The details on the allocation of and/or transfer of Class A Ordinary Shares by the Investor to each of the BVF Parties in exchange for the Transferred Participation Shares are set forth in the BCA (including the actions for completing such actions).
+
+6.
+Contribution
+
+7.
+Conduct of Business until Closing
+
+8.
+Stock Option Restriction - No Issuances of New Shares
+
+(a)
+Each Existing Shareholder and the Company undertake to the Investor and shall procure and instruct the relevant corporate or appointed bodies (incl. the Administrator, as defined in the Employee Share Participation Plan and/or the Employee Stock Option Plan; together the “Plans”) that from 31 October 2026 (“Cut-Off Date”) until the Closing Date no option rights, equity grants, or similar instruments from or referring to the Conditional Capital (including options under the Plans or any other employee equity incentive schemes or arrangements of the Company) or any other options for Shares of the Company (“Stock Options”) are granted by the Company or exercised by any of the employees of the Company or other persons with the effect that no new Shares in the Company are issued during that period (“Stock Option Restriction”).
+
+(b)
+Each of the Existing Shareholders and the Company shall perform all actions necessary to ensure compliance with the Stock Option Restriction, including, without limitation, to amend and/or to procure that all documents related to outstanding option rights, equity grants, or similar instruments from or referring to the Conditional Capital or allowing for the acquisition of Shares in the Company, including, without limitation, the Plans or any other relevant documents relating thereto, are amended, as appropriate, and to seek consent from eligible employees or other persons so that the Stock Option Restriction is adhered to.
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+11 / 24
+
+(c)
+Each Existing Shareholder and the Company undertake to the Investor and shall procure and instruct the relevant corporate bodies and/or its representatives on the Board that no amendments to the Company’s capital structure will be approved and/or made by the shareholders meeting of the Company including, without limitation, that the shareholders meeting shall not resolve on the creation of new share or participation capital (through an ordinary capital increase), new conditional capital and/or new authorized capital. For the avoidance of doubt, the grant of Stock Options and the exercise of Stock Options as well as the allocation of Shares to employees of the Company under the Plans are not considered to be a prohibited amendment of the Company’s capital structure and shall remain permitted (subject to compliance with the undertakings set forth in Sections 10(a) and 10(b)), as long as only the currently existing Conditional Capital is used as the underlying for the Stock Options / allocations of such Shares.
+
+9.
+Accession
+
+(a)
+Each of the Existing Shareholder and the Company undertakes to the other Parties that no person or entity shall become a holder of Shares in the Company (including through the exercise of Stock Options), other than provided for in this Agreement, unless and until such person or entity shall first have submitted to the Company an accession declaration satisfactory to the Company and the Investor pursuant to which such person or entity agrees to be fully bound by and be entitled pursuant to the terms and conditions of this Agreement. The Parties agree that the accession of a third party may take place by unilateral declaration to the Company (representing the Existing Shareholders) and the Investor. Any party acceding to this Agreement in the foregoing sense shall be deemed as from the time of accession an Existing Shareholder (as defined and used herein) for the purpose of this Agreement with corresponding rights and obligations.
+
+(b)
+Upon accession to this Agreement as set forth in this Section 9, the relevant cap tables annexed to this Agreement shall be amended accordingly.
+
+10.
+Actions and Deliveries prior to Closing
+
+(a)
+as soon as practical after signing, but in no event after the Cut-Off Date, the Company shall deliver to the Investor drafts of the Corporate Documents necessary for the adoption of the Articles, the Share Conversion, the Nominal Capital Increase and the changes to the Board, all as contemplated herein, in form and substance satisfactory to the Investor;
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+12 / 24
+
+(b)
+as soon as practical after signing the Company undertakes to obtain a formal positive pre-clearance (Vorprüfung) regarding the Corporate Documents from the commercial register of the Canton of Zug. The Company undertakes and shall procure that the processing of the Pre-Closing Application (as defined below) will be pre-registered (vorerfasst) by the commercial register of the Cantone Ticino prior to the EGM Date and that the Pre-Closing Application will be dealt with in the pre-registration procedure (Vorerfassungsverfahren) when submitted to the commercial register of the Cantone 
+Ticino on the EGM Date;
+
+(c)
+each Existing Shareholder shall deliver its written power of attorney (Vollmacht) for the Extraordinary General Meeting authorizing the Proxy Holder to vote on and approve all resolutions set forth in Section 4.2.3 no later than three (3) Business Days prior to the EGM Date or participate in person at the Extraordinary General Meeting to vote on the resolution items;
+
+(d)
+the Investor shall deliver a copy of the duly signed original of its Subscription Form in accordance with Section 4.3.1 two (2) Business Days prior to the EGM Date and the original of the Subscription Form on the EGM Date;
+
+(e)
+the Investor shall deliver a copy of the payment confirmation regarding the Preliminary Nominal Subscription Amount made by the Investor in accordance with Section 4.3.2 no later than two (2) Business Days prior to the EGM Date;
+
+(f)
+the Company shall deliver confirmation from the bank maintaining the capital account of the Company evidencing that the Preliminary Nominal Subscription Amount has been paid in cash and fully credited to the Company’s account specified in Section 4.3.2 no later than two (2) Business Days prior to the EGM Date;
+
+(g)
+the Extraordinary General Meeting shall be held on the EGM Date in the presence of a notary approving: (1) the Nominal Capital Increase, (2) the creation of the Investor’s Preliminary Class A Shares as set forth herein, (3) the adoption of the Articles and in particular the Share Conversion, and (4) the election of the new Directors;
+
+(h)
+the Board shall – immediately after the Extraordinary General Meeting on the EGM Date – issue its report regarding the capital increase (Kapitalerhöhungsbericht) and one or several members of the Board shall take the resolution on the ascertainment and the execution of the Nominal Capital Increase (Feststellungsbeschluss) in the presence of a notary;
+
+(i)
+the Company, as applicable, shall deliver the acceptance declarations of the new Directors (Wahlannahmeerklärung) nominated by the Company, as applicable, together with duly legalized and apostilled specimen signature sheets (Unterschriftenmuster) at the latest one (1) Business Day prior to the EGM Date;
+
+(j)
+the Board shall file – on the EGM Date immediately after performance of the actions set forth in Sections 10(g) and 10(h) – with the competent commercial register of the Cantone Ticino a duly signed application to the commercial register of the Cantone Ticino regarding (1) the increase of the share capital to reflect the Nominal Capital Increase, (2) the creation of Partiticipation  Shares (as a new class of shares, (3) the adoption of the Articles (incl. the Share Conversion), and (4) the election of the new Directors, (“Pre-Closing Application”) and shall ensure that the Pre-Closing Application is processed in a pre-registration procedure (Vorerfassungsverfahren) 
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+13 / 24
+
+(k)
+the Board shall deliver to the Investor a duly executed confirmation by the Commercial Register that the Pre-Closing Application has been filed; and
+
+(l)
+the Investor shall provide the Company with a notification of the ultimate beneficial owners within the meaning of article 697j CO.
+
+11.
+Closing
+
+11.1
+Place and Date of Closing
+
+11.2
+Conditions Precedent to Closing
+
+(i)
+the delivery of the drafts of the Corporate Documents to the Investor as per Section 10(a) prior to the EGM Date, in form and substance reasonably satisfactory to the Investor;
+
+(ii)
+the receipt by the Company from the commercial register of the Cantone Ticinoof a formal positive pre-clearance (Vorprüfungsbescheid) regarding the Corporate Documents and a confirmation that the processing of the Pre-Closing Application will be dealt with in the pre-registration procedure (Vorerfassungsverfahren), at the latest three (3) Business Days prior to the EGM Date;
+
+(iii)
+the delivery of copies of the duly executed Corporate Documents to the Investor, evidencing the performance of the actions prior to Closing referred to in Section 10, in form and substance reasonably satisfactory to the Investor;
+
+(iv)
+subject to the Permitted ESOP Allocations and the Permitted ESPP Allocations (both as defined in the Company and ML-Parties’ Disclosure Letter as attached to BCA) until the Cut-Off Date (“Permitted Allocations”), the issued and outstanding share capital and the Conditional Capital of the Company remained unchanged, no other share or participation or authorized capital have been created, and reflect the numbers as stated in Recital (B). In particular, between the date of this Agreement and the Closing Date, no option rights, equity grants, or similar instruments from the Conditional Capital have been granted to or exercised by any employees of the Company or any other persons and the cap table as attached in Annex 2, other than the Permitted Allocations, was still accurate at the EGM Date (i.e. immediately before the performance of the actions before Closing as per Sections 10(g) through 10(k)) and the Closing Date; and
+
+(v)
+the satisfaction or waiver of all conditions precedent under the BCA, save for the condition that all conditions precedent in this Agreement are satisfied or waived.
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+14 / 24
+
+11.3
+Closing Actions and Deliveries
+
+(a)
+the Board shall deliver a scan of the duly certified excerpt from the commercial register of the Cantone Ticino evidencing the registration of all items of the Pre-Closing Application after approval from the Swiss Federal Commercial Registry Office (EHRA) but before publication in the SOGC;
+ 
+ 
+ 
+ 
+(b)
+each BVF Party shall deliver to the Investor a duly signed assignment declaration regarding the assignment of the respective Transferred Common Shares;
+
+(c)
+the Board shall take the circular resolution (i) approving the transfer of the Transferred Participation Shares from the BVF Parties to the Investor and (ii) evidencing the entry of the Investor in the Company’s share register as the legal owner of all Class A Shares 
+ 
+ 
+ 
+ 
+(d)
+the Company shall deliver to the Investor and the Existing Shareholders a copy of the duly executed circular resolution of the Board referred to in Section 11.3(c);
+
+(e)
+and of the share register of the Company evidencing the Investor as legal owner of the Investor’s Preliminary Class A Shares and the Transferred Participation Shares and the Existing Shareholders as legal owners of the appropriate number of Existing Shares (as applicable) and the respective beneficial owners;
+
+(f)
+the Investor and the Company shall exchange the duly signed Cash Contribution Agreement;
+
+(g)
+the Parties hereto shall exchange the duly signed Restated and Amended Shareholders’ Agreement, substantially in the form as attached hereto in Annex 11.3(f);
+
+(h)
+the Investor shall deliver to the Company and the Existing Shareholders a copy of the confirmation from the Investor’s bank evidencing that an amount corresponding to the Cash Contribution is deposited on such bank account(s) (provided that, for the avoidance of doubt, confirmation of Closing shall occur upon delivery of such Cash Contribution to Investor’s bank account); and
+
+
+
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+15 / 24
+
+11.4
+Issuance of New Voting Shares
+
+12.
+Termination and Rescission before Closing
+
+(a)
+In case the BCA is terminated before the Closing, this Agreement is automatically terminated with immediate effect.
+
+(b)
+In case this Agreement is automatically terminated:
+
+(i)
+each of the Parties acknowledges and agrees that this Agreement and any documents, instruments or deeds executed by the Parties, shall be deemed terminated and rescinded and shall be without any further effect;
+
+(ii)
+each of the Existing Shareholders and the Company hereby undertakes to the Investor to procure that the Board takes all such actions which are required in order to unwind the transactions contemplated by this Agreement and to revert as soon as possible all actions which have already been taken or effected by the Parties, including, for the avoidance of doubt, the Preliminary Nominal Subscription Amount paid to the capital account of the Company as specified in Section 4.3.2 (if already paid) is immediately repaid to the Investor in cash bank account of the Investor, such bank account is to be communicated by the Investor to the Company in writing at least ten (10) Business Days prior to the Closing Date.
+
+(c)
+Notwithstanding anything contained herein to the contrary, it is acknowledged and agreed that the right of termination and rescission pursuant to this Section 12 shall be without prejudice to any other rights or remedies that a Party may have including for breach of contract under this Agreement and/or applicable laws.
+
+
+
+13.
+Post-Closing Actions
+
+13.1
+Immediate Wiring of the Cash Contribution
+
+(i)
+the Investor, shall pay the Cash Contribution  at least ten (10) Business Days as consented to in writing by the Investor (which such consent shall not be unreasonably conditioned, withheld or delayed) (“ML Bank Account”).
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+16 / 24
+
+(ii)
+the Investor’s bank shall issue and deliver a confirmation that the payment of the Cash Contribution to the ML Bank Account was released, indicating the unique cash wire transfer number.
+
+13.2
+Confirmations and Filings
+
+(i)
+the bank, where the ML Bank Account is held, shall issue and deliver a confirmation that the transfer of the Cash Contribution has been received and credited on the ML Bank Account; and
+
+(ii)
+the Board shall deliver a duly signed declaration confirming that the Cash Contribution (as defined in Section 1.1 of the BCA) has been booked into the reserves from capital contributions (Kapitaleinlagereserven).
+
+13.3
+Share Re-Transfer
+
+(a)
+In case (x) the Available Closing Date Cash is lower than the Preliminary Investment Amount, which determination the Parties undertake to make as soon as reasonably possible following the Closing Date and (y) the Company elects that a Share Re-Transfer shall take place (such election to be communicated by the Company to the Investor no later than five (5) Business Days following the Closing Date):
+
+(i)
+the Investor hereby undertakes to transfer and assign to the Company, and the Company hereby undertakes to acquire and accept from the Investor, such number of Class A Shares, corresponding to the difference between the Investor’s Preliminary Class A Shares and the Investor’s Final Class A Shares (“Re-Transfer Class A Shares”), and for such re-transfer a written assignment declaration (Abtretungserklärung), substantially in the form of Annex 13.3, shall be signed and executed as soon as reasonably possible following the Closing Date by the Investor and the Company;
+
+(ii)
+the Company hereby undertakes to pay to the Investor a purchase price of EUR 350.000,00 per Re-Transfer Class AShare (“Re-Transfer Purchase Price”), payable as soon as reasonably possible following the Closing Date to the bank account specified by the Investor under Section 12(b)(ii); and
+
+(iii)
+the Company hereby undertakes to update its share ledger to reflect the Share Re-Transfer and to provide a copy of the such duly executed share register to the Investor and the Existing Shareholders, as soon as reasonably possible following the implementation of the Share Re-Transfer.
+
+(b)
+In addition to the above, each Party undertakes to the other Parties to execute or perform such other documents, instruments, certificates or acts as may be reasonably requested by the Investor and/or the Company in order to complete, perfect and consummate the transactions contemplated by this Section 13.3.
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+17 / 24
+
+(c)
+The Company hereby undertakes to commence the cancellation of the Re-Transfer Class A Shares by way of formal capital reduction (“Capital Reduction”) immediately following the implementation of the Share Re-Transfer (if any).
+
+(d)
+The Company hereby undertakes not to sell or otherwise dispose of the Re-Transfer Class A Shares but by way of the Capital Reduction.
+
+14.
+Representations and Warranties
+
+14.1
+Representations and Warranties of Existing Shareholders and Company
+
+14.2
+Representations and Warranties of Investor
+
+14.3
+Exclusive Representations and Warranties
+
+(a)
+The Parties acknowledge that none of the Parties has made, and none of the Parties has relied upon, any representation or warranty, express or implied, pertaining to the subject matter of this Agreement other than as expressly provided in this Agreement and as set forth separately in the BCA.
+
+(b)
+Without prejudice to the foregoing, each of the Existing Shareholders hereby acknowledges that the Investor has entered into this Agreement and will pay the Subscription Amount in reliance on each of the representations and warranties set forth in this Section 14 (including Annex 14.1-1 and Annex 14.1-2) and as set forth separately in the BCA.
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+18 / 24
+
+15.
+Remedies
+
+15.1
+Notice of Breach (Rügefrist)
+
+(a)
+The Investor shall deliver to the Company (which shall receive such notice for and on behalf of, and promptly forward a copy of such notice to each Existing Shareholder) a notice in writing describing the underlying facts of a claim for misrepresentation or breach of warranty in reasonable detail to the extent then known within 60 (sixty) calendar days after the Investor has obtained reasonable knowledge of the circumstances which are likely to give rise to a claim for misrepresentation or breach of warranty under this Agreement.
+
+(b)
+Failure to provide notice of claim consistent with this Section 15.1 shall not relieve an Existing Shareholder and/or the Company of any liability it may have under Section 14.1; provided, however, that an Existing Shareholder and/or the Company shall not be liable for any damage, loss, expense, or cost to the extent the same is attributable to, or caused or aggravated by, or could not be remedied due to, the Investor’s failure to timely provide notice in accordance with this Section 15.1. The Parties explicitly waive the application of article 201 CO.
+
+15.2
+Time Limitations on Claims
+
+(a)
+The representations and warranties given by the Existing Shareholders and the Company as set forth in Section 14.1 and Annex 14.1-1 or Annex 14.1-2, respectively, shall expire, and any claim of the Investor for misrepresentation or breach of warranty shall be time barred, forfeited and precluded from as of the first anniversary of the Closing Date.
+
+(b)
+It is understood and agreed that any notice of claim for misrepresentation or breach of warranty shall be delivered to the Company (which shall receive such notice for and on behalf of, and promptly forward a copy of such notice to, each Existing Shareholder) on or by the applicable date set forth in the preceding paragraphs, in which case the resolution of such claim may be effected after such date; provided, however, that notwithstanding the foregoing, the Investor’s claim shall be time-barred, forfeited and precluded from being made (verjährt/verwirkt) unless the Investor initiates proceedings on the claim against the Existing Shareholders and/or the Company in accordance with Section 17.2 within nine (9) months from the date of the Investor’s notice of claim to the Company.
+
+(c)
+The Parties explicitly waive the application of article 210 CO.
+
+15.3
+Remedies of Investor
+
+(a)
+With respect to a misrepresentation or a breach of warranty notified by the Investor to the Company in accordance with Section 15.1 and Section 15.2, the Existing Shareholders and/or the Company shall have the right, within 30 (thirty) calendar days after receipt of such notice of breach by the Company, to put the Company or, with the prior written consent of the Investor (such consent not to be unreasonably withheld or delayed in case the damage, loss, expense, or cost was incurred by the Investor and not by the Company), the Investor, at the Existing Shareholders’ and/or the Company’s own expense, in the position it would have been in had no such misrepresentation or breach of warranty occurred.
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+19 / 24
+
+(b)
+If and to the extent the remedy set forth in the preceding paragraph cannot be effected or is not effected within such period of time, then the Investor, subject to the exclusions and limitations set forth in this Agreement, shall have the right to claim that the Existing Shareholders and/or the Company pay, and each Existing Shareholder and/or the Company shall be, subject to Section 15.4, severally (and not jointly) and solely in respect of such Existing Shareholder or the Company liable to the Investor to pay, damages to the Company (or, if the damage, loss, expense, or cost is incurred by the Investor and the Investor so elects in accordance with the foregoing paragraph, to the Investor) in the amount which is necessary to put the Company (or, subject to the foregoing requirements, the Investor) in the position it would have been in had no such misrepresentation or breach of warranty occurred. Such damages shall include all duly documented external costs and reasonable expenses of the Company (or, subject to the foregoing requirements, the Investor) including reasonable attorneys’ fees.
+
+15.4
+Limitations on Liability
+
+(a)
+Notwithstanding anything contained in this Agreement to the contrary, it is acknowledged and agreed that the liability of the Existing Shareholders and the Company towards the Investor for misrepresentations or breaches of warranties under this Agreement shall not exceed, in the aggregate, the sum of (i) the Available Closing Date Cash, and (ii) reasonable and documented costs and fees incurred by the Investor in connection with the examination of such misrepresentation or breach of warranty and any legal proceedings against Existing Shareholders and/or the Company.
+
+(b)
+Notwithstanding anything contained in Section 15.4(a) to the contrary, it is acknowledged and agreed that the liability of the Company towards the Investor for misrepresentations or breaches of warranties under this Agreement shall not exceed, an amount equal to the Company’s freely disposable reserves (frei verfügbares Eigenkapital).
+
+15.5
+Remedies of Existing Shareholders and Company
+
+15.6
+Remedies Exclusive
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+20 / 24
+
+16.
+Miscellaneous
+
+16.1
+Nature of Parties’ Rights and Obligations
+
+(a)
+Except as specifically provided otherwise in this Agreement, the rights and obligations of the Parties hereunder shall be several (and not joint).
+
+(b)
+The non-performance by the Company or another Party (“Defaulting Party”) shall neither relieve the Company nor any other Party from performing its obligations under this Agreement, nor shall the Company (provided it is not the Defaulting Party) or any other Party be liable for the non-performance by the Defaulting Party.
+
+(c)
+The obligations of the Parties hereunder are contractual in nature and the Parties agree that they do not form, and this Agreement shall not be deemed to constitute, a simple partnership (einfache Gesellschaft) pursuant to articles 530 et seq. CO.
+
+16.2
+Confidentiality
+
+(a)
+Each of the Parties agrees to keep secret and confidential and not to use, disclose or divulge to any third party or to enable or cause any person to become aware of, any of the terms and conditions of this Agreement, and any information exchanged among the Parties in connection with their investment and common shareholdings in the Company or pertaining to the business and the operation of the Company (all such information collectively “Confidential Information”), The Parties shall ensure that their employees, directors and any other representatives as well as the advisors of each Party to whom any such Confidential Information is entrusted comply with these restrictions.
+
+(b)
+The term Confidential Information shall not include any information: (i) which as of the time of its disclosure by a Party was already lawfully in the possession of the receiving Party as evidenced by written records, or (ii) which at the time of the disclosure was in the public domain, or (iii) the disclosure of which was previously explicitly authorized by the respective Party.
+
+(c)
+The non-disclosure obligation shall not apply to any disclosure of Confidential Information required by law or regulations. In the event a disclosure of Confidential Information is required by law or regulations (including, without limitation, for tax, audit or regulatory purposes), the disclosing Party shall use all reasonable efforts to arrange for the confidential treatment of the materials and information so disclosed.
+
+(d)
+No announcement or press releases regarding the transactions contemplated by the Business Combination Agreement shall be made by any Party without the prior written consent of the Board (such consent not to be unreasonably withheld).
+
+(e)
+Finally, it is acknowledged and agreed that the Investor is allowed to share Confidential Information with its Affiliates as well as with its auditors, legal and other advisors, and to report regularly to its investors and/or any of its Affiliates on all information pertaining to the Company and the equity investment made or to be made in the Company in accordance with its reporting obligations under its fund investment documents or to the extent required for legal, tax, audit or regulatory purposes.
+
+(f)
+Nothing herein shall restrict the Company from granting third parties customary due diligence access for purposes of financial, commercial, strategic or similar transactions.
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+21 / 24
+16.3
+
+Successors and Assigns
+16.4
+
+Costs and Expenses, Taxes
+
+(a)
+Subject to the immediately following paragraph, it is agreed that each Party shall bear its own costs and expenses arising out of or incurred, and any taxes imposed on it, in connection with this Agreement and all transactions contemplated hereby.
+ 
+ 
+ 
+
+(b)
+The Company shall bear all Swiss issuance and stamp taxes arising out of the Investment.
+16.5
+
+Notices
+
+(a)
+All notices and other communications made or to be made pursuant to this Agreement shall be given in writing by e-mail, or courier to the following addresses:
+If to the Investor:
+
+
+ 
+KINPRO Holding GmbH
+D- 71088 Holzgerlingen 
+Tel: + 49 - 7031 / 412 93 26
+Fax: + 49 - 7031 / 412 93 25
+E- mail:kinpro-services@proton.me
+Geschäftsführer: Dipl.-Ing. Valery König
+Handelsregisternummer: HRB 246169
+Amtsgericht: Stuttgart
+KINPRO Holding GmbH
+D- 71088 Holzgerlingen 
+Tel: + 49 - 7031 / 412 93 26
+Fax: + 49 - 7031 / 412 93 25
+E- mail:kinpro-services@proton.me
+Geschäftsführer: Dipl.-Ing. Valery König
+Handelsregisternummer: HRB 246169
+Amtsgericht: Stuttgart
+
+
+
+
+
+               If to company:                          
+
+     
+
+     
+
+ 
+ 
+
+ 
+
+             If to shareholder:
+SAH_GmbH
+Römerstraße70
+D-74078 Heilbronn
+m.heyd@sahgreen.de
+Amtsgericht_Stuttgart 
+HRB 107376
+SAH_GmbH
+Römerstraße70
+D-74078 Heilbronn
+m.heyd@sahgreen.de
+Amtsgericht_Stuttgart 
+HRB 107376
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+23/ 24
+
+(b)
+To the extent this Agreement explicitly provides for delivery of a notice to the Company on behalf of an Existing Shareholder, each Existing Shareholder hereby appoints the Company as receiver of notices on its behalf. The Company shall promptly upon receipt send complete copies of such notices to each Existing Shareholder.
+ 
+ 
+ 
+
+(c)
+For the purpose of meeting a time period or deadline by the sender, a notice shall be deemed made when dispatched by the sender. For triggering the start of a period or deadline for the recipient, a notice shall be deemed made or received when it arrives at the recipient (Zugang).
+ 
+ 
+ 
+
+(d)
+Each Party may change or amend the addresses given above or designate additional addresses for the purposes of this Section 16.5 by giving the other Parties written notice of the new address in the manner set forth in this Section 16.5.
+16.6
+
+Entire Agreement
+16.7
+
+Severability
+16.8
+
+Amendments
+16.9
+
+Waiver of Rights
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+23 / 24
+17.
+
+Governing Law and Arbitration
+17.1
+
+Governing Law
+17.2
+
+Arbitration
+17.3
+
+Trust Account Waiver
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+24 / 24
+Investor
+Investor
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+Name:
+ 
+
+
+
+Function:
+  
+
+
+
+ 
+ 
+
+
+
+Founder and only Shareholder 1
+
+Founder and only Shareholder 1
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+Name : Mr Marco Heyd
+Name : Mr Marco Heyd
+ 
+ 
+Function: Founder and Shareholder  
+ 
+ 
+ 
+
+
+ 
+ 
+
+
+ 
+ 
+
+
+
+
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+1 / 14
+“Affiliate” and “Affiliates”
+ 
+shall mean any person or entity that directly, or indirectly through one or more intermediaries, controls or is controlled by or is under common control with the person or entity specified and includes, in case of an Investor, funds, investment vehicles or other entities formed or incorporated in any jurisdiction which are owned, managed or advised by such Investor or by the same advisor as the Investor.
+ 
+ 
+ 
+“Agreement”
+ 
+shall mean this investment and subscription agreement including all Annexes.
+ 
+ 
+ 
+“Annex”
+ 
+shall mean any annex to this Agreement.
+ 
+ 
+ 
+“Articles”
+ 
+shall mean the articles of incorporation (Statuten) of the Company substantially in the form attached to this Agreement and as amended from time to time.
+ 
+ 
+ 
+“Authority”
+ 
+shall mean any court, arbitral tribunal, or governmental, administrative or regulatory authority or agency.
+ 
+ 
+ 
+“Authorization”
+ 
+shall mean any official authorization, order, permission, product registration, certification, certificate, approval, notice or consent (including any written amendment, supplement or replacement).
+ 
+ 
+ 
+“Available Closing Date Cash”
+ 
+shall have the meaning set forth in the BCA.
+ 
+ 
+ 
+“BCA”
+ 
+shall have the meaning set forth in Recital (D).
+ 
+ 
+ 
+“BCA Closing”
+ 
+shall have the meaning set forth in Recital (E).
+ 
+ 
+ 
+“Board”
+ 
+shall mean the board of directors of the Company, as appointed from time to time in accordance with the terms of this Agreement.
+ 
+ 
+ 
+“Business Day”
+ 
+shall mean any day except a Saturday, a Sunday or any other day on which commercial banks are required or authorized to close in the State of New York or the Canton of Zug, Switzerland.
+ 
+ 
+ 
+“Business”
+ 
+shall have the meaning set forth in Recital (C).
+ 
+ 
+ 
+“BVF Party” and “BVF Parties”
+ 
+shall have the meaning set forth in Recital (D).
+ 
+ 
+ 
+“BVF Share Transfers”
+ 
+shall have the meaning set forth in Recital (D).
+ 
+ 
+ 
+“Capital Reduction”
+ 
+shall have the meaning set forth in Section 13.3(c). 
+ 
+ 
+ 
+“Cash Contribution”
+ 
+shall have the meaning set forth in Section 3.1(b)(ii).
+
+
+
+
+
+
+
+
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+2 / 14
+“Cash Contribution Agreement”
+ 
+shall have the meaning set forth in Section 5.
+ 
+ 
+ 
+“CEO”
+ 
+shall mean the Chief Executive Officer of the Company appointed from time to time in accordance with this Agreement.
+ 
+ 
+ 
+“Chairman”
+ 
+shall mean the chairman of the Board (Verwaltungsratspräsident).
+ 
+ 
+ 
+“Class A Ordinary Shares”
+ 
+shall mean Class A ordinary shares in the Investor.
+ 
+ 
+ 
+“Class A Shares”
+ 
+shall have the meaning set forth in Recital (D).
+ 
+ 
+ 
+“Closing”
+ 
+shall mean the closing of the transactions contemplated by this Agreement pursuant to Section 11 of this Agreement and the BCA Closing as set forth in the BCA.
+ 
+ 
+ 
+“Closing Date”
+ 
+shall have the meaning set forth in Section 11.1.
+ 
+ 
+ 
+“CO”
+ 
+shall mean the Swiss Code of Obligations (Schweizerisches Obligationenrecht) as of March 30, 1911, as amended from time to time.
+ 
+ 
+ 
+“Common Shares”
+ 
+shall have the meaning set forth in Recital (B).
+ 
+ 
+ 
+“Company”
+ 
+shall have the meaning set forth on page 2.
+ 
+ 
+ 
+“Conditional Capital”
+ 
+shall have the meaning set forth in Recital (B).
+ 
+ 
+ 
+“Confidential Information”
+ 
+shall have the meaning set forth in Section 16.2(a).
+ 
+ 
+ 
+“Corporate Documents”
+ 
+shall mean the corporate documents of the Company necessary for execution and registration of the adoption of the Articles, the Share Conversion, the Nominal Capital Increase and the changes to the Board of the Company, with the commercial register of the Canton of Zug, including, without limitation, the minutes of the Extraordinary General Meeting, the Articles, the Company’s Board report regarding capital increase (Kapitalerhöhungsbericht), the resolution of the Company’s Board in the ascertainment and the execution of the Nominal Capital Increase (Feststellungsbeschluss) and the Closing Application.
+ 
+ 
+ 
+“Cut-Off Date”
+ 
+shall have the meaning set forth in Section 8(a).
+ 
+ 
+ 
+“Defaulting Party”
+ 
+shall have the meaning set forth in Section 16.1(a).
+ 
+ 
+ 
+“Determined Nominal Amount”
+ 
+shall mean the aggregate nominal amount of the capital increase, calculated by multiplying the number of Investor’s Preliminary Class A Shares, as calculated in accordance with the provisions of the BCA, by CHF 
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+3 / 14
+“Director”
+ 
+shall mean a member of the Board appointed from time to time in accordance with the terms of this Agreement.
+ 
+ 
+ 
+“EGM Date”
+ 
+shall have the meaning set forth in Section 4.2.1(i).
+ 
+ 
+ 
+“Employee Share Participation Plan”
+ 
+shall mean the employee share participation plan dated 29 Feb 2024 of T.C.S. Tactical Combat Systems SA, as amended from time to time.
+ 
+ 
+ 
+“Employee Stock Option Plan”
+ 
+shall mean the employee stock option plan dated 29 Feb 2024 of T.C.S. Tactical Combat Systems SA, as amended from time to time.
+ 
+ 
+ 
+“Existing Articles”
+ 
+shall mean the existing articles of incorporation (Statuten) of the Company as in effect and in force as per the date of this Agreement.
+ 
+ 
+ 
+“Existing Shareholder” and “Existing Shareholders”
+ 
+shall have the meaning set forth on page 2 of this Agreement taking into account the extension of the defined term according to Section 9.
+ 
+ 
+ 
+“Existing Shares”
+ 
+shall have the meaning set forth in Recital (B).
+ 
+ 
+ 
+“Extraordinary General Meeting”
+ 
+shall have the meaning set forth in Section 4.2.1(i).
+ 
+ 
+ 
+“Founder” and “Founders”
+ 
+shall have the meaning set forth on page 1.
+ 
+ 
+ 
+“Investment”
+ 
+shall have the meaning set forth in Section 3.1(a).
+ 
+ 
+ 
+“Investor”
+ 
+shall have the meaning set forth on page 1.
+ 
+ 
+ 
+“Investor’s Final Class A Shares”
+ 
+shall have the meaning set forth in Recital (E).
+ 
+ 
+ 
+“Investor’s Preliminary Class A Shares”
+ 
+shall have the meaning set forth in Recital (E).
+ 
+ 
+ 
+“Lien”
+ 
+shall mean, with respect to any specified asset, any and all liens, mortgages, hypothecations, claims, encumbrances, options, pledges, licenses, rights of priority, easements, covenants, restrictions and security interests thereon.
+ 
+ 
+ 
+“Minimum Investment Amount”
+ 
+shall have the meaning set forth in Recital (E).
+ 
+ 
+ 
+“ML Bank Account”
+ 
+shall have the meaning set forth in Section 11.3.
+ 
+ 
+ 
+“Nominal Capital Increase”
+ 
+shall have the meaning set forth in Section 3.1(b)(i).
+ 
+ 
+ 
+“Nominal Issue Price”
+ 
+shall have the meaning set forth in Section 4.2.3(iii).
+
+
+
+
+
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+4 / 14
+“Other Shareholder” and “Other Shareholders”
+ 
+shall have the meaning set forth on pages 1 and 2.
+ 
+ 
+ 
+“Party” and “Parties”
+ 
+shall have the meaning set forth on page 2.
+ 
+ 
+ 
+“Permitted Allocations”
+ 
+shall have the meaning set forth 11.2(iv).
+ 
+ 
+ 
+“PIPE Transaction”
+ 
+shall have the meaning set forth in Recital (E).
+ 
+ 
+ 
+“Plans”
+ 
+shall have the meaning set forth in Section 8(a).
+ 
+ 
+ 
+“Pre-Closing Application”
+ 
+shall have the meaning set forth in Section 10(j).
+ 
+ 
+ 
+“Preliminary Investment Amount”
+ 
+shall have the meaning set forth in Recital (E).
+ 
+ 
+ 
+“Preliminary Nominal Subscription Amount”
+ 
+shall have the meaning set forth in Section 4.3.1(a).
+ 
+ 
+ 
+“Proxy Holder”
+ 
+shall mean the proxy holder whose name is entered in the proxy as the person who is appointed to represent and act for the relevant Existing Shareholder as issuer of the proxy in the Extraordinary General Meeting.
+ 
+ 
+ 
+“Recital”
+ 
+shall mean a recital in this Agreement.
+ 
+ 
+ 
+“Released Claim”
+ 
+shall have the meaning in Section 17.3.
+ 
+ 
+ 
+“Restated and Amended Shareholders’ Agreement”
+ 
+shall mean the restated and amended shareholders’ agreement substantially in the form as attached hereto in Annex 11.3(f).
+ 
+ 
+ 
+“Re-Transfer Class A Shares”
+ 
+shall have the meaning set forth in Section 13.3.
+ 
+ 
+ 
+“Re-Transfer Purchase Price”
+ 
+shall have the meaning set forth in Section 13.3.
+ 
+ 
+ 
+“SEC”
+ 
+means the United States Securities and Exchange Commission.
+ 
+ 
+ 
+“Series A Preferred Shares”
+ 
+shall have the meaning set forth in Recital (B).
+ 
+ 
+ 
+“Shares”
+ 
+shall mean any shares (Aktien) or participations (Partizipationsscheine) issued by the Company from time to time.
+ 
+ 
+ 
+“Share Conversion”
+ 
+shall have the meaning set forth in Recital (D).
+ 
+ 
+ 
+“Share Re-Transfer”
+ 
+shall have the meaning set forth in Section 3.1(b)(iii).
+ 
+ 
+ 
+“SOGC”
+ 
+Swiss Official Gazette of Commerce.
+ 
+ 
+ 
+“Stock Options”
+ 
+shall have the meaning set forth in Section 8(a).
+ 
+ 
+ 
+“Stock Option Restriction”
+ 
+shall have the meaning set forth in Section 8(a).
+
+ 
+ 
+“Subscription Form”
+ 
+shall mean the subscription forms to be executed by the Investor in accordance with the terms of this Agreement in form and substance satisfactory to the Company and as required by Swiss corporate law.
+ 
+ 
+ 
+“Transferred Common Shares”
+ 
+shall have the meaning set forth in Section 5(a).
+ 
+ 
+ 
+“Trust Account”
+ 
+shall mean the trust account established by the Investor pursuant to the Trust Agreement.
+ 
+ 
+ 
+“Trust Agreement”
+ 
+shall mean that certain Investment Management Trust Agreement, dated as of May 15, 2024, by and between the Investor and T.C.S Tactical Combat Systems SA
+ 
+ 
+ 
+“Updated Cap Table”
+ 
+shall have the meaning set forth in Section 4.2.2.
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+5 / 14
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+6 / 14
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+7 / 14
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+8 / 14
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+9 / 14
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+10 / 14
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+11 / 14
+1.
+Capacity and Title of Existing Shareholders and the Company
+1.1
+Authority and Ownership
+
+(a)
+Each Existing Shareholder and the Company has the unrestricted right, power and authority to enter into, to execute and deliver this Agreement and to consummate the transactions contemplated hereby, and has taken all actions necessary, including required corporate approvals, in order to enter into, to execute, deliver and perform its respective obligations hereunder and to consummate the transactions contemplated hereby.
+
+(b)
+This Agreement has been duly executed and delivered by each of the Existing Shareholders and the Company and constitutes the valid and binding agreement of the Existing Shareholders and the Company, enforceable against each of the Existing Shareholders and the Company in accordance with its terms.
+
+(c)
+The Existing Shareholders are neither over-indebted (überschuldet), nor insolvent (insolvent) nor unable to pay their debts as they fall due (illiquid).
+
+(d)
+The Existing Shareholders are the sole legal and beneficial owners of the Existing Shares free and clear of any encumbrances. The Existing Shares set forth on Annex 2 comprise all of the capital stock of the Company that are issued and outstanding as of the date hereof. Other than Stock Options referring to the Conditional Capital set forth on Annex 2, no options, warrants, calls, rights, contracts, commitments or derivative instruments are outstanding that could require the Company to sell, transfer or issue any shares or other securities of the Company.
+
+(e)
+The Cap Table after Closing set forth on Annex 4.2.2, once updated, will reflect all of the capital stock of the Company, the remaining Conditional Capital as well as the Stock Options referring to the Conditional Capital that are issued and outstanding as of the Closing Date.
+1.2
+Execution and Performance, No Consents
+
+(a)
+The execution and the performance of this Agreement by each Existing Shareholder and the Company have been authorized by all necessary corporate actions of such Existing Shareholder and the Company and the execution and performance of this Agreement by the Company or the Existing Shareholders will not (i) conflict with or result in any breach of any of the material terms, conditions or provisions of, (ii) constitute a material default under (whether with or without the giving of notice, the passage of time or both), (iii) result in a material violation of, (iv) give any third party the right to terminate or accelerate, or cause any termination or acceleration of, any material right or material obligation under, (v) result in the creation of any Lien upon the Existing Shares under, (vi) require any approval from, or (vii) require any filing with, (A) any material contract, (B) any constitutional documents or (C) any authority under or pursuant to any law or order to which the Company or any Existing Shareholder is bound or subject, with respect to clauses (iv) through (vii), which would reasonably be expected to be material to the Company or any Existing Shareholder, other than as required under this Agreement.
+
+(b)
+There are no proceedings or investigations whatsoever pending or threatened in writing against any of the Existing Shareholders and/or the Company that could compromise the transactions contemplated by this Agreement.
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+12 / 14
+2.
+Status of the Company
+
+2.1
+Incorporation, Share Capital and Authority
+
+(a)
+The Company is a corporation duly incorporated and validly existing under the laws of Switzerland.
+
+(b)
+At the date of this Agreement, the Company has an issued statutory share capital in the nominal amount of CHF 100.000,00 divided into 1 registered shares (Namenaktien) with a nominal value of CHF 100.000,00 per share.
+
+(c)
+The Company has an outstanding conditional capital (bedingtes Kapital) of CHF 150.000.000,00, allowing for the issuance of up registered Participation Shares for in connection with the Company’s Plans.
+
+(d)
+Existing Shares have been validly issued, are fully paid up and constitute the entire issued share capital of the Company. No share certificates have been issued by the Company since its incorporation. In particular, in the context of the incorporation of the Company and/or subsequent capital increases, there have not been any undisclosed (intended) acquisitions of assets ((beabsichtigte) Sachübernahmen), no options, warrants, calls, rights, contracts, commitments or derivative instruments are outstanding that could require the Company to sell, transfer or issue any shares or other securities of the Company.
+
+(e)
+The Class A Shares, if issued in accordance with this Agreement, will be validly issued and fully paid-up.
+
+(f)
+The Company has full corporate power and authority to own its property and assets and to carry on its Business as presently conducted.
+
+2.2
+No Dissolution, Bankruptcy or Insolvency
+
+(a)
+No measures have been taken for the dissolution and liquidation or declaration of bankruptcy of the Company and no events have occurred which would justify any such measures to be taken, in particular (i) no order has been made, petition presented, resolution passed or meeting convened for the winding up, dissolution or liquidation of the Company and there are no proceedings under applicable insolvency, bankruptcy, composition, moratorium, reorganization, or similar laws and no events have occurred which would require the initiation of any such proceedings; and (ii) no receiver, liquidator, administrator, commissioner or similar official has been appointed in respect of the Company and no step has been taken for or with a view to the appointment of such a person.
+
+(b)
+The Company is neither over-indebted (überschuldet), nor insolvent (insolvent) nor unable to pay its debts as they fall due (illiquid).
+
+2.3
+Corporate Books and Registers
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+13 / 14
+
+1.
+Capacity and Title of Other Shareholder 4
+
+1.1
+Authority and Ownership
+
+(a)
+The Shareholder 1 has the unrestricted right, power and authority to enter into, to execute and deliver this Agreement and to consummate the transactions contemplated hereby, and has taken all actions necessary, including required corporate approvals, in order to enter into, to execute, deliver and perform its respective obligations hereunder and to consummate the transactions contemplated hereby.
+
+(b)
+This Agreement has been duly executed and delivered by Shareholder 1 and constitutes the valid and binding agreement, enforceable against the Shareholder 1 in accordance with its terms.
+
+(c)
+The Shareholder 1 is neither over-indebted (überschuldet), nor insolvent (insolvent) nor unable to pay its debts as they fall due (illiquid).
+
+(d)
+The Shareholder 1 is the sole legal and beneficial owner of 100 percent of Existing Shares free and clear of any encumbrances.
+
+1.2
+Execution and Performance, No Consents
+
+(a)
+The execution and the performance of this Agreement of Shareholder 1 has been authorized by all necessary corporate actions of the Shareholder 1 and the execution and performance of this Agreement Shareholder 1 will not (i) conflict with or result in any breach of any of the material terms, conditions or provisions of, (ii) constitute a material default under (whether with or without the giving of notice, the passage of time or both), (iii) result in a material violation of, (iv) give any third party the right to terminate or accelerate, or cause any termination or acceleration of, any material right or material obligation under, (v) result in the creation of any Lien upon the 100 percent of Existing Shares held by Shareholder 1 under, (vi) require any approval from, or (vii) require any filing with, (A) any material contract, (B) any constitutional documents or (C) any authority under or pursuant to any law or order to which the Shareholder1 is bound or subject, with respect to clauses (iv) through (vii), which would reasonably be expected to be material to the Shareholder 1, other than as required under this Agreement.
+
+(b)
+There are no proceedings or investigations whatsoever pending or threatened in writing against the Shareholder 1 that could compromise the transactions contemplated by this Agreement.
+T.C.S. Tactical Combat Systems SA : Project Green Safe House–Investment Agreement
+14 / 14
+
+1.
+Capacity of Investor
+
+1.1
+Authority
+
+(a)
+The Investor has the unrestricted right, power and authority to enter into, to execute and deliver this Agreement and to consummate the transactions contemplated hereby, and has taken all actions necessary, including required corporate approvals, in order to enter into, to execute, deliver and perform its respective obligations hereunder and to consummate the transactions contemplated hereby.
+
+(b)
+This Agreement has been duly authorized, executed and delivered by the Investor and constitutes a valid and binding agreement of the Investor, enforceable against the Investor in accordance with its respective terms. It is neither over-indebted (überschuldet) nor insolvent (insolvent) or unable to pay its debts as they fall due (illiquid) and there are no circumstances that indicate any over-indebtedness or insolvency or illiquidity of it in the foreseeable future.
+
+1.2
+Execution and Performance
+
+1.3
+No Consents Required
+
+1.4
+Incorporation; Good Standing
+
+
+================================================================================
+SOURCE DOCUMENT: Ausweis_Alexander_Caspary_2021_01_26_converted.txt
+================================================================================
+SOURCE DOCUMENT: Ausweis Alexander Caspary 2021 01 26.pdf
+CONVERTED FROM: PDF
+FILE SIZE: 240768 bytes
+================================================================================
+
+
+

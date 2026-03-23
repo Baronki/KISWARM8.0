@@ -1,0 +1,52 @@
+{
+  "pipeline": "audit",
+  "nodes": [
+    {
+      "id": "48bb0142-ea78-43b5-adb7-62db0ec19a76",
+      "node_type": "audit_trigger",
+      "data": {
+        "value": "f0738643df314d86bc836c36675af5b0",
+        "reason": "scheduled"
+      },
+      "timestamp": "2026-03-04T19:21:43.790490+00:00"
+    },
+    {
+      "id": "1a9801a4-b45e-4512-9329-f20c45a22645",
+      "node_type": "snapshot",
+      "data": {
+        "value": "a28ca16a86c34f9983e498f05af08ea4",
+        "pipelines": [
+          "mutation",
+          "sil",
+          "digital_thread",
+          "audit",
+          "consensus",
+          "immortality"
+        ]
+      },
+      "timestamp": "2026-03-04T19:21:43.790497+00:00"
+    },
+    {
+      "id": "15c543fe-82c3-457c-afeb-9905c98150bf",
+      "node_type": "audit_report",
+      "data": {
+        "value": "7ce82453ba3d4b1499441101a08d899d",
+        "issues": 0,
+        "hash": "f0f4dcc7c0694fa093d6ce174914b980"
+      },
+      "timestamp": "2026-03-04T19:21:43.790503+00:00"
+    }
+  ],
+  "edges": [
+    {
+      "from_node": "48bb0142-ea78-43b5-adb7-62db0ec19a76",
+      "to_node": "1a9801a4-b45e-4512-9329-f20c45a22645",
+      "edge_type": "derived_from"
+    },
+    {
+      "from_node": "1a9801a4-b45e-4512-9329-f20c45a22645",
+      "to_node": "15c543fe-82c3-457c-afeb-9905c98150bf",
+      "edge_type": "derived_from"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "total": 21,
+  "passed": 19,
+  "failed": 2,
+  "skipped": 0,
+  "tests": [
+    {
+      "name": "test_kibank_imports",
+      "module": "__main__",
+      "status": "PASSED",
+      "duration_ms": 826
+    },
+    {
+      "name": "test_sentinel_imports",
+      "module": "__main__",
+      "status": "PASSED",
+      "duration_ms": 14
+    },
+    {
+      "name": "test_m60_ki_entity_registration",
+      "module": "__main__",
+      "status": "PASSED",
+      "duration_ms": 1
+    },
+    {
+      "name": "test_m60_ki_entity_login",
+      "module": "__main__",
+      "status": "PASSED",
+      "duration_ms": 3
+    },
+    {
+      "name": "test_m60_token_verification",
+      "module": "__main__",
+      "status": "PASSED",
+      "duration_ms": 2
+    },
+    {
+      "name": "test_m60_security_clearance",
+      "module": "__main__",
+      "status": "PASSED",
+      "duration_ms": 2
+    },
+    {
+      "name": "test_m61_iban_generation",
+      "module": "__main__",
+      "status": "PASSED",
+      "duration_ms": 0
+    },
+    {
+      "name": "test_m61_account_creation",
+      "module": "__main__",
+      "status": "PASSED",
+      "duration_ms": 1
+    },
+    {
+      "name": "test_m61_iban_validation",
+      "module": "__main__",
+      "status": "PASSED",
+      "duration_ms": 0
+    },
+    {
+      "name": "test_m62_reputation_system",
+      "module": "__main__",
+      "status": "ERROR",
+      "duration_ms": 1,
+      "error": "unsupported operand type(s) for +: 'dict' and 'int'"
+    },
+    {
+      "name": "test_m62_trading_limits",
+      "module": "__main__",
+      "status": "ERROR",
+      "duration_ms": 0,
+      "error": "'TradingLimits' object has no attribute 'single_tx_limit'"
+    },
+    {
+      "name": "test_m62_investment_eligibility",
+      "module": "__main__",
+      "status": "PASSED",
+      "duration_ms": 1
+    },
+    {
+      "name": "test_m4_ledger_recording",
+      "module": "__main__",
+      "status": "PASSED",
+      "duration_ms": 0
+    },
+    {
+      "name": "test_m4_ledger_integrity",
+      "module": "__main__",
+      "status": "PASSED",
+      "duration_ms": 4
+    },
+    {
+      "name": "test_m22_consensus",
+      "module": "__main__",
+      "status": "PASSED",
+      "duration_ms": 0
+    },
+    {
+      "name": "test_m31_tool_registry",
+      "module": "__main__",
+      "status": "PASSED",
+      "duration_ms": 328
+    },
+    {
+      "name": "test_m31_agents_status",
+      "module": "__main__",
+      "status": "PASSED",
+      "duration_ms": 0
+    },
+    {
+      "name": "test_m31_security_scan",
+      "module": "__main__",
+      "status": "PASSED",
+      "duration_ms": 335
+    },
+    {
+      "name": "test_security_flow_complete",
+      "module": "__main__",
+      "status": "PASSED",
+      "duration_ms": 364
+    },
+    {
+      "name": "test_central_bank_tiers",
+      "module": "__main__",
+      "status": "PASSED",
+      "duration_ms": 0
+    },
+    {
+      "name": "test_central_bank_limits",
+      "module": "__main__",
+      "status": "PASSED",
+      "duration_ms": 0
+    }
+  ],
+  "modules_tested": "{'__main__'}",
+  "start_time": "2026-03-04T19:47:26.602964",
+  "end_time": "2026-03-04T19:47:28.493782"
+}

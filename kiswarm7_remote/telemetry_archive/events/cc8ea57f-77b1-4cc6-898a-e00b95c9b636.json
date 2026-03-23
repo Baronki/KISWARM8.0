@@ -1,0 +1,23 @@
+{
+  "event_id": "cc8ea57f-77b1-4cc6-898a-e00b95c9b636",
+  "event_type": "debug_fixed",
+  "timestamp": 1773429404.663387,
+  "iso_timestamp": "2026-03-13T19:16:44.663387+00:00",
+  "source_module": "debug_tracker",
+  "source_agent": "unknown",
+  "description": "Debug session: Test error",
+  "data": {
+    "error": "Test error",
+    "code_context": null,
+    "fix_applied": "Test fix",
+    "success": true
+  },
+  "metadata": {},
+  "session_id": "e51f542c-49cd-4632-acfb-237ac8f32f0f",
+  "parent_event_id": null,
+  "correlation_id": "a27f85f5-1cab-4bae-80b5-2e81c8b9634a",
+  "checksum": "938659bdc3e84a0be06bdfcb22bcf8f7",
+  "previous_checksum": "b73b28fb30bd9d2b98f7c6ddf882bb9e",
+  "observer_notes": [],
+  "cross_validated": false
+}

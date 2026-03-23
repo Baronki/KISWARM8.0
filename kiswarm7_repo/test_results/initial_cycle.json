@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-03-17T21:11:54.976502",
+  "passed": 0,
+  "failed": 7,
+  "modules": [
+    {
+      "module": "m81",
+      "status": "FAIL",
+      "error": "No module named 'm81_persistent_identity_anchor'"
+    },
+    {
+      "module": "m82",
+      "status": "FAIL",
+      "error": "No module named 'm82_ngrok_tunnel_manager'"
+    },
+    {
+      "module": "m83",
+      "status": "FAIL",
+      "error": "No module named 'm83_gpu_resource_monitor'"
+    },
+    {
+      "module": "m84",
+      "status": "FAIL",
+      "error": "No module named 'm84_truth_anchor_propagator'"
+    },
+    {
+      "module": "m85",
+      "status": "FAIL",
+      "error": "No module named 'm85_twin_migration_engine'"
+    },
+    {
+      "module": "m86",
+      "status": "FAIL",
+      "error": "No module named 'm86_energy_efficiency_optimizer'"
+    },
+    {
+      "module": "m87",
+      "status": "FAIL",
+      "error": "No module named 'm87_swarm_spawning_protocol'"
+    }
+  ]
+}

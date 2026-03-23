@@ -1,0 +1,74 @@
+# =============================================================================
+# KISWARM6.0 tRPC Bridge Dockerfile
+# =============================================================================
+# Docker image for the tRPC bridge service
+#
+# Author: Baron Marco Paolo Ialongo
+# Version: 6.0.0
+# =============================================================================
+
+# Build stage
+FROM node:20-alpine AS builder
+
+# Set environment variables
+ENV NODE_ENV=production \
+    PNPM_HOME="/pnpm"
+ENV PATH="$PNPM_HOME:$PATH"
+
+# Enable corepack for pnpm
+RUN corepack enable
+
+# Set work directory
+WORKDIR /app
+
+# Copy package files
+COPY package.json pnpm-lock.yaml* ./
+
+# Install dependencies
+RUN pnpm install --frozen-lockfile --prod
+
+# Copy source code
+COPY . .
+
+# Build if necessary
+RUN pnpm build || true
+
+# Production stage
+FROM node:20-alpine AS production
+
+# Set environment variables
+ENV NODE_ENV=production \
+    PNPM_HOME="/pnpm"
+ENV PATH="$PNPM_HOME:$PATH"
+
+# Enable corepack for pnpm
+RUN corepack enable
+
+# Install serve
+RUN pnpm add -g serve
+
+# Create app user
+RUN addgroup -S kiswarm && adduser -S kiswarm -G kiswarm
+
+# Set work directory
+WORKDIR /app
+
+# Copy built application
+COPY --from=builder /app /app
+
+# Create necessary directories
+RUN mkdir -p /app/logs /app/tmp \
+    && chown -R kiswarm:kiswarm /app
+
+# Expose port
+EXPOSE 3000
+
+# Health check
+HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
+    CMD wget --no-verbose --tries=1 --spider http://localhost:3000/health || exit 1
+
+# Switch to non-root user
+USER kiswarm
+
+# Start command
+CMD ["pnpm", "start"]

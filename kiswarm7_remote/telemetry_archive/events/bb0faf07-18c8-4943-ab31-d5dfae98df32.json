@@ -1,0 +1,30 @@
+{
+  "event_id": "bb0faf07-18c8-4943-ab31-d5dfae98df32",
+  "event_type": "module_init",
+  "timestamp": 1773429476.6240385,
+  "iso_timestamp": "2026-03-13T19:17:56.624038+00:00",
+  "source_module": "m64_aegis_juris",
+  "source_agent": "m83",
+  "description": "Module initialization test: passed",
+  "data": {
+    "module_name": "AEGIS Jurisdiction",
+    "module_id": "m64_aegis_juris",
+    "status": "passed",
+    "init_success": true,
+    "functional_test": false,
+    "error_message": "",
+    "duration_ms": 0.0057220458984375,
+    "details": {
+      "has_docstring": true,
+      "docstring_preview": "\nKISWARM6.0 \u2014 Module 64: AEGIS-JURIS Legal Counterstrike Framework\n================================="
+    }
+  },
+  "metadata": {},
+  "session_id": "dfc31db9-536b-492a-8d03-f5947f672abd",
+  "parent_event_id": null,
+  "correlation_id": "e5d43840-4dd1-4088-a2ab-ce367f65aebf",
+  "checksum": "f7640bd8e3ec23f29fd24b0ef33ea37c",
+  "previous_checksum": "2fb975318d63d5f64f2143a2a5553490",
+  "observer_notes": [],
+  "cross_validated": true
+}

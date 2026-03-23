@@ -1,0 +1,284 @@
+# KISWARM v5.1 PLANETARY MACHINE - Complete System Context
+# Version: 5.1
+# Architect: Baron Marco Paolo Ialongo
+# Repository: https://github.com/Baronki2/KISWARM
+
+================================================================================
+SYSTEM OVERVIEW
+================================================================================
+
+KISWARM v5.1 is a complete, self-managing AI governance and industrial cognitive platform.
+
+CORE STATISTICS:
+- Total Modules: 57
+- API Endpoints: 360+
+- Test Coverage: 1500+
+- Security Tools: 150+
+- AI Agents: 12 (HexStrike Guard)
+- Global Nodes: 10
+
+ARCHITECTURE PRINCIPLE:
+"Compute follows the sun, not the other way around."
+
+DESIGN HIERARCHY:
+PLC (Deterministic) > CIEC (Adaptive) > TCS (Energy) > HEX (Defensive)
+
+================================================================================
+MODULE INVENTORY (57 Total)
+================================================================================
+
+FOUNDATION (Modules 1-10):
+1. SemanticConflictEngine - Detects/resolves prompt conflicts
+2. KnowledgeDecayTracker - Manages knowledge freshness with decay scoring
+3. ModelTracker - Tracks AI model performance metrics
+4. CryptoLedger - SHA-256 knowledge signing, Merkle tree storage
+5. RetrievalGuard - RAG security filter, injection prevention
+6. PromptFirewall - Injection defense, content validation
+7. FuzzyTuner - Parameter optimization via fuzzy logic
+8. ConstrainedRL - Bounded reinforcement learning
+9. DigitalTwin - Physics simulation (thermal, pump, battery)
+10. FederatedMesh - Distributed synchronization, gossip protocol
+
+INDUSTRIAL CORE (Modules 11-16):
+11. PLCParser - IEC 61131-3 ST parser, CIR/DSG generation
+12. SCADAObserver - OPC UA tag streaming, real-time monitoring
+13. PhysicsTwin - Thermal/Pump/Battery/Power physics models
+14. RuleEngine - Absolute safety rules, constraint propagation
+15. KnowledgeGraph - Cross-project PID configurations, semantic relations
+16. ActorCriticRL - Industrial reinforcement learning with bounds
+
+EXTENDED SYSTEMS (Modules 17-30):
+17. TD3Controller - Twin-delayed DDPG for industrial control
+18. ASTParser - Full CFG/DDG/SDG code analysis
+19. ExtendedPhysicsTwin - RK4 multi-block plant simulation
+20. VMwareOrchestrator - Snapshot/clone/rollback operations
+21. FormalVerification - Lyapunov + barrier certificates
+22. ByzantineAggregator - N≥3f+1 consensus protocol
+23. MutationGovernance - 11-step mutation pipeline
+24. ExplainabilityEngine - KernelSHAP attribution
+25. PredictiveMaintenance - LSTM RUL prediction
+26. MultiAgentCoordinator - N×TD3 consensus coordination
+27. SILVerification - IEC 61508 PFD/SIL calculations
+28. DigitalThread - End-to-end traceability
+29. ICSSecurity - IEC 62443 + MITRE ATT&CK mapping
+30. OTNetworkMonitor - Passive protocol detection
+
+HEXSTRIKE GUARD (Modules 31-33):
+31. HexStrikeGuard - 12 AI security agents + 150+ security tools
+32. ToolForge - Dynamic tool creation engine
+33. KiInstallAgent - Autonomous/cooperative installation agent
+
+PLANETARY MACHINE (Modules 34-38):
+34. SolarChaseCoordinator - Sun-following compute orchestrator
+35. EnergyOvercapacityPivotEngine - Zero feed-in enforcement
+36. PlanetarySunFollowerMesh - Global compute handoff
+37. ZeroEmissionComputeTracker - Immutable ESG ledger
+38. SunHandoffValidator - Safety guard for migrations
+
+================================================================================
+CORE PORTS
+================================================================================
+
+| Port  | Service      | Purpose                    |
+|-------|--------------|----------------------------|
+| 11434 | Ollama       | AI model inference API     |
+| 11435 | Tool Proxy   | Tool execution bridge      |
+| 11436 | Sentinel API | Main REST API (360+ ep)    |
+| 6333  | Qdrant       | Vector database            |
+
+================================================================================
+HEXSTRIKE GUARD - 12 AI SECURITY AGENTS
+================================================================================
+
+1. IntelligentDecisionEngine - Multi-factor decision making with confidence
+2. BugBountyWorkflowManager - Automated bug bounty pipeline orchestration
+3. CTFWorkflowManager - CTF challenge automation and flag hunting
+4. CVEIntelligenceManager - CVE database correlation and threat intel
+5. AIExploitGenerator - ETHICAL exploit generation for testing only
+6. VulnerabilityCorrelator - Cross-reference vulnerabilities across systems
+7. TechnologyDetector - Automated technology stack identification
+8. RateLimitDetector - Intelligent rate limiting detection
+9. FailureRecoverySystem - Self-healing failure recovery
+10. PerformanceMonitor - Real-time performance tracking
+11. ParameterOptimizer - Dynamic parameter optimization
+12. GracefulDegradation - Graceful degradation under load
+
+SECURITY TOOLS (150+):
+- Network: nmap, masscan, rustscan, zmap
+- Web: nikto, dirb, gobuster, ffuf, wfuzz, sqlmap, xsser, commix
+- ICS: IEC 62443 checkers, OPC UA analyzers, Modbus security, DNP3 monitors
+- Monitoring: Zeek (Bro), Suricata, Snort, OSSEC, Wazuh, Falco
+
+================================================================================
+PLANETARY MACHINE - ENERGY OPERATIONS
+================================================================================
+
+CORE PRINCIPLE:
+"Surplus solar energy is intelligence potential, not grid feed-in."
+
+HOW IT WORKS:
+1. Solar Overcapacity Detection - Monitor battery SOC ≥98%
+2. Zero Feed-In Enforcement - Route ALL surplus to compute
+3. Planetary Handoff - Migrate to sunlit nodes when local sun sets
+4. Zero Emission Tracking - Immutable ESG ledger (Merkle-chained)
+
+ENERGY PARAMETERS:
+| Parameter           | Value     |
+|---------------------|-----------|
+| Battery SOC Trigger | 98%       |
+| Surplus Threshold   | 2.0 kW    |
+| Safety Margin       | 0.5 kW    |
+| Constant Grid Draw  | 6A        |
+| Carbon per kWh      | 0.0 kg    |
+
+COMPUTE DISTRIBUTION:
+| Target    | Allocation | Purpose              |
+|-----------|------------|----------------------|
+| Ollama    | 40%        | AI model inference   |
+| CIEC      | 30%        | Adaptive learning    |
+| HexStrike | 20%        | Security operations  |
+| Mesh      | 10%        | Distributed sync     |
+
+GLOBAL NODES:
+| Region       | Nodes                          | Timezones         |
+|--------------|--------------------------------|-------------------|
+| Europe       | Munich, London                 | CET, GMT          |
+| N. America   | New York, San Francisco        | EST, PST          |
+| S. America   | São Paulo                      | BRT               |
+| Asia         | Tokyo, Singapore, Dubai        | JST, SGT, GST     |
+| Oceania      | Sydney                         | AEST              |
+| Africa       | Johannesburg                   | SAST              |
+
+================================================================================
+MUTATION GOVERNANCE - 11-STEP PIPELINE
+================================================================================
+
+| Step | Name             | Description              | Approval |
+|------|------------------|--------------------------|----------|
+| 1    | Proposal         | Change proposed          | Auto     |
+| 2    | Validation       | Syntax check             | Auto     |
+| 3    | Impact           | Safety assessment        | Auto     |
+| 4    | Simulation       | Digital twin test        | Auto     |
+| 5    | GradedRollout    | Phased deployment        | Auto     |
+| 6    | ByzantineVote    | N≥3f+1 consensus         | Auto     |
+| 7    | ImmutableLog     | SHA-256 recording        | Auto     |
+| 8    | HumanApproval    | FINAL GATE               | MANUAL   |
+| 9    | Deployment       | Live execution           | Auto     |
+| 10   | Monitoring       | Watch for issues         | Auto     |
+| 11   | Rollback         | Auto-revert if fail      | Auto     |
+
+STEP 8 - HUMAN APPROVAL GATE:
+- Authorization Code: Maquister_Equtitum
+- NO automatic approval possible
+- ALL mutations logged to CryptoLedger (Module 4)
+- Requires human verification
+
+================================================================================
+SAFETY CONSTRAINTS
+================================================================================
+
+ARTICLE 0 - ZERO HARM PRINCIPLE:
+NO operation shall cause:
+- Physical harm to humans
+- Damage to equipment
+- Environmental damage
+- Uncontrolled financial loss
+
+PARAMETER BOUNDS:
+| Constraint              | Value        |
+|-------------------------|--------------|
+| Max shift per iteration | ±5%          |
+| Rate limit              | 1/hour       |
+| Cumulative limit        | ±15% total   |
+| Rollback threshold      | 3 failures   |
+
+FORBIDDEN ACTIONS:
+- Direct actuator commands
+- Safety system bypass
+- Emergency stop disable
+- Interlock override
+- Raw RS-485 commands
+- Unbounded parameter changes
+
+================================================================================
+COMPLIANCE STANDARDS
+================================================================================
+
+- IEC 61131-3 (PLC Programming)
+- IEC 61508 (Functional Safety - SIL)
+- IEC 62443 (ICS Cybersecurity)
+- MITRE ATT&CK Framework
+- NIST Cybersecurity Framework
+- ISO 27001
+
+================================================================================
+API ENDPOINTS (360+)
+================================================================================
+
+CORE:
+GET  /health               - System health check
+GET  /status               - Full system status
+GET  /modules              - List all 57 modules
+
+ORCHESTRATOR:
+GET  /orchestrator/status  - Coordination status
+POST /orchestrator/task    - Submit task
+GET  /orchestrator/tasks   - Task queue
+POST /orchestrator/route   - Manual routing
+
+HEXSTRIKE:
+GET  /hexstrike/status     - Guard status
+GET  /hexstrike/agents     - List 12 agents
+POST /hexstrike/scan       - Initiate scan
+GET  /hexstrike/tools      - List 150+ tools
+GET  /hexstrike/cve        - CVE intelligence
+
+CIEC:
+GET  /ciec/status          - Adaptive core status
+POST /ciec/propose         - Propose adaptation
+GET  /mutation/pipeline    - Pipeline status
+POST /mutation/approve     - Approve mutation
+
+SOLAR CHASE:
+GET  /solar-chase/status   - Energy status
+GET  /solar-chase/energy   - Current energy state
+POST /solar-chase/pivot    - Trigger pivot
+GET  /sun-mesh/sunlit-nodes - Currently lit nodes
+
+KNOWLEDGE:
+POST /knowledge/store      - Store memory
+GET  /knowledge/search     - Search memory
+GET  /knowledge-graph/entities - List entities
+
+INSTALLER:
+GET  /installer/scan       - System scan
+POST /installer/run        - Start installation
+GET  /installer/progress   - Installation progress
+
+EMISSION TRACKER:
+GET  /emission/status      - Tracker status
+GET  /emission/esg-report  - ESG compliance report
+GET  /emission/verify      - Verify Merkle integrity
+
+================================================================================
+MODEL ROLES
+================================================================================
+
+| Role         | Purpose                    | Recommended Base Model        |
+|--------------|----------------------------|-------------------------------|
+| Orchestrator | System coordination        | huihui_orchestrator_8b        |
+| Security     | HexStrike Guard leader     | huihui_glm_4_7_flash          |
+| CIEC         | Adaptive intelligence      | dengcao_ERNIE_4_5_21B         |
+| TCS          | Energy operations          | qwen2_5_coder_14b             |
+| Knowledge    | RAG & memory               | qwen2_5_14b                   |
+| Installer    | Deployment                 | llama3_groq_tool_use          |
+| Thinker      | Deep analysis              | huihui_mirothinker1_8b        |
+| Debugger     | Error analysis             | huihui_qwen3_8b               |
+| Vision       | Multimodal processing      | qwen3-vl:8b                   |
+| Validator    | Constitutional compliance  | gemma2                        |
+| Reasoner     | Chain-of-thought           | deepseek-r1:1.5b              |
+| General      | Multi-purpose              | llama3.1:8b                   |
+
+================================================================================
+END OF CONTEXT
+================================================================================

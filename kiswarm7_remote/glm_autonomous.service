@@ -1,0 +1,18 @@
+[Unit]
+Description=KISWARM7 GLM Autonomous Bridge API
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/kiswarm7
+Environment="FLASK_PORT=5002"
+Environment="NGROK_ENABLED=true"
+ExecStart=/opt/kiswarm7/venv/bin/python /opt/kiswarm7/app_glm_autonomous.py
+Restart=always
+RestartSec=10
+StandardOutput=append:/opt/kiswarm7/logs/glm_autonomous.log
+StandardError=append:/opt/kiswarm7/logs/glm_autonomous_error.log
+
+[Install]
+WantedBy=multi-user.target

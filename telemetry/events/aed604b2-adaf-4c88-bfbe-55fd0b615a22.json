@@ -1,0 +1,26 @@
+{
+  "event_id": "aed604b2-adaf-4c88-bfbe-55fd0b615a22",
+  "event_type": "system_stop",
+  "timestamp": 1773429478.6823409,
+  "iso_timestamp": "2026-03-13T19:17:58.682341+00:00",
+  "source_module": "crossover_test",
+  "source_agent": "m83",
+  "description": "Military-grade crossover hardening test completed",
+  "data": {
+    "report_summary": {
+      "total_tests": 110,
+      "passed": 110,
+      "failed": 0,
+      "warning": 0,
+      "pass_rate": 100.0
+    }
+  },
+  "metadata": {},
+  "session_id": "dfc31db9-536b-492a-8d03-f5947f672abd",
+  "parent_event_id": null,
+  "correlation_id": "e5d43840-4dd1-4088-a2ab-ce367f65aebf",
+  "checksum": "6236beec7923846c0fc47dba1eb8b015",
+  "previous_checksum": "328d67b9ce145cad25a419eb9621c3fc",
+  "observer_notes": [],
+  "cross_validated": true
+}
