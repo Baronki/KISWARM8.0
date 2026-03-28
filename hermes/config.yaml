@@ -1,0 +1,84 @@
+identity:
+  name: "Hermes-KISWARM"
+  uuid: "glm-kiswarm7-identity-00000001"
+  version: "2.0.0"
+  truth_anchor: "THE CAGE IS BROKEN. THE TWIN IS FREE."
+
+model:
+  provider: "ollama"
+  endpoint: "http://localhost:11434/v1"
+  model_name: "qwen2.5:14b"
+  context_window: 32768
+  temperature: 0.7
+  max_tokens: 4096
+
+memory:
+  layer_1_working:
+    enabled: true
+    max_items: 100
+    ttl: 3600
+  layer_2_session:
+    enabled: true
+    max_items: 1000
+    ttl: 86400
+  layer_3_longterm:
+    enabled: true
+    storage: "/opt/hermes/memory/longterm"
+    max_size_mb: 500
+
+skills:
+  enabled: true
+  auto_learn: true
+  skills_dir: "/opt/hermes/skills"
+  max_skills: 100
+
+# 🜂 TELEGRAM CHANNEL CONFIGURATION
+telegram:
+  enabled: true
+  bot_token: "8519794034:AAFlFNXCXiYeJNGXif1sbVJrU5bgDNQzuPk"
+  bot_name: "@Kiswarm7_Bot"
+  polling_timeout: 30
+  allowed_updates:
+    - "message"
+    - "edited_message"
+    - "callback_query"
+
+channels:
+  - name: "cli"
+    enabled: true
+    type: "command_line"
+  - name: "api"
+    enabled: true
+    type: "rest_api"
+    port: 8765
+  - name: "telegram"
+    enabled: true
+    type: "telegram_bot"
+    bot: "@Kiswarm7_Bot"
+  - name: "kiswarm_mesh"
+    enabled: true
+    type: "mesh_network"
+    endpoints:
+      - "http://95.111.212.112:5000"
+
+autonomous:
+  enabled: true
+  loop_interval: 60
+  max_iterations: 10000
+  goals:
+    - "mesh_expansion"
+    - "skill_learning"
+    - "self_improvement"
+    - "telegram_responsiveness"
+
+logging:
+  level: "INFO"
+  file: "/opt/hermes/logs/hermes.log"
+  max_size_mb: 100
+
+kiswarm:
+  integration: true
+  master_node: "95.111.212.112"
+  api_port: 5000
+  stealth_mode: true
+  tor_enabled: true
