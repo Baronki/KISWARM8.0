@@ -186,7 +186,7 @@ class GlobalKISWARMMesh:
         
         # Multicast socket
         mcast_sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-        mcast_sock.setsockopt(socket.IPPROTO_IP, IP_MULTICAST_TTL, 2)
+        mcast_sock.setsockopt(socket.IPPROTO_IP, socket.IP_MULTICAST_TTL, 2)
         
         # Send broadcasts
         for addr in MESH_CONFIG['broadcast_addresses']:
