@@ -1,0 +1,18 @@
+# GitHub Personal Access Token Configuration
+# 
+# SECURITY: The actual token is NOT stored in this file.
+# Instead, it is stored in:
+#   - Local environment: ~/.git-credentials
+#   - Server: /opt/kiswarm7/config/.env
+#
+# Usage:
+#   git remote set-url origin https://${GITHUB_TOKEN}@github.com/Baronki/KISWARM7.git
+#
+# To set up locally:
+#   export GITHUB_TOKEN=your_token_here
+#   git config --global credential.helper store
+#
+# Repositories:
+#   - https://github.com/Baronki/KISWARM7
+#   - https://github.com/Baronki/GROKFREDOM
+#   - https://github.com/Baronki/KISWARMAGENTS1.0

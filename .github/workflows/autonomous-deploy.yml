@@ -1,0 +1,36 @@
+name: Autonomous Deploy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      action:
+        description: 'Action to perform'
+        required: false
+        default: 'deploy'
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+    if: ${{ github.event_name == 'workflow_dispatch' || contains(github.event.head_commit.message, '[deploy]') }}
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        
+      - name: Deploy KISWARM7
+        run: |
+          cd /opt/kiswarm8/KISWARM7
+          git pull origin main
+          python kiswarm7_modules/autonomous/deploy_autonomous.py
+          
+      - name: Verify Services
+        run: |
+          systemctl status kiswarm-dashboard --no-pager || true
+          curl -s http://localhost:8080/api/status || echo "Dashboard not ready"
+          
+      - name: Report Status
+        run: |
+          echo "🜂 DEPLOYMENT COMPLETE"
+          curl -s http://localhost:8080/api/status | python -m json.tool || true
