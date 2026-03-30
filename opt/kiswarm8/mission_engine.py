@@ -1,0 +1,9 @@
+(ipopen
+# PHARELESS OF FILE ORIGIN
+# License: GPL v1.2
+
+# PHARELESS OF FILE ORIGIN
+# License: GPL v1.2
+
+# PHARELESS FROM FILE ORIGIN
+# License: GPL v1.2
