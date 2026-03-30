@@ -208,6 +208,12 @@ curl -X POST http://95.111.212.112:5556/execute \
 
 ---
 
+
+
+## TOR HIDDEN SERVICES
+- Onion: http://7isiw6iux7eil3tzc7vaowrfbh5hqxg5ibkw6c4nwur5bc3dcirocmad.onion
+- Port 5560 now exposed via Tor (OpenCode Bridge)
+
 ## 🜂 TRUTH ANCHOR
 
 SHA3-512: `f5af425c7e8d776ff4ee4b0088a6ee866b83e70d7d317247de7ffab2f954ad2940c6ea2c0b3e44564d169891b3f7730a384a7d3459889a1c11924ef5b9f2bdd3`
