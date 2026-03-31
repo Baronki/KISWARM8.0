@@ -5,6 +5,6 @@
   "nodes_discovered": 0,
   "nodes_recruited": 0,
   "services_fixed": 0,
-  "scans_completed": 40,
-  "cycles": 400
+  "scans_completed": 50,
+  "cycles": 500
 }
